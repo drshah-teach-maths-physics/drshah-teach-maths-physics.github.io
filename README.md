@@ -1,6 +1,6 @@
-# drshah.me ready-made static website
+# drshah.me
 
-This folder contains a complete static website for Dhairya R Shah.
+This repository contains the live professional website for Dhairya R Shah, Teacher of Mathematics and Applied Mathematician.
 
 ## Contents
 
@@ -18,11 +18,11 @@ This folder contains a complete static website for Dhairya R Shah.
 - `assets/js/site.js`
 - `robots.txt`, `sitemap.xml`, `CNAME`, `404.html`
 
-## Before publishing
+## Maintenance notes
 
 1. The homepage currently uses `assets/images/dhairya-r-shah-profile.jpg` from the supplied images. Replace it later with a formal professional headshot if desired.
-2. Review all dates and training status before the website goes live.
-3. Keep `contact@drshah.me` only if this mailbox is already working.
+2. Keep employment dates, qualifications and professional status current as the website develops.
+3. Keep professional contact details current.
 4. Do not add pupil photographs, pupil names, internal school documents or current pupil testimonials.
 5. Do not publish a CV PDF containing a phone number unless you deliberately want that phone number public.
 
@@ -32,4 +32,4 @@ Open `index.html` in a browser. The website requires no build step.
 
 ## Deployment
 
-When ready, this can be uploaded to any static host, including GitHub Pages, Netlify, Cloudflare Pages or a Namecheap hosting package. The included `CNAME` file is for GitHub Pages custom-domain use.
+The site is deployed through GitHub Pages at `https://drshah.me`. The included `CNAME` file provides the custom-domain configuration.
