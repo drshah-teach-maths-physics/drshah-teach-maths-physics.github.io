@@ -1578,3 +1578,599 @@ p {
     padding-bottom: 34px;
   }
 }
+
+/* STAGE 3 — EMPLOYER-FIRST HOMEPAGE */
+
+
+/* =========================================================
+   HERO
+   ========================================================= */
+
+.home-hero .hero-copy {
+  max-width: 760px;
+}
+
+.home-hero .lead {
+  max-width: 67ch;
+}
+
+.hero-supporting {
+  max-width: 70ch;
+  margin: 0;
+
+  color: #485563;
+
+  font-size: 1.03rem;
+  line-height: 1.68;
+}
+
+.home-profile-card {
+  align-self: start;
+}
+
+.home-profile-card .profile-name {
+  margin-bottom: 12px;
+
+  font-size: clamp(1.75rem, 2.6vw, 2.15rem);
+
+  white-space: nowrap;
+}
+
+.profile-highlights {
+  margin-bottom: 0;
+}
+
+.profile-highlights li {
+  line-height: 1.5;
+}
+
+
+/* =========================================================
+   SHARED HOMEPAGE DETAILS
+   ========================================================= */
+
+.home-section-heading {
+  max-width: 760px;
+}
+
+.home-section-heading > p:last-child {
+  max-width: 66ch;
+  color: var(--muted);
+}
+
+.section-link-row {
+  margin-top: 26px;
+}
+
+.text-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+
+  color: var(--navy);
+
+  font-weight: 750;
+
+  text-decoration-color: rgba(18, 35, 61, 0.32);
+}
+
+.text-link:hover {
+  color: var(--navy);
+  text-decoration-color: var(--gold);
+}
+
+
+/* =========================================================
+   IN MY CLASSROOM
+   ========================================================= */
+
+.practice-grid {
+  display: grid;
+
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+
+  gap: 15px;
+}
+
+.practice-card {
+  min-width: 0;
+
+  padding: 23px 20px;
+
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+
+  background: var(--paper);
+
+  box-shadow: 0 7px 22px rgba(18, 35, 61, 0.045);
+}
+
+.practice-number {
+  margin: 0 0 18px;
+
+  color: var(--gold);
+
+  font-family: "Source Serif 4", Georgia, serif;
+  font-size: 0.93rem;
+  font-weight: 700;
+}
+
+.practice-card h3 {
+  margin-bottom: 10px;
+
+  font-size: 1.2rem;
+}
+
+.practice-card p:last-child {
+  margin-bottom: 0;
+
+  color: #4c5965;
+
+  font-size: 0.94rem;
+  line-height: 1.6;
+}
+
+
+/* =========================================================
+   EXPERIENCE
+   ========================================================= */
+
+.home-experience-grid {
+  align-items: stretch;
+}
+
+.experience-preview-card {
+  height: 100%;
+}
+
+.experience-date {
+  margin: 0 0 9px;
+
+  color: var(--gold);
+
+  font-size: 0.82rem;
+  font-weight: 800;
+  letter-spacing: 0.035em;
+  text-transform: uppercase;
+}
+
+.experience-role {
+  margin: -6px 0 14px;
+
+  color: var(--slate);
+
+  font-size: 0.93rem;
+  font-weight: 700;
+}
+
+.impact-panel {
+  display: grid;
+
+  grid-template-columns: 120px minmax(0, 1fr);
+
+  gap: 24px;
+  align-items: center;
+
+  margin-top: 25px;
+  padding: 22px 25px;
+
+  border: 1px solid #e5d6b5;
+  border-radius: var(--radius);
+
+  background:
+    linear-gradient(
+      135deg,
+      #fffaf0 0%,
+      #fffdf9 100%
+    );
+}
+
+.impact-stat {
+  color: var(--navy);
+
+  font-family: "Source Serif 4", Georgia, serif;
+  font-size: 2.25rem;
+  font-weight: 700;
+  line-height: 1;
+
+  text-align: center;
+}
+
+.impact-label {
+  margin: 0 0 4px;
+
+  color: var(--gold);
+
+  font-size: 0.76rem;
+  font-weight: 800;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+}
+
+.impact-text {
+  max-width: 72ch;
+  margin: 0;
+
+  color: #384551;
+}
+
+
+/* =========================================================
+   MATHEMATICAL DEPTH / POST-16
+   ========================================================= */
+
+.home-depth-grid {
+  display: grid;
+
+  grid-template-columns:
+    minmax(0, 1.15fr)
+    minmax(320px, 0.85fr);
+
+  gap: 55px;
+  align-items: start;
+}
+
+.home-depth-grid > div > p {
+  max-width: 68ch;
+}
+
+.post16-card {
+  padding: 27px;
+
+  border: 1px solid var(--line);
+  border-radius: var(--radius-lg);
+
+  background:
+    linear-gradient(
+      145deg,
+      #f4f7f8 0%,
+      #ffffff 100%
+    );
+
+  box-shadow: var(--shadow-sm);
+}
+
+.post16-card h3 {
+  font-size: 1.55rem;
+}
+
+.post16-note {
+  margin-bottom: 0;
+  padding-top: 15px;
+
+  border-top: 1px solid var(--line);
+
+  color: var(--muted);
+
+  font-size: 0.85rem;
+  line-height: 1.55;
+}
+
+
+/* =========================================================
+   RESOURCES
+   ========================================================= */
+
+.resource-intro-card {
+  display: grid;
+
+  grid-template-columns: minmax(0, 1fr) auto;
+
+  gap: 40px;
+  align-items: center;
+
+  padding: 32px 34px;
+
+  border: 1px solid var(--line);
+  border-radius: var(--radius-lg);
+
+  background: var(--paper);
+
+  box-shadow: var(--shadow-sm);
+}
+
+.resource-intro-card h2 {
+  margin-bottom: 12px;
+}
+
+.resource-intro-card p:last-child {
+  max-width: 72ch;
+  margin-bottom: 0;
+}
+
+.resource-action {
+  min-width: 175px;
+}
+
+
+/* =========================================================
+   PROFESSIONAL CTA
+   ========================================================= */
+
+.professional-cta {
+  display: grid;
+
+  grid-template-columns: minmax(0, 1fr) auto;
+
+  gap: 44px;
+  align-items: center;
+
+  padding: 34px 36px;
+
+  border-radius: var(--radius-lg);
+
+  background:
+    linear-gradient(
+      135deg,
+      var(--navy) 0%,
+      #1d3858 100%
+    );
+
+  color: #e8edf3;
+
+  box-shadow: var(--shadow-md);
+}
+
+.professional-cta .eyebrow {
+  color: #e5bd67;
+}
+
+.professional-cta h2 {
+  color: #fff;
+}
+
+.professional-cta p {
+  max-width: 68ch;
+  margin-bottom: 0;
+
+  color: #d8e0e8;
+}
+
+.professional-cta-actions {
+  display: flex;
+  gap: 10px;
+}
+
+.professional-cta .button.primary {
+  border-color: #fff;
+
+  background: #fff;
+  color: var(--navy);
+}
+
+.professional-cta .button.primary:hover {
+  border-color: #fff;
+
+  background: #f2f5f7;
+  color: var(--navy);
+}
+
+.professional-cta .button:not(.primary) {
+  border-color: rgba(255, 255, 255, 0.35);
+
+  background: transparent;
+  color: #fff;
+
+  box-shadow: none;
+}
+
+.professional-cta .button:not(.primary):hover {
+  border-color: #fff;
+
+  background: rgba(255, 255, 255, 0.08);
+  color: #fff;
+}
+
+
+/* =========================================================
+   TABLET
+   ========================================================= */
+
+@media (max-width: 1100px) {
+
+  .practice-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+
+
+@media (max-width: 820px) {
+
+  .practice-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .home-depth-grid {
+    grid-template-columns: 1fr;
+    gap: 30px;
+  }
+
+  .resource-intro-card,
+  .professional-cta {
+    grid-template-columns: 1fr;
+  }
+
+  .resource-action {
+    min-width: 0;
+  }
+
+  .professional-cta-actions {
+    justify-content: flex-start;
+  }
+}
+
+
+/* =========================================================
+   MOBILE
+   ========================================================= */
+
+@media (max-width: 640px) {
+
+  .home-profile-card .profile-name {
+    white-space: normal;
+  }
+
+  .practice-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .practice-card {
+    padding: 20px;
+  }
+
+  .impact-panel {
+    grid-template-columns: 1fr;
+    gap: 13px;
+  }
+
+  .impact-stat {
+    text-align: left;
+  }
+
+  .resource-intro-card,
+  .professional-cta,
+  .post16-card {
+    padding: 23px;
+  }
+
+  .professional-cta-actions {
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+
+}
+
+
+/* END STAGE 3 — EMPLOYER-FIRST HOMEPAGE */
+
+/* STAGE 3.1 — HERO SPACING AND EXPERIENCE TITLE */
+
+
+/* ---------------------------------------------------------
+   HOMEPAGE HERO SPACING
+   --------------------------------------------------------- */
+
+/*
+   Stage 2 deliberately reduced the top gap to achieve the
+   previous symmetrical first-screen layout.
+
+   The Stage 3 homepage has a richer vertical structure, so a
+   modest amount of breathing room beneath the navigation now
+   gives the opening section a more natural professional layout.
+*/
+
+.home-hero {
+  padding-top: 24px;
+  padding-bottom: 24px;
+}
+
+
+/* ---------------------------------------------------------
+   EXPERIENCE PAGE TITLE
+   --------------------------------------------------------- */
+
+/*
+   "Experience and Training" should read as one heading on
+   normal desktop/tablet widths rather than being constrained
+   by the general page-heading max-width.
+*/
+
+.experience-page-title {
+  max-width: none;
+  white-space: nowrap;
+}
+
+
+/* ---------------------------------------------------------
+   TABLET
+   --------------------------------------------------------- */
+
+@media (max-width: 820px) {
+
+  .home-hero {
+    padding-top: 28px;
+    padding-bottom: 34px;
+  }
+
+  .experience-page-title {
+    max-width: none;
+    white-space: nowrap;
+  }
+}
+
+
+/* ---------------------------------------------------------
+   MOBILE
+   --------------------------------------------------------- */
+
+@media (max-width: 640px) {
+
+  .home-hero {
+    padding-top: 24px;
+    padding-bottom: 30px;
+  }
+
+  /*
+     On genuinely narrow phone screens, natural wrapping is
+     preferable to shrinking the heading excessively.
+  */
+
+  .experience-page-title {
+    max-width: 100%;
+    white-space: normal;
+  }
+}
+
+/* STAGE 3.2 — FULL FIRST-VIEW HOMEPAGE HERO */
+
+/*
+   Keep the opening homepage composition within the first viewport.
+   The next section should only become visible after the visitor
+   begins scrolling.
+*/
+
+@media (min-width: 821px) {
+
+  .home-hero {
+    min-height: calc(100svh - 82px);
+
+    display: flex;
+    align-items: center;
+
+    padding-top: 24px;
+    padding-bottom: 24px;
+  }
+
+  .home-hero > .container {
+    width: min(var(--max), calc(100% - 48px));
+  }
+}
+
+
+/*
+   Use the traditional viewport unit as a fallback for browsers
+   without support for svh.
+*/
+
+@supports not (height: 100svh) {
+
+  @media (min-width: 821px) {
+
+    .home-hero {
+      min-height: calc(100vh - 82px);
+    }
+  }
+}
+
+
+/*
+   On tablets and phones, do not force a full-screen hero because
+   vertical space is more limited and natural scrolling is preferable.
+*/
+
+@media (max-width: 820px) {
+
+  .home-hero {
+    min-height: auto;
+  }
+}
