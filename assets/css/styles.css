@@ -3527,10 +3527,6 @@ p {
   box-shadow: var(--shadow-sm);
 }
 
-.academic-qualification-primary {
-  border-top: 3px solid var(--gold);
-}
-
 .academic-date {
   margin: 0 0 7px;
 
@@ -3682,10 +3678,6 @@ p {
 /* =========================================================
    POST-16
    ========================================================= */
-
-.academic-post16-content {
-  max-width: 820px;
-}
 
 .academic-post16-content p {
   max-width: 70ch;
@@ -4152,10 +4144,6 @@ p {
   background: var(--paper);
 
   box-shadow: 0 7px 22px rgba(18, 35, 61, 0.04);
-}
-
-.cv-education-featured {
-  border-top: 3px solid var(--gold);
 }
 
 .cv-education-date,
