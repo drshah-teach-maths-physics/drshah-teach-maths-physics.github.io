@@ -1,0 +1,1266 @@
+[
+  {
+    "name": "1st Class Maths",
+    "description": "GCSE revision resources, practice papers, topic booklets and worked walkthroughs.",
+    "audience": "Students",
+    "category": "Mathematics",
+    "source": "1stclassmaths.com",
+    "page": "/resources/students/mathematics/#resource-1st-class-maths-1stclassmaths-com"
+  },
+  {
+    "name": "Access Maths",
+    "description": "GCSE Mathematics revision activities, visual resources and classroom-friendly practice materials.",
+    "audience": "Students",
+    "category": "Mathematics",
+    "source": "accessmaths.co.uk",
+    "page": "/resources/students/mathematics/#resource-access-maths-accessmaths-co-uk"
+  },
+  {
+    "name": "Ada Computer Science",
+    "description": "Free GCSE and A-level Computer Science resources and interactive study materials.",
+    "audience": "Further study",
+    "category": "Undergraduate resources",
+    "source": "adacomputerscience.org",
+    "page": "/resources/further-study/undergraduate-resources/#resource-ada-computer-science-adacomputerscience-org"
+  },
+  {
+    "name": "Advanced Mathematics Support Programme",
+    "description": "Post-16 Mathematics resources, including Core Maths, A-level Mathematics and Further Mathematics support.",
+    "audience": "Students",
+    "category": "Enrichment & admissions",
+    "source": "amsp.org.uk",
+    "page": "/resources/students/enrichment-admissions/#resource-advanced-mathematics-support-programme-amsp-org-uk"
+  },
+  {
+    "name": "Advanced Mathematics Support Programme",
+    "description": "",
+    "audience": "Teachers",
+    "category": "Classroom & curriculum resources",
+    "source": "amsp.org.uk",
+    "page": "/resources/teachers/classroom-curriculum/#resource-advanced-mathematics-support-programme-amsp-org-uk"
+  },
+  {
+    "name": "Anna Freud — Further Education Mental Health Resources",
+    "description": "Resources for supporting sixth-form and further-education students with mental health, exam stress and anxiety.",
+    "audience": "Students",
+    "category": "Wellbeing & study skills",
+    "source": "annafreud.org",
+    "page": "/resources/students/wellbeing-study-skills/#resource-anna-freud-further-education-mental-health-resources-annafreud-org"
+  },
+  {
+    "name": "Anna Freud — Revision and Self-care",
+    "description": "Guidance on revision, self-care and feeling more in control during exam preparation.",
+    "audience": "Students",
+    "category": "Wellbeing & study skills",
+    "source": "annafreud.org",
+    "page": "/resources/students/wellbeing-study-skills/#resource-anna-freud-revision-and-self-care-annafreud-org"
+  },
+  {
+    "name": "AoPS Competition Resources",
+    "description": "International mathematics competition resources; useful for advanced enrichment, though not specifically UK-curriculum focused.",
+    "audience": "Students",
+    "category": "Enrichment & admissions",
+    "source": "artofproblemsolving.com",
+    "page": "/resources/students/enrichment-admissions/#resource-aops-competition-resources-artofproblemsolving-com"
+  },
+  {
+    "name": "AQA Past Papers and Mark Schemes",
+    "description": "Official AQA past-paper and mark-scheme search for GCSE, AS and A-level qualifications.",
+    "audience": "Students",
+    "category": "Exams & past papers",
+    "source": "aqa.org.uk",
+    "page": "/resources/students/exams-past-papers/#resource-aqa-past-papers-and-mark-schemes-aqa-org-uk"
+  },
+  {
+    "name": "arXiv",
+    "description": "Open-access preprint repository for Mathematics, Physics, Computer Science and related fields.",
+    "audience": "Further study",
+    "category": "Research & academic search",
+    "source": "arxiv.org",
+    "page": "/resources/further-study/research-academic-search/#resource-arxiv-arxiv-org"
+  },
+  {
+    "name": "BBC Bitesize",
+    "description": "Accessible school-level revision and explanation resources, including KS3 and GCSE materials.",
+    "audience": "Students",
+    "category": "Study & revision",
+    "source": "bbc.co.uk",
+    "page": "/resources/students/study-revision/#resource-bbc-bitesize-bbc-co-uk"
+  },
+  {
+    "name": "Bicen Maths",
+    "description": "A-level Mathematics and Further Mathematics resources, including topic booklets and practice material.",
+    "audience": "Students",
+    "category": "Mathematics",
+    "source": "bicenmaths.uk",
+    "page": "/resources/students/mathematics/#resource-bicen-maths-bicenmaths-uk"
+  },
+  {
+    "name": "BPhO Intermediate Physics Challenge",
+    "description": "Official Intermediate Physics Challenge past papers and resources.",
+    "audience": "Students",
+    "category": "Enrichment & admissions",
+    "source": "bpho.org.uk",
+    "page": "/resources/students/enrichment-admissions/#resource-bpho-intermediate-physics-challenge-bpho-org-uk"
+  },
+  {
+    "name": "BPhO Question Bank",
+    "description": "Searchable bank of BPhO-style questions, mark schemes and solutions.",
+    "audience": "Students",
+    "category": "Enrichment & admissions",
+    "source": "bpho.org.uk",
+    "page": "/resources/students/enrichment-admissions/#resource-bpho-question-bank-bpho-org-uk"
+  },
+  {
+    "name": "BPhO Round 1 Papers",
+    "description": "Official BPhO Round 1 past papers and supporting materials.",
+    "audience": "Students",
+    "category": "Enrichment & admissions",
+    "source": "bpho.org.uk",
+    "page": "/resources/students/enrichment-admissions/#resource-bpho-round-1-papers-bpho-org-uk"
+  },
+  {
+    "name": "BPhO Senior Physics Challenge",
+    "description": "Official Senior Physics Challenge past papers and resources.",
+    "audience": "Students",
+    "category": "Enrichment & admissions",
+    "source": "bpho.org.uk",
+    "page": "/resources/students/enrichment-admissions/#resource-bpho-senior-physics-challenge-bpho-org-uk"
+  },
+  {
+    "name": "British Physics Olympiad",
+    "description": "Official British Physics Olympiad website, including competitions, preparation routes and past-paper links.",
+    "audience": "Students",
+    "category": "Enrichment & admissions",
+    "source": "bpho.org.uk",
+    "page": "/resources/students/enrichment-admissions/#resource-british-physics-olympiad-bpho-org-uk"
+  },
+  {
+    "name": "Cambridge International Past Papers",
+    "description": "Official Cambridge International past-paper route for IGCSE and related qualifications.",
+    "audience": "Students",
+    "category": "Exams & past papers",
+    "source": "cambridgeinternational.org",
+    "page": "/resources/students/exams-past-papers/#resource-cambridge-international-past-papers-cambridgeinternational-org"
+  },
+  {
+    "name": "Cambridge STEP Information",
+    "description": "Official Cambridge information about STEP and Mathematics admissions preparation.",
+    "audience": "Students",
+    "category": "Enrichment & admissions",
+    "source": "maths.cam.ac.uk",
+    "page": "/resources/students/enrichment-admissions/#resource-cambridge-step-information-maths-cam-ac-uk"
+  },
+  {
+    "name": "Cambridge Tripos Notes Archive",
+    "description": "Advanced unofficial Cambridge Mathematical Tripos notes and resources; suitable for serious undergraduate-level enrichment.",
+    "audience": "Further study",
+    "category": "Undergraduate resources",
+    "source": "at2027.user.srcf.net",
+    "page": "/resources/further-study/undergraduate-resources/#resource-cambridge-tripos-notes-archive-at2027-user-srcf-net"
+  },
+  {
+    "name": "Chartered College of Teaching",
+    "description": "",
+    "audience": "Teachers",
+    "category": "Teacher training & ECT",
+    "source": "chartered.college",
+    "page": "/resources/teachers/teacher-training-ect/#resource-chartered-college-of-teaching-chartered-college"
+  },
+  {
+    "name": "Childline — Exam Stress and Pressure",
+    "description": "Advice for young people on exam stress, pressure, worries and support options.",
+    "audience": "Students",
+    "category": "Wellbeing & study skills",
+    "source": "childline.org.uk",
+    "page": "/resources/students/wellbeing-study-skills/#resource-childline-exam-stress-and-pressure-childline-org-uk"
+  },
+  {
+    "name": "Childline — Preparing for Exams",
+    "description": "Practical exam-preparation advice, including revision planning, equipment, breakfast, breathing and arriving on time.",
+    "audience": "Students",
+    "category": "Wellbeing & study skills",
+    "source": "childline.org.uk",
+    "page": "/resources/students/wellbeing-study-skills/#resource-childline-preparing-for-exams-childline-org-uk"
+  },
+  {
+    "name": "Cognito",
+    "description": "Free/freemium revision resources for Maths and Science, including videos, quizzes and exam-style practice.",
+    "audience": "Students",
+    "category": "Study & revision",
+    "source": "cognitoedu.org",
+    "page": "/resources/students/study-revision/#resource-cognito-cognitoedu-org"
+  },
+  {
+    "name": "Corbettmaths",
+    "description": "Videos, worksheets, revision cards, practice questions and 5-a-day Mathematics resources.",
+    "audience": "Students",
+    "category": "Mathematics",
+    "source": "corbettmaths.com",
+    "page": "/resources/students/mathematics/#resource-corbettmaths-corbettmaths-com"
+  },
+  {
+    "name": "CORE",
+    "description": "Aggregator of open-access research outputs from repositories and journals.",
+    "audience": "Further study",
+    "category": "Research & academic search",
+    "source": "core.ac.uk",
+    "page": "/resources/further-study/research-academic-search/#resource-core-core-ac-uk"
+  },
+  {
+    "name": "Craig ’n’ Dave",
+    "description": "GCSE, IGCSE and A-level Computer Science videos, resources and study support.",
+    "audience": "Further study",
+    "category": "Undergraduate resources",
+    "source": "craigndave.org",
+    "page": "/resources/further-study/undergraduate-resources/#resource-craig-n-dave-craigndave-org"
+  },
+  {
+    "name": "David Tong’s Lecture Notes",
+    "description": "Advanced lecture notes in theoretical physics, mathematical physics and related areas.",
+    "audience": "Further study",
+    "category": "Undergraduate resources",
+    "source": "damtp.cam.ac.uk",
+    "page": "/resources/further-study/undergraduate-resources/#resource-david-tongs-lecture-notes-damtp-cam-ac-uk"
+  },
+  {
+    "name": "Deans for Impact — The Science of Learning",
+    "description": "",
+    "audience": "Teachers",
+    "category": "Evidence-informed teaching",
+    "source": "deansforimpact.org",
+    "page": "/resources/teachers/evidence-informed-teaching/#resource-deans-for-impact-the-science-of-learning-deansforimpact-org"
+  },
+  {
+    "name": "Desmos",
+    "description": "Free graphing calculator and visualisation tool for functions, equations and mathematical relationships.",
+    "audience": "Further study",
+    "category": "Academic & digital tools",
+    "source": "desmos.com",
+    "page": "/resources/further-study/academic-digital-tools/#resource-desmos-desmos-com"
+  },
+  {
+    "name": "Dexter Chua’s Cambridge Notes",
+    "description": "Unofficial Cambridge Mathematical Tripos notes across a wide range of undergraduate Mathematics topics.",
+    "audience": "Further study",
+    "category": "Undergraduate resources",
+    "source": "dec41.user.srcf.net",
+    "page": "/resources/further-study/undergraduate-resources/#resource-dexter-chuas-cambridge-notes-dec41-user-srcf-net"
+  },
+  {
+    "name": "DfE Behaviour in Schools Guidance",
+    "description": "",
+    "audience": "Teachers",
+    "category": "Safeguarding & statutory guidance",
+    "source": "gov.uk",
+    "page": "/resources/teachers/safeguarding-statutory/#resource-dfe-behaviour-in-schools-guidance-gov-uk"
+  },
+  {
+    "name": "DfE Statutory Guidance for Schools",
+    "description": "",
+    "audience": "Teachers",
+    "category": "Safeguarding & statutory guidance",
+    "source": "gov.uk",
+    "page": "/resources/teachers/safeguarding-statutory/#resource-dfe-statutory-guidance-for-schools-gov-uk"
+  },
+  {
+    "name": "Directory of Open Access Books",
+    "description": "Directory of open-access academic books from a range of publishers and disciplines.",
+    "audience": "Further study",
+    "category": "Open books",
+    "source": "doabooks.org",
+    "page": "/resources/further-study/open-books/#resource-directory-of-open-access-books-doabooks-org"
+  },
+  {
+    "name": "Directory of Open Access Journals",
+    "description": "Searchable directory of peer-reviewed open-access journals.",
+    "audience": "Further study",
+    "category": "Research & academic search",
+    "source": "doaj.org",
+    "page": "/resources/further-study/research-academic-search/#resource-directory-of-open-access-journals-doaj-org"
+  },
+  {
+    "name": "Dr Austin Maths",
+    "description": "Free-to-use GCSE and IGCSE Mathematics teaching and revision resources.",
+    "audience": "Students",
+    "category": "Mathematics",
+    "source": "draustinmaths.com",
+    "page": "/resources/students/mathematics/#resource-dr-austin-maths-draustinmaths-com"
+  },
+  {
+    "name": "Dr Frost Maths",
+    "description": "Mathematics platform with videos, exam-style questions, tasks and question generators.",
+    "audience": "Students",
+    "category": "Mathematics",
+    "source": "drfrost.org",
+    "page": "/resources/students/mathematics/#resource-dr-frost-maths-drfrost-org"
+  },
+  {
+    "name": "EEF Guidance Reports",
+    "description": "",
+    "audience": "Teachers",
+    "category": "Classroom & curriculum resources",
+    "source": "educationendowmentfoundation.org.uk",
+    "page": "/resources/teachers/classroom-curriculum/#resource-eef-guidance-reports-educationendowmentfoundation-org-uk"
+  },
+  {
+    "name": "EEF Teaching and Learning Toolkit",
+    "description": "",
+    "audience": "Teachers",
+    "category": "Evidence-informed teaching",
+    "source": "educationendowmentfoundation.org.uk",
+    "page": "/resources/teachers/evidence-informed-teaching/#resource-eef-teaching-and-learning-toolkit-educationendowmentfoundation-org-uk"
+  },
+  {
+    "name": "Effective Professional Development",
+    "description": "",
+    "audience": "Teachers",
+    "category": "Evidence-informed teaching",
+    "source": "educationendowmentfoundation.org.uk",
+    "page": "/resources/teachers/evidence-informed-teaching/#resource-effective-professional-development-educationendowmentfoundation-org-uk"
+  },
+  {
+    "name": "Evan Chen’s Olympiad Resources",
+    "description": "Advanced Olympiad-style resources, particularly useful for serious mathematical enrichment and proof-based problem-solving.",
+    "audience": "Students",
+    "category": "Enrichment & admissions",
+    "source": "web.evanchen.cc",
+    "page": "/resources/students/enrichment-admissions/#resource-evan-chens-olympiad-resources-web-evanchen-cc"
+  },
+  {
+    "name": "ExamQ",
+    "description": "Searchable Edexcel GCSE and A-level Mathematics past-paper questions by topic, paper and year, with mark schemes.",
+    "audience": "Students",
+    "category": "Exams & past papers",
+    "source": "examq.co.uk",
+    "page": "/resources/students/exams-past-papers/#resource-examq-examq-co-uk"
+  },
+  {
+    "name": "ExamSolutions",
+    "description": "A-level Mathematics worked examples and video support; some areas may include commercial or freemium features.",
+    "audience": "Students",
+    "category": "Mathematics",
+    "source": "examsolutions.net",
+    "page": "/resources/students/mathematics/#resource-examsolutions-examsolutions-net"
+  },
+  {
+    "name": "Feedback",
+    "description": "",
+    "audience": "Teachers",
+    "category": "Evidence-informed teaching",
+    "source": "educationendowmentfoundation.org.uk",
+    "page": "/resources/teachers/evidence-informed-teaching/#resource-feedback-educationendowmentfoundation-org-uk"
+  },
+  {
+    "name": "freeCodeCamp",
+    "description": "Free programming, web development, data and software-development courses and tutorials.",
+    "audience": "Further study",
+    "category": "Undergraduate resources",
+    "source": "freecodecamp.org",
+    "page": "/resources/further-study/undergraduate-resources/#resource-freecodecamp-freecodecamp-org"
+  },
+  {
+    "name": "FreeScienceLessons",
+    "description": "GCSE Science video lessons and revision support; some additional features may be freemium.",
+    "audience": "Students",
+    "category": "Physics & Science",
+    "source": "freesciencelessons.co.uk",
+    "page": "/resources/students/physics-science/#resource-freesciencelessons-freesciencelessons-co-uk"
+  },
+  {
+    "name": "GeoGebra",
+    "description": "Dynamic Mathematics software for geometry, algebra, graphing, calculus and classroom visualisation.",
+    "audience": "Further study",
+    "category": "Academic & digital tools",
+    "source": "geogebra.org",
+    "page": "/resources/further-study/academic-digital-tools/#resource-geogebra-geogebra-org"
+  },
+  {
+    "name": "Git",
+    "description": "Version-control system useful for code, documents, research projects and collaborative academic work.",
+    "audience": "Further study",
+    "category": "Academic & digital tools",
+    "source": "git-scm.com",
+    "page": "/resources/further-study/academic-digital-tools/#resource-git-git-scm-com"
+  },
+  {
+    "name": "GitHub",
+    "description": "Platform for hosting code, documentation, websites and collaborative technical projects.",
+    "audience": "Further study",
+    "category": "Academic & digital tools",
+    "source": "github.com",
+    "page": "/resources/further-study/academic-digital-tools/#resource-github-github-com"
+  },
+  {
+    "name": "Google Scholar",
+    "description": "Academic search tool for scholarly literature, citations and research discovery.",
+    "audience": "Further study",
+    "category": "Research & academic search",
+    "source": "scholar.google.com",
+    "page": "/resources/further-study/research-academic-search/#resource-google-scholar-scholar-google-com"
+  },
+  {
+    "name": "Google Scholar",
+    "description": "",
+    "audience": "Further study",
+    "category": "Research & academic search",
+    "source": "scholar.google.com",
+    "page": "/resources/further-study/research-academic-search/#resource-google-scholar-scholar-google-com"
+  },
+  {
+    "name": "Great Teaching Toolkit Evidence Review",
+    "description": "",
+    "audience": "Teachers",
+    "category": "Evidence-informed teaching",
+    "source": "cambridgeinternational.org",
+    "page": "/resources/teachers/evidence-informed-teaching/#resource-great-teaching-toolkit-evidence-review-cambridgeinternational-org"
+  },
+  {
+    "name": "Haiyang Zhu’s Cambridge Notes",
+    "description": "Unofficial Cambridge lecture notes and mathematical resources, useful for advanced undergraduate study.",
+    "audience": "Further study",
+    "category": "Undergraduate resources",
+    "source": "hz430.user.srcf.net",
+    "page": "/resources/further-study/undergraduate-resources/#resource-haiyang-zhus-cambridge-notes-hz430-user-srcf-net"
+  },
+  {
+    "name": "Harvard CS50x",
+    "description": "Introductory Computer Science course covering programming, algorithms, data structures, software engineering and web development.",
+    "audience": "Further study",
+    "category": "Undergraduate resources",
+    "source": "cs50.harvard.edu",
+    "page": "/resources/further-study/undergraduate-resources/#resource-harvard-cs50x-cs50-harvard-edu"
+  },
+  {
+    "name": "HyperPhysics",
+    "description": "Physics concept-map reference site; useful as a quick conceptual reference, though older in design.",
+    "audience": "Further study",
+    "category": "Undergraduate resources",
+    "source": "hyperphysics.phy-astr.gsu.edu",
+    "page": "/resources/further-study/undergraduate-resources/#resource-hyperphysics-hyperphysics-phy-astr-gsu-edu"
+  },
+  {
+    "name": "Improving Behaviour in Schools",
+    "description": "",
+    "audience": "Teachers",
+    "category": "Evidence-informed teaching",
+    "source": "educationendowmentfoundation.org.uk",
+    "page": "/resources/teachers/evidence-informed-teaching/#resource-improving-behaviour-in-schools-educationendowmentfoundation-org-uk"
+  },
+  {
+    "name": "Improving Mathematics in Key Stages 2 and 3",
+    "description": "",
+    "audience": "Teachers",
+    "category": "Evidence-informed teaching",
+    "source": "educationendowmentfoundation.org.uk",
+    "page": "/resources/teachers/evidence-informed-teaching/#resource-improving-mathematics-in-key-stages-2-and-3-educationendowmentfoundation-org-uk"
+  },
+  {
+    "name": "Initial Teacher Training and Early Career Framework",
+    "description": "",
+    "audience": "Teachers",
+    "category": "Teacher training & ECT",
+    "source": "gov.uk",
+    "page": "/resources/teachers/teacher-training-ect/#resource-initial-teacher-training-and-early-career-framework-gov-uk"
+  },
+  {
+    "name": "Internet Archive",
+    "description": "Digital library of books, media, historical materials and archived web resources.",
+    "audience": "Further study",
+    "category": "Open books",
+    "source": "archive.org",
+    "page": "/resources/further-study/open-books/#resource-internet-archive-archive-org"
+  },
+  {
+    "name": "Internet Archive Scholar",
+    "description": "Search tool for scholarly materials preserved by the Internet Archive.",
+    "audience": "Further study",
+    "category": "Research & academic search",
+    "source": "scholar.archive.org",
+    "page": "/resources/further-study/research-academic-search/#resource-internet-archive-scholar-scholar-archive-org"
+  },
+  {
+    "name": "IOP Spark",
+    "description": "",
+    "audience": "Teachers",
+    "category": "Subject professional development",
+    "source": "spark.iop.org",
+    "page": "/resources/teachers/subject-professional-development/#resource-iop-spark-spark-iop-org"
+  },
+  {
+    "name": "Isaac Computer Science",
+    "description": "Free online GCSE and A-level Computer Science platform for students and teachers.",
+    "audience": "Further study",
+    "category": "Undergraduate resources",
+    "source": "isaaccomputerscience.org",
+    "page": "/resources/further-study/undergraduate-resources/#resource-isaac-computer-science-isaaccomputerscience-org"
+  },
+  {
+    "name": "Isaac Science / Isaac Physics",
+    "description": "Free Physics, Mathematics, Chemistry and Biology resources for Years 7–13, with strong problem-solving emphasis.",
+    "audience": "Students",
+    "category": "Physics & Science",
+    "source": "isaacscience.org",
+    "page": "/resources/students/physics-science/#resource-isaac-science-isaac-physics-isaacscience-org"
+  },
+  {
+    "name": "JSTOR Open Content",
+    "description": "Openly accessible journal articles, books and primary sources available through JSTOR.",
+    "audience": "Further study",
+    "category": "Research & academic search",
+    "source": "jstor.org",
+    "page": "/resources/further-study/research-academic-search/#resource-jstor-open-content-jstor-org"
+  },
+  {
+    "name": "Jupyter",
+    "description": "Interactive notebooks for programming, data analysis, mathematical exploration and computational teaching.",
+    "audience": "Further study",
+    "category": "Academic & digital tools",
+    "source": "jupyter.org",
+    "page": "/resources/further-study/academic-digital-tools/#resource-jupyter-jupyter-org"
+  },
+  {
+    "name": "Keeping Children Safe in Education",
+    "description": "",
+    "audience": "Teachers",
+    "category": "Safeguarding & statutory guidance",
+    "source": "gov.uk",
+    "page": "/resources/teachers/safeguarding-statutory/#resource-keeping-children-safe-in-education-gov-uk"
+  },
+  {
+    "name": "Khan Academy",
+    "description": "Broad free learning platform covering Mathematics, Physics, programming and other subjects.",
+    "audience": "Students",
+    "category": "Study & revision",
+    "source": "khanacademy.org",
+    "page": "/resources/students/study-revision/#resource-khan-academy-khanacademy-org"
+  },
+  {
+    "name": "LaTeX Project",
+    "description": "Typesetting system widely used for Mathematics, Physics, Computer Science and academic writing.",
+    "audience": "Further study",
+    "category": "Academic & digital tools",
+    "source": "latex-project.org",
+    "page": "/resources/further-study/academic-digital-tools/#resource-latex-project-latex-project-org"
+  },
+  {
+    "name": "LinkedIn",
+    "description": "",
+    "audience": "Further study",
+    "category": "Academic & digital tools",
+    "source": "linkedin.com",
+    "page": "/resources/further-study/academic-digital-tools/#resource-linkedin-linkedin-com"
+  },
+  {
+    "name": "Mathigon",
+    "description": "Interactive Mathematics courses, manipulatives, puzzles and visual learning materials.",
+    "audience": "Students",
+    "category": "Mathematics",
+    "source": "mathigon.org",
+    "page": "/resources/students/mathematics/#resource-mathigon-mathigon-org"
+  },
+  {
+    "name": "Maths Genie",
+    "description": "Student-friendly GCSE and A-level Mathematics revision, including videos, practice questions and papers.",
+    "audience": "Students",
+    "category": "Mathematics",
+    "source": "mathsgenie.co.uk",
+    "page": "/resources/students/mathematics/#resource-maths-genie-mathsgenie-co-uk"
+  },
+  {
+    "name": "Maths Hubs",
+    "description": "",
+    "audience": "Teachers",
+    "category": "Subject professional development",
+    "source": "ncetm.org.uk",
+    "page": "/resources/teachers/subject-professional-development/#resource-maths-hubs-ncetm-org-uk"
+  },
+  {
+    "name": "Maths4Everyone",
+    "description": "Interactive activities, worksheets and quizzes supporting Mathematics practice and fluency.",
+    "audience": "Students",
+    "category": "Mathematics",
+    "source": "maths4everyone.com",
+    "page": "/resources/students/mathematics/#resource-maths4everyone-maths4everyone-com"
+  },
+  {
+    "name": "MathsBot",
+    "description": "Mathematics tools, manipulatives, question generators and classroom-style practice resources.",
+    "audience": "Students",
+    "category": "Mathematics",
+    "source": "mathsbot.com",
+    "page": "/resources/students/mathematics/#resource-mathsbot-mathsbot-com"
+  },
+  {
+    "name": "Mentally Healthy Schools — Managing Exam Stress",
+    "description": "Tips and guidance for staff, parents and carers supporting young people through exam periods.",
+    "audience": "Students",
+    "category": "Wellbeing & study skills",
+    "source": "mentallyhealthyschools.org.uk",
+    "page": "/resources/students/wellbeing-study-skills/#resource-mentally-healthy-schools-managing-exam-stress-mentallyhealthyschools-org-uk"
+  },
+  {
+    "name": "Metacognition and Self-Regulated Learning",
+    "description": "",
+    "audience": "Teachers",
+    "category": "Evidence-informed teaching",
+    "source": "educationendowmentfoundation.org.uk",
+    "page": "/resources/teachers/evidence-informed-teaching/#resource-metacognition-and-self-regulated-learning-educationendowmentfoundation-org-uk"
+  },
+  {
+    "name": "Mind — Exam Stress",
+    "description": "Guidance for young people on exam stress, mental health, coping strategies and getting support.",
+    "audience": "Students",
+    "category": "Wellbeing & study skills",
+    "source": "mind.org.uk",
+    "page": "/resources/students/wellbeing-study-skills/#resource-mind-exam-stress-mind-org-uk"
+  },
+  {
+    "name": "MIT OpenCourseWare — Computer Science",
+    "description": "Open MIT materials in Computer Science, programming, algorithms, systems and electrical engineering.",
+    "audience": "Further study",
+    "category": "Undergraduate resources",
+    "source": "ocw.mit.edu",
+    "page": "/resources/further-study/undergraduate-resources/#resource-mit-opencourseware-computer-science-ocw-mit-edu"
+  },
+  {
+    "name": "MIT OpenCourseWare — Differential Equations",
+    "description": "Open MIT course materials for differential equations, particularly relevant to applied Mathematics and Physics.",
+    "audience": "Further study",
+    "category": "Undergraduate resources",
+    "source": "ocw.mit.edu",
+    "page": "/resources/further-study/undergraduate-resources/#resource-mit-opencourseware-differential-equations-ocw-mit-edu"
+  },
+  {
+    "name": "MIT OpenCourseWare — Mathematics",
+    "description": "Open MIT Mathematics course materials suitable for serious undergraduate-level study.",
+    "audience": "Further study",
+    "category": "Undergraduate resources",
+    "source": "ocw.mit.edu",
+    "page": "/resources/further-study/undergraduate-resources/#resource-mit-opencourseware-mathematics-ocw-mit-edu"
+  },
+  {
+    "name": "MIT OpenCourseWare — Physics",
+    "description": "Open MIT Physics course materials, including mechanics, electromagnetism, quantum physics and related topics.",
+    "audience": "Further study",
+    "category": "Undergraduate resources",
+    "source": "ocw.mit.edu",
+    "page": "/resources/further-study/undergraduate-resources/#resource-mit-opencourseware-physics-ocw-mit-edu"
+  },
+  {
+    "name": "MME Revise / Maths Made Easy",
+    "description": "Revision worksheets, practice questions and videos for KS3, GCSE and A-level Mathematics.",
+    "audience": "Students",
+    "category": "Mathematics",
+    "source": "mmerevise.co.uk",
+    "page": "/resources/students/mathematics/#resource-mme-revise-maths-made-easy-mmerevise-co-uk"
+  },
+  {
+    "name": "Mr Barton Maths",
+    "description": "",
+    "audience": "Teachers",
+    "category": "Classroom & curriculum resources",
+    "source": "mrbartonmaths.com",
+    "page": "/resources/teachers/classroom-curriculum/#resource-mr-barton-maths-mrbartonmaths-com"
+  },
+  {
+    "name": "NCETM",
+    "description": "",
+    "audience": "Teachers",
+    "category": "Subject professional development",
+    "source": "ncetm.org.uk",
+    "page": "/resources/teachers/subject-professional-development/#resource-ncetm-ncetm-org-uk"
+  },
+  {
+    "name": "NHS — Tips on Preparing for Exams",
+    "description": "Practical advice on exam preparation, feeling overwhelmed, breathing, exam-day routines and looking after yourself during revision periods.",
+    "audience": "Students",
+    "category": "Wellbeing & study skills",
+    "source": "nhs.uk",
+    "page": "/resources/students/wellbeing-study-skills/#resource-nhs-tips-on-preparing-for-exams-nhs-uk"
+  },
+  {
+    "name": "NIST Digital Library of Mathematical Functions",
+    "description": "Advanced mathematical reference for special functions, asymptotics, numerical methods and applied mathematics.",
+    "audience": "Further study",
+    "category": "Undergraduate resources",
+    "source": "dlmf.nist.gov",
+    "page": "/resources/further-study/undergraduate-resources/#resource-nist-digital-library-of-mathematical-functions-dlmf-nist-gov"
+  },
+  {
+    "name": "NRICH",
+    "description": "Cambridge-based problem-solving resources for pupils and teachers, supporting mathematical reasoning and enrichment.",
+    "audience": "Students",
+    "category": "Enrichment & admissions",
+    "source": "nrich.maths.org",
+    "page": "/resources/students/enrichment-admissions/#resource-nrich-nrich-maths-org"
+  },
+  {
+    "name": "Oak National Academy",
+    "description": "Free curriculum resources across school subjects, including Mathematics, Science and Computing.",
+    "audience": "Students",
+    "category": "Study & revision",
+    "source": "thenational.academy",
+    "page": "/resources/students/study-revision/#resource-oak-national-academy-thenational-academy"
+  },
+  {
+    "name": "OAPEN",
+    "description": "Open-access academic books, especially useful for scholarly reading and research contexts.",
+    "audience": "Further study",
+    "category": "Open books",
+    "source": "oapen.org",
+    "page": "/resources/further-study/open-books/#resource-oapen-oapen-org"
+  },
+  {
+    "name": "OCR Past Paper Finder",
+    "description": "Official OCR past-paper finder for GCSE, AS and A-level qualifications.",
+    "audience": "Students",
+    "category": "Exams & past papers",
+    "source": "ocr.org.uk",
+    "page": "/resources/students/exams-past-papers/#resource-ocr-past-paper-finder-ocr-org-uk"
+  },
+  {
+    "name": "Ofsted Mathematics Subject Report",
+    "description": "",
+    "audience": "Teachers",
+    "category": "Subject professional development",
+    "source": "gov.uk",
+    "page": "/resources/teachers/subject-professional-development/#resource-ofsted-mathematics-subject-report-gov-uk"
+  },
+  {
+    "name": "Open Access Texts — Mathematics",
+    "description": "Open-access undergraduate Mathematics textbook directory.",
+    "audience": "Further study",
+    "category": "Open books",
+    "source": "openaccesstexts.com",
+    "page": "/resources/further-study/open-books/#resource-open-access-texts-mathematics-openaccesstexts-com"
+  },
+  {
+    "name": "Open Data Structures",
+    "description": "Free and open data structures and algorithms textbook with source code.",
+    "audience": "Further study",
+    "category": "Open books",
+    "source": "opendatastructures.org",
+    "page": "/resources/further-study/open-books/#resource-open-data-structures-opendatastructures-org"
+  },
+  {
+    "name": "Open Logic Project",
+    "description": "Open-source advanced logic materials, useful for proof, logic and computation pathways.",
+    "audience": "Further study",
+    "category": "Open books",
+    "source": "openlogicproject.org",
+    "page": "/resources/further-study/open-books/#resource-open-logic-project-openlogicproject-org"
+  },
+  {
+    "name": "Open Source Society University — Computer Science",
+    "description": "Ambitious self-study Computer Science curriculum using freely available online courses and resources.",
+    "audience": "Further study",
+    "category": "Academic & digital tools",
+    "source": "github.com",
+    "page": "/resources/further-study/academic-digital-tools/#resource-open-source-society-university-computer-science-github-com"
+  },
+  {
+    "name": "Open Textbook Library — Mathematics",
+    "description": "Directory of open textbooks in undergraduate Mathematics and related subjects.",
+    "audience": "Further study",
+    "category": "Open books",
+    "source": "open.umn.edu",
+    "page": "/resources/further-study/open-books/#resource-open-textbook-library-mathematics-open-umn-edu"
+  },
+  {
+    "name": "OpenDSA",
+    "description": "Open materials for data structures, algorithms and related Computer Science courses.",
+    "audience": "Further study",
+    "category": "Undergraduate resources",
+    "source": "opendsa-server.cs.vt.edu",
+    "page": "/resources/further-study/undergraduate-resources/#resource-opendsa-opendsa-server-cs-vt-edu"
+  },
+  {
+    "name": "OpenLearn — Open University",
+    "description": "Free Open University courses, articles and activities, including material in Science, Mathematics and Technology.",
+    "audience": "Students",
+    "category": "Study & revision",
+    "source": "open.edu",
+    "page": "/resources/students/study-revision/#resource-openlearn-open-university-open-edu"
+  },
+  {
+    "name": "OpenStax Calculus",
+    "description": "Free online and PDF calculus textbook series, useful for transition to undergraduate calculus.",
+    "audience": "Further study",
+    "category": "Open books",
+    "source": "openstax.org",
+    "page": "/resources/further-study/open-books/#resource-openstax-calculus-openstax-org"
+  },
+  {
+    "name": "OpenStax College Physics",
+    "description": "Free algebra-based Physics textbook suitable for broad school-to-university transition study.",
+    "audience": "Further study",
+    "category": "Open books",
+    "source": "openstax.org",
+    "page": "/resources/further-study/open-books/#resource-openstax-college-physics-openstax-org"
+  },
+  {
+    "name": "OpenStax University Physics",
+    "description": "Free calculus-based Physics textbook series suitable for undergraduate-level study.",
+    "audience": "Further study",
+    "category": "Open books",
+    "source": "openstax.org",
+    "page": "/resources/further-study/open-books/#resource-openstax-university-physics-openstax-org"
+  },
+  {
+    "name": "ORCID",
+    "description": "",
+    "audience": "Further study",
+    "category": "Academic & digital tools",
+    "source": "orcid.org",
+    "page": "/resources/further-study/academic-digital-tools/#resource-orcid-orcid-org"
+  },
+  {
+    "name": "Overleaf",
+    "description": "Online LaTeX editor for collaborative academic writing, mathematical documents and presentations.",
+    "audience": "Further study",
+    "category": "Academic & digital tools",
+    "source": "overleaf.com",
+    "page": "/resources/further-study/academic-digital-tools/#resource-overleaf-overleaf-com"
+  },
+  {
+    "name": "Oxford MAT",
+    "description": "Official Oxford Mathematics Admissions Test information, past papers, solutions and feedback.",
+    "audience": "Students",
+    "category": "Enrichment & admissions",
+    "source": "maths.ox.ac.uk",
+    "page": "/resources/students/enrichment-admissions/#resource-oxford-mat-maths-ox-ac-uk"
+  },
+  {
+    "name": "Oxford MAT Syllabus Practice",
+    "description": "Official MAT prerequisite and syllabus practice questions for admissions preparation.",
+    "audience": "Students",
+    "category": "Enrichment & admissions",
+    "source": "maths.ox.ac.uk",
+    "page": "/resources/students/enrichment-admissions/#resource-oxford-mat-syllabus-practice-maths-ox-ac-uk"
+  },
+  {
+    "name": "Oxford PAT Past Papers",
+    "description": "Official Oxford PAT past papers retained as useful historical preparation material.",
+    "audience": "Students",
+    "category": "Enrichment & admissions",
+    "source": "physics.ox.ac.uk",
+    "page": "/resources/students/enrichment-admissions/#resource-oxford-pat-past-papers-physics-ox-ac-uk"
+  },
+  {
+    "name": "Oxford PAT Solutions",
+    "description": "Unofficial free PAT solutions website; useful for additional practice, but not an official Oxford resource.",
+    "audience": "Students",
+    "category": "Enrichment & admissions",
+    "source": "oxfordpat.wordpress.com",
+    "page": "/resources/students/enrichment-admissions/#resource-oxford-pat-solutions-oxfordpat-wordpress-com"
+  },
+  {
+    "name": "Oxford Physics ESAT Information",
+    "description": "Official Oxford Physics information about the Engineering and Science Admissions Test.",
+    "audience": "Students",
+    "category": "Enrichment & admissions",
+    "source": "physics.ox.ac.uk",
+    "page": "/resources/students/enrichment-admissions/#resource-oxford-physics-esat-information-physics-ox-ac-uk"
+  },
+  {
+    "name": "Oxford Physics Useful Resources",
+    "description": "Official Oxford Physics page listing useful websites and resources for applicants.",
+    "audience": "Students",
+    "category": "Enrichment & admissions",
+    "source": "physics.ox.ac.uk",
+    "page": "/resources/students/enrichment-admissions/#resource-oxford-physics-useful-resources-physics-ox-ac-uk"
+  },
+  {
+    "name": "Paul’s Online Math Notes",
+    "description": "Free notes on algebra, calculus, multivariable calculus and differential equations.",
+    "audience": "Further study",
+    "category": "Undergraduate resources",
+    "source": "tutorial.math.lamar.edu",
+    "page": "/resources/further-study/undergraduate-resources/#resource-pauls-online-math-notes-tutorial-math-lamar-edu"
+  },
+  {
+    "name": "Pearson Edexcel Past Papers",
+    "description": "Official Pearson Edexcel past-paper search and qualification support pages.",
+    "audience": "Students",
+    "category": "Exams & past papers",
+    "source": "qualifications.pearson.com",
+    "page": "/resources/students/exams-past-papers/#resource-pearson-edexcel-past-papers-qualifications-pearson-com"
+  },
+  {
+    "name": "PhET Physics Simulations",
+    "description": "Interactive simulations for Mathematics, Physics and Science, useful for conceptual understanding and exploration.",
+    "audience": "Students",
+    "category": "Physics & Science",
+    "source": "phet.colorado.edu",
+    "page": "/resources/students/physics-science/#resource-phet-physics-simulations-phet-colorado-edu"
+  },
+  {
+    "name": "Physics & Maths Tutor — Computer Science",
+    "description": "GCSE and A-level Computer Science revision notes, topic resources and past-paper practice.",
+    "audience": "Further study",
+    "category": "Undergraduate resources",
+    "source": "physicsandmathstutor.com",
+    "page": "/resources/further-study/undergraduate-resources/#resource-physics-maths-tutor-computer-science-physicsandmathstutor-com"
+  },
+  {
+    "name": "Physics & Maths Tutor — Mathematics",
+    "description": "GCSE and A-level Mathematics revision notes, topic questions, past-paper practice and solution materials.",
+    "audience": "Students",
+    "category": "Mathematics",
+    "source": "physicsandmathstutor.com",
+    "page": "/resources/students/mathematics/#resource-physics-maths-tutor-mathematics-physicsandmathstutor-com"
+  },
+  {
+    "name": "Physics & Maths Tutor — Physics",
+    "description": "GCSE and A-level Physics notes, topic questions, past-paper questions and revision resources.",
+    "audience": "Students",
+    "category": "Physics & Science",
+    "source": "physicsandmathstutor.com",
+    "page": "/resources/students/physics-science/#resource-physics-maths-tutor-physics-physicsandmathstutor-com"
+  },
+  {
+    "name": "Physics Online — BPhO/PAT Resources",
+    "description": "Physics problem-solving and preparation resources; some content may be freemium or course-linked.",
+    "audience": "Students",
+    "category": "Enrichment & admissions",
+    "source": "alevelphysicsonline.com",
+    "page": "/resources/students/enrichment-admissions/#resource-physics-online-bpho-pat-resources-alevelphysicsonline-com"
+  },
+  {
+    "name": "PixiMaths",
+    "description": "Free KS2–KS5 Mathematics resources, including GCSE, IGCSE and revision materials.",
+    "audience": "Students",
+    "category": "Mathematics",
+    "source": "piximaths.co.uk",
+    "page": "/resources/students/mathematics/#resource-piximaths-piximaths-co-uk"
+  },
+  {
+    "name": "Project Euler",
+    "description": "Mathematical and computational problem-solving challenges requiring programming and mathematical insight.",
+    "audience": "Students",
+    "category": "Enrichment & admissions",
+    "source": "projecteuler.net",
+    "page": "/resources/students/enrichment-admissions/#resource-project-euler-projecteuler-net"
+  },
+  {
+    "name": "Project Gutenberg",
+    "description": "Large collection of public-domain e-books, including classic scientific and mathematical texts.",
+    "audience": "Further study",
+    "category": "Open books",
+    "source": "gutenberg.org",
+    "page": "/resources/further-study/open-books/#resource-project-gutenberg-gutenberg-org"
+  },
+  {
+    "name": "Python",
+    "description": "General-purpose programming language widely used in education, data science, scientific computing and automation.",
+    "audience": "Further study",
+    "category": "Academic & digital tools",
+    "source": "python.org",
+    "page": "/resources/further-study/academic-digital-tools/#resource-python-python-org"
+  },
+  {
+    "name": "Quizlet",
+    "description": "User-created and teacher-created flashcard sets and retrieval activities. Content should be checked for accuracy before use.",
+    "audience": "Students",
+    "category": "Study & revision",
+    "source": "quizlet.com",
+    "page": "/resources/students/study-revision/#resource-quizlet-quizlet-com"
+  },
+  {
+    "name": "Resourceaholic",
+    "description": "",
+    "audience": "Teachers",
+    "category": "Classroom & curriculum resources",
+    "source": "resourceaholic.com",
+    "page": "/resources/teachers/classroom-curriculum/#resource-resourceaholic-resourceaholic-com"
+  },
+  {
+    "name": "Rosenshine — Principles of Instruction",
+    "description": "",
+    "audience": "Teachers",
+    "category": "Evidence-informed teaching",
+    "source": "aft.org",
+    "page": "/resources/teachers/evidence-informed-teaching/#resource-rosenshine-principles-of-instruction-aft-org"
+  },
+  {
+    "name": "Royal Society of Chemistry Education Resources",
+    "description": "",
+    "audience": "Teachers",
+    "category": "Subject professional development",
+    "source": "edu.rsc.org",
+    "page": "/resources/teachers/subject-professional-development/#resource-royal-society-of-chemistry-education-resources-edu-rsc-org"
+  },
+  {
+    "name": "Royal Society Resources for Schools",
+    "description": "",
+    "audience": "Teachers",
+    "category": "Subject professional development",
+    "source": "royalsociety.org",
+    "page": "/resources/teachers/subject-professional-development/#resource-royal-society-resources-for-schools-royalsociety-org"
+  },
+  {
+    "name": "SageMath",
+    "description": "Open-source Mathematics software system for algebra, calculus, number theory, graph theory and computation.",
+    "audience": "Further study",
+    "category": "Academic & digital tools",
+    "source": "sagemath.org",
+    "page": "/resources/further-study/academic-digital-tools/#resource-sagemath-sagemath-org"
+  },
+  {
+    "name": "Save My Exams — Physics",
+    "description": "Free/freemium revision notes and practice support for GCSE and A-level Physics.",
+    "audience": "Students",
+    "category": "Physics & Science",
+    "source": "savemyexams.com",
+    "page": "/resources/students/physics-science/#resource-save-my-exams-physics-savemyexams-com"
+  },
+  {
+    "name": "Seneca Learning",
+    "description": "Free/freemium revision platform for school subjects, including GCSE and A-level content.",
+    "audience": "Students",
+    "category": "Study & revision",
+    "source": "senecalearning.com",
+    "page": "/resources/students/study-revision/#resource-seneca-learning-senecalearning-com"
+  },
+  {
+    "name": "Special Educational Needs in Mainstream Schools",
+    "description": "Directory",
+    "audience": "Teachers",
+    "category": "Evidence-informed teaching",
+    "source": "educationendowmentfoundation.org.uk",
+    "page": "/resources/teachers/evidence-informed-teaching/#resource-special-educational-needs-in-mainstream-schools-educationendowmentfoundation-org-uk"
+  },
+  {
+    "name": "SQA Past Papers",
+    "description": "Official SQA past papers and marking instructions for Scottish qualifications.",
+    "audience": "Students",
+    "category": "Exams & past papers",
+    "source": "sqa.org.uk",
+    "page": "/resources/students/exams-past-papers/#resource-sqa-past-papers-sqa-org-uk"
+  },
+  {
+    "name": "STEM Learning Resources",
+    "description": "",
+    "audience": "Teachers",
+    "category": "Subject professional development",
+    "source": "stem.org.uk",
+    "page": "/resources/teachers/subject-professional-development/#resource-stem-learning-resources-stem-org-uk"
+  },
+  {
+    "name": "STEP Support Programme",
+    "description": "Cambridge-developed advanced problem-solving modules, hints and full solutions for STEP preparation.",
+    "audience": "Students",
+    "category": "Enrichment & admissions",
+    "source": "step.maths.org",
+    "page": "/resources/students/enrichment-admissions/#resource-step-support-programme-step-maths-org"
+  },
+  {
+    "name": "Teach Computing",
+    "description": "",
+    "audience": "Teachers",
+    "category": "Subject professional development",
+    "source": "teachcomputing.org",
+    "page": "/resources/teachers/subject-professional-development/#resource-teach-computing-teachcomputing-org"
+  },
+  {
+    "name": "Teach Computing Curriculum",
+    "description": "Free Computing curriculum resources for Key Stages 1–4, including KS3 and KS4 Computer Science.",
+    "audience": "Teachers",
+    "category": "Subject professional development",
+    "source": "teachcomputing.org",
+    "page": "/resources/teachers/subject-professional-development/#resource-teach-computing-curriculum-teachcomputing-org"
+  },
+  {
+    "name": "Teach Like a Champion — Free Resources",
+    "description": "",
+    "audience": "Teachers",
+    "category": "Classroom & curriculum resources",
+    "source": "teachlikeachampion.org",
+    "page": "/resources/teachers/classroom-curriculum/#resource-teach-like-a-champion-free-resources-teachlikeachampion-org"
+  },
+  {
+    "name": "Teach Yourself Computer Science",
+    "description": "Advanced self-study guide for serious Computer Science foundations beyond introductory programming.",
+    "audience": "Further study",
+    "category": "Undergraduate resources",
+    "source": "teachyourselfcs.com",
+    "page": "/resources/further-study/undergraduate-resources/#resource-teach-yourself-computer-science-teachyourselfcs-com"
+  },
+  {
+    "name": "Teachers’ Standards",
+    "description": "Note. Resources are grouped by purpose rather than ranked, and inclusion does not imply endorsement, sponsorship or affiliation. I do not receive commission for links on this site. External resources may change over time, so users should check suitability, accuracy, accessibility, copyright and any account or payment requirements before use.",
+    "audience": "Teachers",
+    "category": "Teacher training & ECT",
+    "source": "gov.uk",
+    "page": "/resources/teachers/teacher-training-ect/#resource-teachers-standards-gov-uk"
+  },
+  {
+    "name": "Teaching London Computing",
+    "description": "Directory",
+    "audience": "Teachers",
+    "category": "Classroom & curriculum resources",
+    "source": "teachinglondoncomputing.org",
+    "page": "/resources/teachers/classroom-curriculum/#resource-teaching-london-computing-teachinglondoncomputing-org"
+  },
+  {
+    "name": "Teaching WalkThrus",
+    "description": "",
+    "audience": "Teachers",
+    "category": "Subject professional development",
+    "source": "walkthrus.co.uk",
+    "page": "/resources/teachers/subject-professional-development/#resource-teaching-walkthrus-walkthrus-co-uk"
+  },
+  {
+    "name": "The Algorithms",
+    "description": "Open-source collection of algorithms and data-structures implementations across programming languages.",
+    "audience": "Further study",
+    "category": "Undergraduate resources",
+    "source": "the-algorithms.com",
+    "page": "/resources/further-study/undergraduate-resources/#resource-the-algorithms-the-algorithms-com"
+  },
+  {
+    "name": "The Feynman Lectures on Physics",
+    "description": "Caltech-hosted online edition of the classic undergraduate Physics lectures.",
+    "audience": "Further study",
+    "category": "Open books",
+    "source": "feynmanlectures.caltech.edu",
+    "page": "/resources/further-study/open-books/#resource-the-feynman-lectures-on-physics-feynmanlectures-caltech-edu"
+  },
+  {
+    "name": "The Odin Project",
+    "description": "Free web-development curriculum, useful for serious independent programming study.",
+    "audience": "Further study",
+    "category": "Undergraduate resources",
+    "source": "theodinproject.com",
+    "page": "/resources/further-study/undergraduate-resources/#resource-the-odin-project-theodinproject-com"
+  },
+  {
+    "name": "The Physics Classroom",
+    "description": "Free high-school-level Physics tutorials, concept checks and explanatory resources.",
+    "audience": "Students",
+    "category": "Physics & Science",
+    "source": "physicsclassroom.com",
+    "page": "/resources/students/physics-science/#resource-the-physics-classroom-physicsclassroom-com"
+  },
+  {
+    "name": "The Theoretical Minimum",
+    "description": "Structured theoretical physics learning route associated with Leonard Susskind’s lectures and books.",
+    "audience": "Further study",
+    "category": "Open books",
+    "source": "theoreticalminimum.com",
+    "page": "/resources/further-study/open-books/#resource-the-theoretical-minimum-theoreticalminimum-com"
+  },
+  {
+    "name": "TLMaths",
+    "description": "A-level Mathematics and Further Mathematics videos and learning resources.",
+    "audience": "Students",
+    "category": "Mathematics",
+    "source": "sites.google.com",
+    "page": "/resources/students/mathematics/#resource-tlmaths-sites-google-com"
+  },
+  {
+    "name": "UKMT Competition Papers",
+    "description": "Official recent UKMT papers and solutions, including Junior, Intermediate and Senior Mathematical Challenges.",
+    "audience": "Students",
+    "category": "Enrichment & admissions",
+    "source": "ukmt.org.uk",
+    "page": "/resources/students/enrichment-admissions/#resource-ukmt-competition-papers-ukmt-org-uk"
+  },
+  {
+    "name": "UKMT Video Solutions",
+    "description": "Official UKMT video solutions supporting independent review of Mathematical Challenge problems.",
+    "audience": "Students",
+    "category": "Enrichment & admissions",
+    "source": "ukmt.org.uk",
+    "page": "/resources/students/enrichment-admissions/#resource-ukmt-video-solutions-ukmt-org-uk"
+  },
+  {
+    "name": "Underground Mathematics",
+    "description": "Cambridge-developed post-16 resources for deep A-level mathematical thinking and problem-solving.",
+    "audience": "Students",
+    "category": "Enrichment & admissions",
+    "source": "undergroundmathematics.org",
+    "page": "/resources/students/enrichment-admissions/#resource-underground-mathematics-undergroundmathematics-org"
+  },
+  {
+    "name": "United Learning — Teaching and Learning: The United Way",
+    "description": "",
+    "audience": "Teachers",
+    "category": "Classroom & curriculum resources",
+    "source": "unitedlearning.org.uk",
+    "page": "/resources/teachers/classroom-curriculum/#resource-united-learning-teaching-and-learning-the-united-way-unitedlearning-org-uk"
+  },
+  {
+    "name": "United Learning — The Rosenshine Papers",
+    "description": "Directory",
+    "audience": "Teachers",
+    "category": "Evidence-informed teaching",
+    "source": "unitedlearning.org.uk",
+    "page": "/resources/teachers/evidence-informed-teaching/#resource-united-learning-the-rosenshine-papers-unitedlearning-org-uk"
+  },
+  {
+    "name": "Variation Theory",
+    "description": "Directory",
+    "audience": "Teachers",
+    "category": "Classroom & curriculum resources",
+    "source": "variationtheory.com",
+    "page": "/resources/teachers/classroom-curriculum/#resource-variation-theory-variationtheory-com"
+  },
+  {
+    "name": "What Makes Great Teaching? — Coe et al.",
+    "description": "Directory",
+    "audience": "Teachers",
+    "category": "Evidence-informed teaching",
+    "source": "suttontrust.com",
+    "page": "/resources/teachers/evidence-informed-teaching/#resource-what-makes-great-teaching-coe-et-al-suttontrust-com"
+  },
+  {
+    "name": "Wikibooks",
+    "description": "Open-content textbooks and learning materials across a range of subjects.",
+    "audience": "Further study",
+    "category": "Open books",
+    "source": "en.wikibooks.org",
+    "page": "/resources/further-study/open-books/#resource-wikibooks-en-wikibooks-org"
+  },
+  {
+    "name": "WJEC Past Papers",
+    "description": "Official WJEC and Eduqas past-paper access point.",
+    "audience": "Students",
+    "category": "Exams & past papers",
+    "source": "wjec.co.uk",
+    "page": "/resources/students/exams-past-papers/#resource-wjec-past-papers-wjec-co-uk"
+  },
+  {
+    "name": "WolframAlpha",
+    "description": "Computational knowledge engine useful for checking calculations and exploring mathematical ideas responsibly.",
+    "audience": "Further study",
+    "category": "Academic & digital tools",
+    "source": "wolframalpha.com",
+    "page": "/resources/further-study/academic-digital-tools/#resource-wolframalpha-wolframalpha-com"
+  },
+  {
+    "name": "YoungMinds — Exam Stress",
+    "description": "Student-friendly guidance on coping with exam pressure, revision stress, disappointment and asking for help.",
+    "audience": "Students",
+    "category": "Wellbeing & study skills",
+    "source": "youngminds.org.uk",
+    "page": "/resources/students/wellbeing-study-skills/#resource-youngminds-exam-stress-youngminds-org-uk"
+  },
+  {
+    "name": "Zotero",
+    "description": "Reference manager for collecting, organising and citing academic sources.",
+    "audience": "Further study",
+    "category": "Academic & digital tools",
+    "source": "zotero.org",
+    "page": "/resources/further-study/academic-digital-tools/#resource-zotero-zotero-org"
+  },
+  {
+    "name": "ZoteroBib",
+    "description": "Quick bibliography generator for students and independent learners.",
+    "audience": "Further study",
+    "category": "Academic & digital tools",
+    "source": "zbib.org",
+    "page": "/resources/further-study/academic-digital-tools/#resource-zoterobib-zbib-org"
+  }
+]

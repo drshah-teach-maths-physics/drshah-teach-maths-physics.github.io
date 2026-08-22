@@ -6189,3 +6189,1578 @@ p {
 }
 
 /* END STAGE 8B — ABOUT + CONTACT REDESIGN */
+
+/* STAGE 9 — RESOURCES ARCHITECTURE */
+
+
+/* =========================================================
+   GATEWAY HERO
+   ========================================================= */
+
+.resource9-hero {
+  padding-top: 58px;
+  padding-bottom: 64px;
+}
+
+.resource9-hero-grid {
+  display: grid;
+
+  grid-template-columns:
+    minmax(0, 1.15fr)
+    minmax(320px, 0.85fr);
+
+  gap: 60px;
+  align-items: start;
+}
+
+.resource9-hero-grid > div {
+  max-width: 800px;
+}
+
+.resource9-hero h1 {
+  max-width: none;
+}
+
+.resource9-principles {
+  padding: 28px 29px;
+
+  border: 1px solid var(--line);
+  border-top: 3px solid var(--gold);
+  border-radius: var(--radius-lg);
+
+  background: var(--paper);
+
+  box-shadow: var(--shadow-sm);
+}
+
+.resource9-principles ul {
+  margin: 0;
+  padding: 0;
+
+  list-style: none;
+}
+
+.resource9-principles li {
+  position: relative;
+
+  padding: 11px 0 11px 21px;
+
+  border-top: 1px solid var(--line);
+
+  color: #4b5661;
+
+  font-size: 0.92rem;
+}
+
+.resource9-principles li:first-child {
+  border-top: 0;
+}
+
+.resource9-principles li::before {
+  content: "—";
+
+  position: absolute;
+  left: 0;
+
+  color: var(--gold);
+}
+
+
+/* =========================================================
+   GATEWAY PATHS
+   ========================================================= */
+
+.resource9-path-grid {
+  display: grid;
+
+  grid-template-columns:
+    repeat(3, minmax(0, 1fr));
+
+  gap: 18px;
+}
+
+.resource9-path-card {
+  display: grid;
+
+  grid-template-columns: 38px minmax(0, 1fr) auto;
+
+  gap: 17px;
+  align-items: start;
+
+  min-height: 225px;
+
+  padding: 26px 24px;
+
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+
+  background: var(--paper);
+
+  color: inherit;
+
+  text-decoration: none;
+
+  transition:
+    border-color 160ms ease,
+    transform 160ms ease,
+    box-shadow 160ms ease;
+}
+
+.resource9-path-card:hover {
+  transform: translateY(-2px);
+
+  border-color: #cbb889;
+
+  box-shadow: var(--shadow-sm);
+}
+
+.resource9-path-number {
+  color: var(--gold);
+
+  font-family: "Source Serif 4", Georgia, serif;
+  font-size: 0.83rem;
+  font-weight: 700;
+}
+
+.resource9-path-label {
+  margin: 0 0 5px;
+
+  color: var(--muted);
+
+  font-size: 0.72rem;
+  font-weight: 800;
+
+  letter-spacing: 0.065em;
+
+  text-transform: uppercase;
+}
+
+.resource9-path-card h3 {
+  margin-bottom: 9px;
+
+  color: var(--navy);
+
+  font-size: 1.35rem;
+}
+
+.resource9-path-card p:last-child {
+  margin: 0;
+
+  color: var(--muted);
+
+  font-size: 0.92rem;
+  line-height: 1.58;
+}
+
+.resource9-path-card > strong {
+  color: var(--gold);
+
+  font-size: 1.25rem;
+}
+
+
+/* =========================================================
+   GATEWAY GUIDE
+   ========================================================= */
+
+.resource9-guide-grid,
+.resource9-disclaimer,
+.resource9-further-note {
+  display: grid;
+
+  grid-template-columns:
+    minmax(260px, 0.7fr)
+    minmax(0, 1.3fr);
+
+  gap: 55px;
+  align-items: start;
+}
+
+.resource9-guide-grid > div:last-child p,
+.resource9-disclaimer-copy p,
+.resource9-further-note > div:last-child p {
+  max-width: 70ch;
+}
+
+
+/* =========================================================
+   SUBPAGE HERO
+   ========================================================= */
+
+.resource9-subpage-hero {
+  padding-top: 50px;
+  padding-bottom: 52px;
+}
+
+.resource9-subpage-grid {
+  display: grid;
+
+  grid-template-columns:
+    minmax(0, 1.15fr)
+    minmax(280px, 0.85fr);
+
+  gap: 55px;
+  align-items: end;
+}
+
+.resource9-subpage-grid > div {
+  max-width: 790px;
+}
+
+.resource9-subpage-grid h1 {
+  max-width: none;
+}
+
+.resource9-subnav {
+  display: grid;
+
+  border-top: 1px solid var(--line);
+}
+
+.resource9-subnav a {
+  padding: 12px 2px;
+
+  border-bottom: 1px solid var(--line);
+
+  color: var(--navy);
+
+  font-size: 0.88rem;
+  font-weight: 750;
+
+  text-decoration: none;
+}
+
+.resource9-subnav a:hover {
+  color: var(--gold);
+}
+
+
+/* =========================================================
+   CATEGORY HEADERS
+   ========================================================= */
+
+.resource9-category-heading {
+  display: grid;
+
+  grid-template-columns:
+    minmax(270px, 0.8fr)
+    minmax(0, 1.2fr);
+
+  gap: 50px;
+  align-items: end;
+
+  margin-bottom: 27px;
+}
+
+.resource9-category-heading h2 {
+  margin-bottom: 0;
+}
+
+.resource9-category-heading > p {
+  max-width: 60ch;
+
+  margin: 0;
+
+  color: var(--muted);
+}
+
+
+/* =========================================================
+   RESOURCE LIST
+   ========================================================= */
+
+.resource9-card-list {
+  display: grid;
+
+  border-top: 1px solid var(--line);
+}
+
+.resource9-card {
+  display: grid;
+
+  grid-template-columns:
+    minmax(300px, 0.85fr)
+    minmax(0, 1.15fr);
+
+  gap: 45px;
+  align-items: start;
+
+  padding: 22px 2px;
+
+  border-bottom: 1px solid var(--line);
+}
+
+.resource9-card-heading h3 {
+  margin: 0 0 9px;
+
+  font-size: 1.08rem;
+}
+
+.resource9-card-heading h3 a {
+  color: var(--navy);
+
+  text-decoration: none;
+}
+
+.resource9-card-heading h3 a:hover {
+  color: var(--gold);
+}
+
+.resource9-card-heading h3 a span {
+  margin-left: 4px;
+
+  color: var(--gold);
+
+  font-size: 0.82em;
+}
+
+.resource9-tags {
+  display: flex;
+
+  flex-wrap: wrap;
+
+  gap: 6px;
+}
+
+.resource9-tags span {
+  padding: 4px 8px;
+
+  border: 1px solid var(--line);
+  border-radius: 999px;
+
+  color: #59646e;
+
+  font-size: 0.69rem;
+  font-weight: 700;
+}
+
+.resource9-card > p {
+  max-width: 70ch;
+
+  margin: 0;
+
+  color: #4b5660;
+
+  font-size: 0.92rem;
+  line-height: 1.62;
+}
+
+
+/* =========================================================
+   DISCLAIMER
+   ========================================================= */
+
+.resource9-disclaimer-section {
+  padding-top: 48px;
+  padding-bottom: 55px;
+}
+
+.resource9-disclaimer {
+  padding: 27px 29px;
+
+  border: 1px solid #ddd2bc;
+  border-radius: var(--radius-lg);
+
+  background: #fcfaf5;
+}
+
+.resource9-disclaimer h2 {
+  margin-bottom: 0;
+
+  font-size: 1.4rem;
+}
+
+.resource9-disclaimer-copy p:last-child {
+  margin-bottom: 0;
+}
+
+
+/* =========================================================
+   RESPONSIVE
+   ========================================================= */
+
+@media (max-width: 1000px) {
+
+  .resource9-hero-grid,
+  .resource9-subpage-grid {
+    grid-template-columns: 1fr;
+
+    gap: 34px;
+  }
+
+  .resource9-path-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .resource9-path-card {
+    min-height: 0;
+  }
+
+}
+
+
+@media (max-width: 760px) {
+
+  .resource9-hero,
+  .resource9-subpage-hero {
+    padding-top: 38px;
+    padding-bottom: 44px;
+  }
+
+  .resource9-guide-grid,
+  .resource9-disclaimer,
+  .resource9-further-note,
+  .resource9-category-heading,
+  .resource9-card {
+    grid-template-columns: 1fr;
+
+    gap: 18px;
+  }
+
+  .resource9-card {
+    padding-top: 19px;
+    padding-bottom: 19px;
+  }
+
+}
+
+
+@media (max-width: 520px) {
+
+  .resource9-path-card {
+    grid-template-columns: 30px minmax(0, 1fr);
+  }
+
+  .resource9-path-card > strong {
+    display: none;
+  }
+
+  .resource9-principles,
+  .resource9-disclaimer {
+    padding: 21px;
+  }
+
+}
+
+
+/* END STAGE 9 — RESOURCES ARCHITECTURE */
+
+/* STAGE 9.1 — RESOURCES EDITORIAL EMPHASIS */
+
+
+/*
+   The purpose of the Resources pages is discovery.
+   Editorial neutrality remains stated, but visually subordinate.
+*/
+
+
+/* =========================================================
+   GATEWAY HERO
+   ========================================================= */
+
+.resource9-hero-grid {
+  grid-template-columns: 1fr !important;
+}
+
+.resource9-hero-grid > div {
+  max-width: 850px;
+}
+
+
+/*
+   Small editorial qualification beneath the introduction.
+   Intentionally quiet.
+*/
+
+.resource9-editorial-note {
+  max-width: 72ch;
+
+  margin-top: 18px !important;
+  margin-bottom: 0 !important;
+
+  color: #6a737c !important;
+
+  font-size: 0.82rem !important;
+  line-height: 1.5 !important;
+}
+
+
+/* Old panel should no longer appear even if cached HTML exists. */
+
+.resource9-principles {
+  display: none !important;
+}
+
+
+/* =========================================================
+   EDITORIAL FOOTER
+   ========================================================= */
+
+.resource9-editorial-footer {
+  padding: 28px 0 34px;
+
+  background: transparent;
+}
+
+.resource9-editorial-footer .container {
+  padding-top: 18px;
+
+  border-top: 1px solid var(--line);
+}
+
+.resource9-editorial-footer p {
+  max-width: 90ch;
+
+  margin: 0;
+
+  color: #6c747c;
+
+  font-size: 0.78rem;
+  line-height: 1.55;
+}
+
+.resource9-editorial-footer strong {
+  color: #505a64;
+
+  font-weight: 750;
+}
+
+
+/*
+   Retire the visually prominent disclaimer treatment.
+*/
+
+.resource9-disclaimer-section,
+.resource9-disclaimer {
+  background: transparent !important;
+}
+
+.resource9-disclaimer {
+  border: 0 !important;
+  box-shadow: none !important;
+}
+
+
+/* END STAGE 9.1 — RESOURCES EDITORIAL EMPHASIS */
+
+/* STAGE 9.2 — RESOURCES SPACING REFINEMENT */
+
+
+/* =========================================================
+   GATEWAY HERO
+
+   The hero should introduce the collection, not occupy most
+   of the first viewport.
+   ========================================================= */
+
+.resource9-hero {
+  min-height: 0 !important;
+
+  padding-top: 42px !important;
+  padding-bottom: 44px !important;
+}
+
+.resource9-hero-grid {
+  align-items: start !important;
+}
+
+.resource9-hero-grid > div {
+  max-width: 850px;
+}
+
+.resource9-hero .lead {
+  margin-bottom: 18px;
+}
+
+.resource9-editorial-note {
+  margin-top: 14px !important;
+}
+
+
+/* =========================================================
+   ROUTE CARDS
+
+   Bring the actual purpose of the page closer to the hero.
+   ========================================================= */
+
+.resource9-paths-section {
+  padding-top: 48px !important;
+  padding-bottom: 52px !important;
+}
+
+
+/* =========================================================
+   SCOPE
+
+   This is supporting context, so keep it compact.
+   ========================================================= */
+
+.resource9-guide-section {
+  padding-top: 38px !important;
+  padding-bottom: 38px !important;
+}
+
+.resource9-guide-grid {
+  grid-template-columns:
+    minmax(220px, 0.55fr)
+    minmax(0, 1.45fr) !important;
+
+  gap: 42px !important;
+
+  align-items: start !important;
+}
+
+.resource9-guide-grid h2 {
+  margin-bottom: 0;
+}
+
+.resource9-guide-grid > div:last-child p {
+  margin-bottom: 10px;
+}
+
+.resource9-guide-grid > div:last-child p:last-child {
+  margin-bottom: 0;
+}
+
+
+/* =========================================================
+   SMALL NOTE AT BOTTOM
+   ========================================================= */
+
+.resource9-editorial-footer {
+  padding-top: 18px !important;
+  padding-bottom: 24px !important;
+}
+
+.resource9-editorial-footer .container {
+  padding-top: 14px !important;
+}
+
+.resource9-editorial-footer p {
+  max-width: 100ch;
+}
+
+
+/* =========================================================
+   MOBILE
+   ========================================================= */
+
+@media (max-width: 760px) {
+
+  .resource9-hero {
+    padding-top: 34px !important;
+    padding-bottom: 36px !important;
+  }
+
+  .resource9-paths-section {
+    padding-top: 38px !important;
+    padding-bottom: 42px !important;
+  }
+
+  .resource9-guide-section {
+    padding-top: 32px !important;
+    padding-bottom: 32px !important;
+  }
+
+}
+
+
+/* END STAGE 9.2 — RESOURCES SPACING REFINEMENT */
+
+/* STAGE 9.3 — WIDE RESOURCES HERO */
+
+
+/*
+   Use the desktop width rather than constraining the entire
+   Resources introduction to one narrow column.
+*/
+
+.resource9-hero {
+  padding-top: 46px !important;
+  padding-bottom: 48px !important;
+}
+
+
+.resource9-hero-layout {
+  display: grid;
+
+  grid-template-columns:
+    minmax(500px, 1.05fr)
+    minmax(430px, 0.95fr);
+
+  gap: clamp(60px, 7vw, 120px);
+
+  align-items: center;
+}
+
+
+.resource9-hero-title {
+  max-width: 760px;
+}
+
+
+.resource9-hero-title h1 {
+  max-width: none;
+
+  margin-bottom: 0;
+}
+
+
+.resource9-hero-copy {
+  max-width: 650px;
+}
+
+
+.resource9-hero-copy .lead {
+  margin-bottom: 24px;
+
+  font-size: 1.12rem;
+  line-height: 1.55;
+}
+
+
+.resource9-hero-copy > p:not(.lead):not(.resource9-editorial-note) {
+  max-width: 60ch;
+
+  margin-bottom: 18px;
+
+  line-height: 1.62;
+}
+
+
+.resource9-hero-copy .resource9-editorial-note {
+  max-width: 62ch;
+
+  margin-top: 22px !important;
+  margin-bottom: 0 !important;
+
+  padding-top: 14px;
+
+  border-top: 1px solid var(--line);
+
+  color: #6a737c !important;
+
+  font-size: 0.8rem !important;
+  line-height: 1.5 !important;
+}
+
+
+/* Retire the earlier single-column hero constraint. */
+
+.resource9-hero-grid {
+  display: none;
+}
+
+
+/* =========================================================
+   TABLET
+   ========================================================= */
+
+@media (max-width: 1050px) {
+
+  .resource9-hero-layout {
+    grid-template-columns: 1fr;
+
+    gap: 30px;
+  }
+
+  .resource9-hero-copy {
+    max-width: 760px;
+  }
+
+  .resource9-hero-copy .resource9-editorial-note {
+    max-width: 72ch;
+  }
+
+}
+
+
+/* =========================================================
+   MOBILE
+   ========================================================= */
+
+@media (max-width: 760px) {
+
+  .resource9-hero {
+    padding-top: 34px !important;
+    padding-bottom: 38px !important;
+  }
+
+  .resource9-hero-layout {
+    gap: 25px;
+  }
+
+  .resource9-hero-copy .lead {
+    font-size: 1.03rem;
+  }
+
+}
+
+
+/* END STAGE 9.3 — WIDE RESOURCES HERO */
+
+/* STAGE 9.4 — COMPLETE RESOURCE DIRECTORY */
+
+
+/* =========================================================
+   CATEGORY INDEX
+   ========================================================= */
+
+.resource9-index-section {
+  padding: 26px 0 30px;
+
+  border-bottom: 1px solid var(--line);
+
+  background: var(--paper);
+}
+
+
+.resource9-directory-index {
+  display: flex;
+
+  flex-wrap: wrap;
+
+  gap: 8px 20px;
+}
+
+
+.resource9-directory-index a {
+  position: relative;
+
+  padding: 5px 0;
+
+  color: var(--navy);
+
+  font-size: 0.82rem;
+  font-weight: 700;
+
+  text-decoration: none;
+}
+
+
+.resource9-directory-index a::after {
+  content: "";
+
+  position: absolute;
+
+  right: 0;
+  bottom: 1px;
+  left: 0;
+
+  height: 1px;
+
+  background: var(--line);
+}
+
+
+.resource9-directory-index a:hover {
+  color: var(--gold);
+}
+
+
+/* =========================================================
+   FULL DIRECTORY SECTIONS
+   ========================================================= */
+
+.resource9-full-category {
+  scroll-margin-top: 100px;
+}
+
+
+.resource9-full-category .resource9-category-heading {
+  margin-bottom: 22px;
+}
+
+
+.resource9-full-category .resource9-category-heading > p {
+  line-height: 1.55;
+}
+
+
+/*
+   Entries without a separate old-page description are shown
+   as clean one-column directory rows rather than padded with
+   invented prose.
+*/
+
+.resource9-card-compact {
+  grid-template-columns: 1fr !important;
+
+  padding-top: 15px !important;
+  padding-bottom: 15px !important;
+}
+
+
+.resource9-card-compact .resource9-card-heading h3 {
+  margin-bottom: 0;
+}
+
+
+/* =========================================================
+   KEEP LARGE COLLECTION READABLE
+   ========================================================= */
+
+.resource9-card {
+  break-inside: avoid;
+}
+
+
+.resource9-card-heading h3 {
+  line-height: 1.35;
+}
+
+
+.resource9-card > p {
+  text-align: left;
+}
+
+
+/* =========================================================
+   TABLET / MOBILE
+   ========================================================= */
+
+@media (max-width: 760px) {
+
+  .resource9-index-section {
+    padding-top: 20px;
+    padding-bottom: 22px;
+  }
+
+  .resource9-directory-index {
+    display: grid;
+
+    gap: 0;
+  }
+
+  .resource9-directory-index a {
+    padding: 9px 0;
+
+    border-bottom: 1px solid var(--line);
+  }
+
+  .resource9-directory-index a::after {
+    display: none;
+  }
+
+}
+
+
+/* END STAGE 9.4 — COMPLETE RESOURCE DIRECTORY */
+
+/* STAGE 9.5 — ACCESSIBLE RESOURCE LIBRARY */
+
+
+/* =========================================================
+   GATEWAY
+   ========================================================= */
+
+.resource10-gateway-hero {
+  padding: 48px 0 52px;
+
+  background:
+    linear-gradient(
+      105deg,
+      #fbf8f1 0%,
+      #f6f7f7 52%,
+      #f0f3f5 100%
+    );
+}
+
+.resource10-gateway-grid {
+  display: grid;
+
+  grid-template-columns:
+    minmax(430px, 0.95fr)
+    minmax(430px, 1.05fr);
+
+  gap: clamp(55px, 7vw, 110px);
+
+  align-items: start;
+}
+
+.resource10-gateway-grid h1 {
+  max-width: 700px;
+
+  margin-bottom: 0;
+}
+
+.resource10-gateway-copy {
+  max-width: 680px;
+}
+
+.resource10-gateway-copy > p {
+  max-width: 62ch;
+}
+
+
+/* =========================================================
+   SEARCH
+   ========================================================= */
+
+.resource10-search {
+  position: relative;
+
+  margin-top: 28px;
+}
+
+.resource10-search label {
+  display: block;
+
+  margin-bottom: 8px;
+
+  color: var(--navy);
+
+  font-size: 0.84rem;
+  font-weight: 800;
+}
+
+.resource10-search-box input {
+  width: 100%;
+
+  padding: 14px 16px;
+
+  border: 1px solid #b9c1c8;
+  border-radius: 7px;
+
+  background: #fff;
+
+  color: #25303a;
+
+  font: inherit;
+
+  font-size: 0.95rem;
+}
+
+.resource10-search-box input:focus {
+  outline: 3px solid rgba(183, 123, 28, 0.22);
+  outline-offset: 2px;
+
+  border-color: var(--gold);
+}
+
+.resource10-search-help,
+.resource10-search-status {
+  margin: 7px 0 0;
+
+  color: var(--muted);
+
+  font-size: 0.77rem;
+}
+
+.resource10-search-results {
+  position: absolute;
+  z-index: 10;
+
+  top: calc(100% + 7px);
+  right: 0;
+  left: 0;
+
+  max-height: 440px;
+
+  overflow-y: auto;
+
+  border: 1px solid var(--line);
+  border-radius: 8px;
+
+  background: #fff;
+
+  box-shadow: var(--shadow);
+}
+
+.resource10-search-result {
+  display: flex;
+
+  align-items: center;
+  justify-content: space-between;
+
+  gap: 20px;
+
+  padding: 12px 14px;
+
+  border-bottom: 1px solid var(--line);
+
+  color: var(--navy);
+
+  text-decoration: none;
+}
+
+.resource10-search-result:last-child {
+  border-bottom: 0;
+}
+
+.resource10-search-result:hover,
+.resource10-search-result:focus {
+  background: #f7f5ef;
+}
+
+.resource10-search-result-main {
+  display: grid;
+
+  gap: 2px;
+}
+
+.resource10-search-result strong {
+  font-size: 0.87rem;
+}
+
+.resource10-search-result small {
+  color: var(--muted);
+
+  font-size: 0.72rem;
+}
+
+.resource10-search-result > span:last-child {
+  color: var(--gold);
+}
+
+
+/* =========================================================
+   GATEWAY AUDIENCES
+   ========================================================= */
+
+.resource10-audiences-section {
+  padding-top: 52px;
+  padding-bottom: 54px;
+}
+
+.resource10-audience-grid {
+  display: grid;
+
+  grid-template-columns:
+    repeat(3, minmax(0, 1fr));
+
+  gap: 18px;
+}
+
+.resource10-audience-card {
+  position: relative;
+
+  display: block;
+
+  padding: 26px 25px;
+
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+
+  background: var(--paper);
+
+  color: inherit;
+
+  text-decoration: none;
+}
+
+.resource10-audience-card:hover {
+  border-color: #cdbb91;
+
+  box-shadow: var(--shadow-sm);
+}
+
+.resource10-audience-card h3 {
+  margin: 7px 0 9px;
+
+  color: var(--navy);
+
+  font-size: 1.35rem;
+}
+
+.resource10-audience-card > p:not(.resource10-card-count) {
+  margin-bottom: 22px;
+
+  color: var(--muted);
+
+  line-height: 1.55;
+}
+
+.resource10-audience-card strong {
+  color: var(--gold);
+
+  font-size: 1.2rem;
+}
+
+.resource10-card-count,
+.resource10-count {
+  margin: 0;
+
+  color: #8b6724;
+
+  font-size: 0.74rem;
+  font-weight: 800;
+
+  letter-spacing: 0.035em;
+}
+
+.resource10-all-link {
+  margin: 25px 0 0;
+
+  color: var(--muted);
+
+  font-size: 0.86rem;
+}
+
+
+/* =========================================================
+   BREADCRUMBS
+   ========================================================= */
+
+.resource10-breadcrumbs {
+  display: flex;
+
+  flex-wrap: wrap;
+
+  gap: 7px;
+
+  margin-bottom: 28px;
+
+  color: var(--muted);
+
+  font-size: 0.78rem;
+}
+
+.resource10-breadcrumbs a {
+  color: var(--muted);
+
+  text-decoration: none;
+}
+
+.resource10-breadcrumbs a:hover {
+  color: var(--navy);
+}
+
+.resource10-breadcrumbs > span[aria-hidden="true"] {
+  color: #a7adb3;
+}
+
+
+/* =========================================================
+   AUDIENCE LANDINGS
+   ========================================================= */
+
+.resource10-audience-hero,
+.resource10-category-hero {
+  padding: 42px 0 45px;
+
+  border-bottom: 1px solid var(--line);
+
+  background: #f7f8f8;
+}
+
+.resource10-audience-intro,
+.resource10-category-intro {
+  display: grid;
+
+  grid-template-columns:
+    minmax(330px, 0.9fr)
+    minmax(0, 1.1fr);
+
+  gap: 58px;
+
+  align-items: end;
+}
+
+.resource10-audience-intro h1,
+.resource10-category-intro h1 {
+  margin-bottom: 0;
+}
+
+.resource10-audience-intro .lead,
+.resource10-category-intro .lead {
+  max-width: 60ch;
+
+  margin-bottom: 12px;
+}
+
+
+/* =========================================================
+   CATEGORY CHOOSER
+   ========================================================= */
+
+.resource10-category-section {
+  padding-top: 48px;
+  padding-bottom: 54px;
+}
+
+.resource10-category-grid {
+  display: grid;
+
+  grid-template-columns:
+    repeat(2, minmax(0, 1fr));
+
+  gap: 14px;
+}
+
+.resource10-category-card {
+  display: flex;
+
+  align-items: center;
+  justify-content: space-between;
+
+  gap: 30px;
+
+  padding: 22px 23px;
+
+  border: 1px solid var(--line);
+  border-radius: 7px;
+
+  color: inherit;
+
+  text-decoration: none;
+
+  background: var(--paper);
+}
+
+.resource10-category-card:hover {
+  border-color: #cdbb91;
+
+  background: #fcfaf6;
+}
+
+.resource10-category-card h2 {
+  margin: 5px 0 7px;
+
+  color: var(--navy);
+
+  font-size: 1.15rem;
+}
+
+.resource10-category-card p:last-child {
+  max-width: 52ch;
+
+  margin-bottom: 0;
+
+  color: var(--muted);
+
+  font-size: 0.87rem;
+  line-height: 1.5;
+}
+
+.resource10-category-card > span {
+  flex: 0 0 auto;
+
+  color: var(--gold);
+
+  font-size: 1.2rem;
+}
+
+
+/* =========================================================
+   RESOURCE LIST
+   ========================================================= */
+
+.resource10-list-section {
+  padding: 20px 0 34px;
+}
+
+.resource10-list {
+  border-top: 1px solid var(--line);
+}
+
+.resource10-item {
+  display: grid;
+
+  grid-template-columns:
+    minmax(0, 1fr)
+    minmax(160px, 0.25fr);
+
+  gap: 40px;
+
+  padding: 18px 2px;
+
+  border-bottom: 1px solid var(--line);
+
+  scroll-margin-top: 100px;
+}
+
+.resource10-item h2 {
+  margin: 0 0 6px;
+
+  font-size: 1rem;
+  line-height: 1.35;
+}
+
+.resource10-item h2 a {
+  color: var(--navy);
+
+  text-decoration: none;
+}
+
+.resource10-item h2 a:hover {
+  color: var(--gold);
+}
+
+.resource10-item h2 span {
+  margin-left: 3px;
+
+  color: var(--gold);
+
+  font-size: 0.78em;
+}
+
+.resource10-description {
+  max-width: 76ch;
+
+  margin: 0;
+
+  color: #4c5660;
+
+  font-size: 0.86rem;
+  line-height: 1.55;
+}
+
+.resource10-source {
+  margin: 2px 0 0;
+
+  color: #78818a;
+
+  font-size: 0.72rem;
+
+  text-align: right;
+
+  overflow-wrap: anywhere;
+}
+
+
+/* =========================================================
+   PREVIOUS / NEXT
+   ========================================================= */
+
+.resource10-category-navigation {
+  padding: 14px 0 32px;
+}
+
+.resource10-back {
+  display: inline-block;
+
+  margin-bottom: 25px;
+
+  color: var(--navy);
+
+  font-size: 0.82rem;
+  font-weight: 750;
+
+  text-decoration: none;
+}
+
+.resource10-prev-next {
+  display: grid;
+
+  grid-template-columns:
+    repeat(2, minmax(0, 1fr));
+
+  gap: 16px;
+}
+
+.resource10-prev-next a {
+  display: grid;
+
+  gap: 4px;
+
+  padding: 16px 18px;
+
+  border: 1px solid var(--line);
+  border-radius: 7px;
+
+  color: var(--navy);
+
+  text-decoration: none;
+}
+
+.resource10-prev-next a:last-child {
+  text-align: right;
+}
+
+.resource10-prev-next small {
+  color: var(--muted);
+
+  font-size: 0.7rem;
+}
+
+
+/* =========================================================
+   NOTE
+   ========================================================= */
+
+.resource10-note {
+  padding: 17px 0 24px;
+}
+
+.resource10-note .container {
+  padding-top: 13px;
+
+  border-top: 1px solid var(--line);
+}
+
+.resource10-note p {
+  max-width: 100ch;
+
+  margin: 0;
+
+  color: #727a82;
+
+  font-size: 0.75rem;
+  line-height: 1.5;
+}
+
+
+/* =========================================================
+   RESPONSIVE
+   ========================================================= */
+
+@media (max-width: 1000px) {
+
+  .resource10-gateway-grid,
+  .resource10-audience-intro,
+  .resource10-category-intro {
+    grid-template-columns: 1fr;
+
+    gap: 28px;
+  }
+
+  .resource10-audience-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .resource10-category-grid {
+    grid-template-columns: 1fr;
+  }
+
+}
+
+
+@media (max-width: 700px) {
+
+  .resource10-gateway-hero {
+    padding-top: 35px;
+    padding-bottom: 40px;
+  }
+
+  .resource10-audience-hero,
+  .resource10-category-hero {
+    padding-top: 30px;
+    padding-bottom: 34px;
+  }
+
+  .resource10-item {
+    grid-template-columns: 1fr;
+
+    gap: 6px;
+
+    padding-top: 16px;
+    padding-bottom: 16px;
+  }
+
+  .resource10-source {
+    text-align: left;
+  }
+
+  .resource10-prev-next {
+    grid-template-columns: 1fr;
+  }
+
+  .resource10-prev-next a:last-child {
+    text-align: left;
+  }
+
+}
+
+
+/* END STAGE 9.5 — ACCESSIBLE RESOURCE LIBRARY */
