@@ -55,11 +55,11 @@
     "name": "Advanced Mathematics Support Programme",
     "description": "Post-16 Mathematics resources, including Core Maths, A-level Mathematics and Further Mathematics support.",
     "audience": "Students",
-    "category": "Enrichment & admissions",
+    "category": "University transition",
     "source": "amsp.org.uk",
     "tags": [
-      "Enrichment",
-      "Admissions"
+      "University",
+      "Transition"
     ],
     "aliases": [
       "enrichment",
@@ -70,9 +70,16 @@
       "STEP",
       "MAT",
       "PAT",
-      "ESAT"
+      "ESAT",
+      "university",
+      "uni",
+      "undergraduate",
+      "university transition",
+      "university preparation",
+      "advanced study",
+      "post-18"
     ],
-    "page": "/resources/students/enrichment-admissions/#resource-advanced-mathematics-support-programme-amsp-org-uk"
+    "page": "/resources/students/university-transition/#resource-advanced-mathematics-support-programme-amsp-org-uk"
   },
   {
     "name": "Anna Freud — Further Education Mental Health Resources",
@@ -1840,16 +1847,26 @@
     "name": "OpenLearn — Open University",
     "description": "Free Open University courses, articles and activities, including material in Science, Mathematics and Technology.",
     "audience": "Students",
-    "category": "Study & revision",
+    "category": "University transition",
     "source": "open.edu",
-    "tags": [],
+    "tags": [
+      "University",
+      "Transition"
+    ],
     "aliases": [
       "study",
       "revision",
       "independent learning",
-      "learning"
+      "learning",
+      "university",
+      "uni",
+      "undergraduate",
+      "university transition",
+      "university preparation",
+      "advanced study",
+      "post-18"
     ],
-    "page": "/resources/students/study-revision/#resource-openlearn-open-university-open-edu"
+    "page": "/resources/students/university-transition/#resource-openlearn-open-university-open-edu"
   },
   {
     "name": "OpenStax Calculus",
@@ -2783,16 +2800,26 @@
     "name": "TLMaths",
     "description": "A-level Mathematics and Further Mathematics videos and learning resources.",
     "audience": "Students",
-    "category": "Mathematics",
+    "category": "University transition",
     "source": "sites.google.com",
-    "tags": [],
+    "tags": [
+      "University",
+      "Transition"
+    ],
     "aliases": [
       "maths",
       "mathematics",
       "GCSE maths",
-      "A-level maths"
+      "A-level maths",
+      "university",
+      "uni",
+      "undergraduate",
+      "university transition",
+      "university preparation",
+      "advanced study",
+      "post-18"
     ],
-    "page": "/resources/students/mathematics/#resource-tlmaths-sites-google-com"
+    "page": "/resources/students/university-transition/#resource-tlmaths-sites-google-com"
   },
   {
     "name": "UKMT Competition Papers",
@@ -2844,11 +2871,11 @@
     "name": "Underground Mathematics",
     "description": "Cambridge-developed post-16 resources for deep A-level mathematical thinking and problem-solving.",
     "audience": "Students",
-    "category": "Enrichment & admissions",
+    "category": "University transition",
     "source": "undergroundmathematics.org",
     "tags": [
-      "Enrichment",
-      "Admissions"
+      "University",
+      "Transition"
     ],
     "aliases": [
       "enrichment",
@@ -2859,9 +2886,16 @@
       "STEP",
       "MAT",
       "PAT",
-      "ESAT"
+      "ESAT",
+      "university",
+      "uni",
+      "undergraduate",
+      "university transition",
+      "university preparation",
+      "advanced study",
+      "post-18"
     ],
-    "page": "/resources/students/enrichment-admissions/#resource-underground-mathematics-undergroundmathematics-org"
+    "page": "/resources/students/university-transition/#resource-underground-mathematics-undergroundmathematics-org"
   },
   {
     "name": "United Learning — Teaching and Learning: The United Way",
