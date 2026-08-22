@@ -5,6 +5,13 @@
     "audience": "Students",
     "category": "Mathematics",
     "source": "1stclassmaths.com",
+    "tags": [],
+    "aliases": [
+      "maths",
+      "mathematics",
+      "GCSE maths",
+      "A-level maths"
+    ],
     "page": "/resources/students/mathematics/#resource-1st-class-maths-1stclassmaths-com"
   },
   {
@@ -13,15 +20,36 @@
     "audience": "Students",
     "category": "Mathematics",
     "source": "accessmaths.co.uk",
+    "tags": [],
+    "aliases": [
+      "maths",
+      "mathematics",
+      "GCSE maths",
+      "A-level maths"
+    ],
     "page": "/resources/students/mathematics/#resource-access-maths-accessmaths-co-uk"
   },
   {
     "name": "Ada Computer Science",
     "description": "Free GCSE and A-level Computer Science resources and interactive study materials.",
-    "audience": "Further study",
-    "category": "Undergraduate resources",
+    "audience": "Students",
+    "category": "Computer Science",
     "source": "adacomputerscience.org",
-    "page": "/resources/further-study/undergraduate-resources/#resource-ada-computer-science-adacomputerscience-org"
+    "tags": [
+      "Computer Science",
+      "Computing"
+    ],
+    "aliases": [
+      "computer science",
+      "computing",
+      "CS",
+      "coding",
+      "programming",
+      "algorithms",
+      "data structures",
+      "software development"
+    ],
+    "page": "/resources/students/computer-science/#resource-ada-computer-science-adacomputerscience-org"
   },
   {
     "name": "Advanced Mathematics Support Programme",
@@ -29,15 +57,22 @@
     "audience": "Students",
     "category": "Enrichment & admissions",
     "source": "amsp.org.uk",
+    "tags": [
+      "Enrichment",
+      "Admissions"
+    ],
+    "aliases": [
+      "enrichment",
+      "admissions",
+      "competition",
+      "olympiad",
+      "UKMT",
+      "STEP",
+      "MAT",
+      "PAT",
+      "ESAT"
+    ],
     "page": "/resources/students/enrichment-admissions/#resource-advanced-mathematics-support-programme-amsp-org-uk"
-  },
-  {
-    "name": "Advanced Mathematics Support Programme",
-    "description": "",
-    "audience": "Teachers",
-    "category": "Classroom & curriculum resources",
-    "source": "amsp.org.uk",
-    "page": "/resources/teachers/classroom-curriculum/#resource-advanced-mathematics-support-programme-amsp-org-uk"
   },
   {
     "name": "Anna Freud — Further Education Mental Health Resources",
@@ -45,6 +80,20 @@
     "audience": "Students",
     "category": "Wellbeing & study skills",
     "source": "annafreud.org",
+    "tags": [
+      "Wellbeing",
+      "Study skills"
+    ],
+    "aliases": [
+      "wellbeing",
+      "well-being",
+      "mental health",
+      "exam stress",
+      "study skills",
+      "revision skills",
+      "self care",
+      "self-care"
+    ],
     "page": "/resources/students/wellbeing-study-skills/#resource-anna-freud-further-education-mental-health-resources-annafreud-org"
   },
   {
@@ -53,6 +102,20 @@
     "audience": "Students",
     "category": "Wellbeing & study skills",
     "source": "annafreud.org",
+    "tags": [
+      "Wellbeing",
+      "Study skills"
+    ],
+    "aliases": [
+      "wellbeing",
+      "well-being",
+      "mental health",
+      "exam stress",
+      "study skills",
+      "revision skills",
+      "self care",
+      "self-care"
+    ],
     "page": "/resources/students/wellbeing-study-skills/#resource-anna-freud-revision-and-self-care-annafreud-org"
   },
   {
@@ -61,6 +124,21 @@
     "audience": "Students",
     "category": "Enrichment & admissions",
     "source": "artofproblemsolving.com",
+    "tags": [
+      "Enrichment",
+      "Admissions"
+    ],
+    "aliases": [
+      "enrichment",
+      "admissions",
+      "competition",
+      "olympiad",
+      "UKMT",
+      "STEP",
+      "MAT",
+      "PAT",
+      "ESAT"
+    ],
     "page": "/resources/students/enrichment-admissions/#resource-aops-competition-resources-artofproblemsolving-com"
   },
   {
@@ -69,6 +147,19 @@
     "audience": "Students",
     "category": "Exams & past papers",
     "source": "aqa.org.uk",
+    "tags": [
+      "Exams",
+      "Past papers"
+    ],
+    "aliases": [
+      "exam",
+      "exams",
+      "past papers",
+      "past paper",
+      "mark schemes",
+      "exam practice",
+      "assessment"
+    ],
     "page": "/resources/students/exams-past-papers/#resource-aqa-past-papers-and-mark-schemes-aqa-org-uk"
   },
   {
@@ -77,6 +168,19 @@
     "audience": "Further study",
     "category": "Research & academic search",
     "source": "arxiv.org",
+    "tags": [
+      "Further study"
+    ],
+    "aliases": [
+      "research",
+      "academic",
+      "papers",
+      "journal",
+      "journals",
+      "scholar",
+      "academic search",
+      "literature"
+    ],
     "page": "/resources/further-study/research-academic-search/#resource-arxiv-arxiv-org"
   },
   {
@@ -85,6 +189,13 @@
     "audience": "Students",
     "category": "Study & revision",
     "source": "bbc.co.uk",
+    "tags": [],
+    "aliases": [
+      "study",
+      "revision",
+      "independent learning",
+      "learning"
+    ],
     "page": "/resources/students/study-revision/#resource-bbc-bitesize-bbc-co-uk"
   },
   {
@@ -93,6 +204,13 @@
     "audience": "Students",
     "category": "Mathematics",
     "source": "bicenmaths.uk",
+    "tags": [],
+    "aliases": [
+      "maths",
+      "mathematics",
+      "GCSE maths",
+      "A-level maths"
+    ],
     "page": "/resources/students/mathematics/#resource-bicen-maths-bicenmaths-uk"
   },
   {
@@ -101,6 +219,21 @@
     "audience": "Students",
     "category": "Enrichment & admissions",
     "source": "bpho.org.uk",
+    "tags": [
+      "Enrichment",
+      "Admissions"
+    ],
+    "aliases": [
+      "enrichment",
+      "admissions",
+      "competition",
+      "olympiad",
+      "UKMT",
+      "STEP",
+      "MAT",
+      "PAT",
+      "ESAT"
+    ],
     "page": "/resources/students/enrichment-admissions/#resource-bpho-intermediate-physics-challenge-bpho-org-uk"
   },
   {
@@ -109,6 +242,21 @@
     "audience": "Students",
     "category": "Enrichment & admissions",
     "source": "bpho.org.uk",
+    "tags": [
+      "Enrichment",
+      "Admissions"
+    ],
+    "aliases": [
+      "enrichment",
+      "admissions",
+      "competition",
+      "olympiad",
+      "UKMT",
+      "STEP",
+      "MAT",
+      "PAT",
+      "ESAT"
+    ],
     "page": "/resources/students/enrichment-admissions/#resource-bpho-question-bank-bpho-org-uk"
   },
   {
@@ -117,6 +265,21 @@
     "audience": "Students",
     "category": "Enrichment & admissions",
     "source": "bpho.org.uk",
+    "tags": [
+      "Enrichment",
+      "Admissions"
+    ],
+    "aliases": [
+      "enrichment",
+      "admissions",
+      "competition",
+      "olympiad",
+      "UKMT",
+      "STEP",
+      "MAT",
+      "PAT",
+      "ESAT"
+    ],
     "page": "/resources/students/enrichment-admissions/#resource-bpho-round-1-papers-bpho-org-uk"
   },
   {
@@ -125,6 +288,21 @@
     "audience": "Students",
     "category": "Enrichment & admissions",
     "source": "bpho.org.uk",
+    "tags": [
+      "Enrichment",
+      "Admissions"
+    ],
+    "aliases": [
+      "enrichment",
+      "admissions",
+      "competition",
+      "olympiad",
+      "UKMT",
+      "STEP",
+      "MAT",
+      "PAT",
+      "ESAT"
+    ],
     "page": "/resources/students/enrichment-admissions/#resource-bpho-senior-physics-challenge-bpho-org-uk"
   },
   {
@@ -133,6 +311,21 @@
     "audience": "Students",
     "category": "Enrichment & admissions",
     "source": "bpho.org.uk",
+    "tags": [
+      "Enrichment",
+      "Admissions"
+    ],
+    "aliases": [
+      "enrichment",
+      "admissions",
+      "competition",
+      "olympiad",
+      "UKMT",
+      "STEP",
+      "MAT",
+      "PAT",
+      "ESAT"
+    ],
     "page": "/resources/students/enrichment-admissions/#resource-british-physics-olympiad-bpho-org-uk"
   },
   {
@@ -141,6 +334,19 @@
     "audience": "Students",
     "category": "Exams & past papers",
     "source": "cambridgeinternational.org",
+    "tags": [
+      "Exams",
+      "Past papers"
+    ],
+    "aliases": [
+      "exam",
+      "exams",
+      "past papers",
+      "past paper",
+      "mark schemes",
+      "exam practice",
+      "assessment"
+    ],
     "page": "/resources/students/exams-past-papers/#resource-cambridge-international-past-papers-cambridgeinternational-org"
   },
   {
@@ -149,6 +355,21 @@
     "audience": "Students",
     "category": "Enrichment & admissions",
     "source": "maths.cam.ac.uk",
+    "tags": [
+      "Enrichment",
+      "Admissions"
+    ],
+    "aliases": [
+      "enrichment",
+      "admissions",
+      "competition",
+      "olympiad",
+      "UKMT",
+      "STEP",
+      "MAT",
+      "PAT",
+      "ESAT"
+    ],
     "page": "/resources/students/enrichment-admissions/#resource-cambridge-step-information-maths-cam-ac-uk"
   },
   {
@@ -157,14 +378,40 @@
     "audience": "Further study",
     "category": "Undergraduate resources",
     "source": "at2027.user.srcf.net",
+    "tags": [
+      "Further study"
+    ],
+    "aliases": [
+      "university",
+      "uni",
+      "undergraduate",
+      "lecture notes",
+      "university maths",
+      "university physics",
+      "advanced mathematics",
+      "Cambridge",
+      "Tripos"
+    ],
     "page": "/resources/further-study/undergraduate-resources/#resource-cambridge-tripos-notes-archive-at2027-user-srcf-net"
   },
   {
     "name": "Chartered College of Teaching",
-    "description": "",
+    "description": "Professional body providing research, professional learning and resources for teachers and school leaders.",
     "audience": "Teachers",
     "category": "Teacher training & ECT",
     "source": "chartered.college",
+    "tags": [
+      "Teacher"
+    ],
+    "aliases": [
+      "teacher training",
+      "ECT",
+      "early career teacher",
+      "ITT",
+      "QTS",
+      "PGCE",
+      "trainee teacher"
+    ],
     "page": "/resources/teachers/teacher-training-ect/#resource-chartered-college-of-teaching-chartered-college"
   },
   {
@@ -173,6 +420,20 @@
     "audience": "Students",
     "category": "Wellbeing & study skills",
     "source": "childline.org.uk",
+    "tags": [
+      "Wellbeing",
+      "Study skills"
+    ],
+    "aliases": [
+      "wellbeing",
+      "well-being",
+      "mental health",
+      "exam stress",
+      "study skills",
+      "revision skills",
+      "self care",
+      "self-care"
+    ],
     "page": "/resources/students/wellbeing-study-skills/#resource-childline-exam-stress-and-pressure-childline-org-uk"
   },
   {
@@ -181,6 +442,20 @@
     "audience": "Students",
     "category": "Wellbeing & study skills",
     "source": "childline.org.uk",
+    "tags": [
+      "Wellbeing",
+      "Study skills"
+    ],
+    "aliases": [
+      "wellbeing",
+      "well-being",
+      "mental health",
+      "exam stress",
+      "study skills",
+      "revision skills",
+      "self care",
+      "self-care"
+    ],
     "page": "/resources/students/wellbeing-study-skills/#resource-childline-preparing-for-exams-childline-org-uk"
   },
   {
@@ -189,6 +464,13 @@
     "audience": "Students",
     "category": "Study & revision",
     "source": "cognitoedu.org",
+    "tags": [],
+    "aliases": [
+      "study",
+      "revision",
+      "independent learning",
+      "learning"
+    ],
     "page": "/resources/students/study-revision/#resource-cognito-cognitoedu-org"
   },
   {
@@ -197,6 +479,13 @@
     "audience": "Students",
     "category": "Mathematics",
     "source": "corbettmaths.com",
+    "tags": [],
+    "aliases": [
+      "maths",
+      "mathematics",
+      "GCSE maths",
+      "A-level maths"
+    ],
     "page": "/resources/students/mathematics/#resource-corbettmaths-corbettmaths-com"
   },
   {
@@ -205,15 +494,42 @@
     "audience": "Further study",
     "category": "Research & academic search",
     "source": "core.ac.uk",
+    "tags": [
+      "Further study"
+    ],
+    "aliases": [
+      "research",
+      "academic",
+      "papers",
+      "journal",
+      "journals",
+      "scholar",
+      "academic search",
+      "literature"
+    ],
     "page": "/resources/further-study/research-academic-search/#resource-core-core-ac-uk"
   },
   {
     "name": "Craig ’n’ Dave",
     "description": "GCSE, IGCSE and A-level Computer Science videos, resources and study support.",
-    "audience": "Further study",
-    "category": "Undergraduate resources",
+    "audience": "Students",
+    "category": "Computer Science",
     "source": "craigndave.org",
-    "page": "/resources/further-study/undergraduate-resources/#resource-craig-n-dave-craigndave-org"
+    "tags": [
+      "Computer Science",
+      "Computing"
+    ],
+    "aliases": [
+      "computer science",
+      "computing",
+      "CS",
+      "coding",
+      "programming",
+      "algorithms",
+      "data structures",
+      "software development"
+    ],
+    "page": "/resources/students/computer-science/#resource-craig-n-dave-craigndave-org"
   },
   {
     "name": "David Tong’s Lecture Notes",
@@ -221,14 +537,38 @@
     "audience": "Further study",
     "category": "Undergraduate resources",
     "source": "damtp.cam.ac.uk",
+    "tags": [
+      "Further study"
+    ],
+    "aliases": [
+      "university",
+      "uni",
+      "undergraduate",
+      "lecture notes",
+      "university maths",
+      "university physics",
+      "advanced mathematics",
+      "Cambridge",
+      "theoretical physics"
+    ],
     "page": "/resources/further-study/undergraduate-resources/#resource-david-tongs-lecture-notes-damtp-cam-ac-uk"
   },
   {
     "name": "Deans for Impact — The Science of Learning",
-    "description": "",
+    "description": "Evidence-informed publication summarising principles from cognitive science that are relevant to teaching and learning.",
     "audience": "Teachers",
     "category": "Evidence-informed teaching",
     "source": "deansforimpact.org",
+    "tags": [
+      "Teacher"
+    ],
+    "aliases": [
+      "evidence",
+      "evidence informed",
+      "research",
+      "pedagogy",
+      "teaching and learning"
+    ],
     "page": "/resources/teachers/evidence-informed-teaching/#resource-deans-for-impact-the-science-of-learning-deansforimpact-org"
   },
   {
@@ -237,6 +577,19 @@
     "audience": "Further study",
     "category": "Academic & digital tools",
     "source": "desmos.com",
+    "tags": [
+      "Further study"
+    ],
+    "aliases": [
+      "academic tools",
+      "digital tools",
+      "coding",
+      "LaTeX",
+      "Python",
+      "Git",
+      "computation",
+      "reference management"
+    ],
     "page": "/resources/further-study/academic-digital-tools/#resource-desmos-desmos-com"
   },
   {
@@ -245,22 +598,57 @@
     "audience": "Further study",
     "category": "Undergraduate resources",
     "source": "dec41.user.srcf.net",
+    "tags": [
+      "Further study"
+    ],
+    "aliases": [
+      "university",
+      "uni",
+      "undergraduate",
+      "lecture notes",
+      "university maths",
+      "university physics",
+      "advanced mathematics",
+      "Cambridge"
+    ],
     "page": "/resources/further-study/undergraduate-resources/#resource-dexter-chuas-cambridge-notes-dec41-user-srcf-net"
   },
   {
     "name": "DfE Behaviour in Schools Guidance",
-    "description": "",
+    "description": "Department for Education guidance on developing and maintaining high standards of behaviour in schools.",
     "audience": "Teachers",
     "category": "Safeguarding & statutory guidance",
     "source": "gov.uk",
+    "tags": [
+      "Teacher"
+    ],
+    "aliases": [
+      "safeguarding",
+      "statutory",
+      "KCSIE",
+      "DfE guidance",
+      "behaviour",
+      "professional duties"
+    ],
     "page": "/resources/teachers/safeguarding-statutory/#resource-dfe-behaviour-in-schools-guidance-gov-uk"
   },
   {
     "name": "DfE Statutory Guidance for Schools",
-    "description": "",
+    "description": "Collection of statutory guidance and official requirements applying to schools in England.",
     "audience": "Teachers",
     "category": "Safeguarding & statutory guidance",
     "source": "gov.uk",
+    "tags": [
+      "Teacher"
+    ],
+    "aliases": [
+      "safeguarding",
+      "statutory",
+      "KCSIE",
+      "DfE guidance",
+      "behaviour",
+      "professional duties"
+    ],
     "page": "/resources/teachers/safeguarding-statutory/#resource-dfe-statutory-guidance-for-schools-gov-uk"
   },
   {
@@ -269,6 +657,16 @@
     "audience": "Further study",
     "category": "Open books",
     "source": "doabooks.org",
+    "tags": [
+      "Further study"
+    ],
+    "aliases": [
+      "books",
+      "textbook",
+      "textbooks",
+      "open access",
+      "free books"
+    ],
     "page": "/resources/further-study/open-books/#resource-directory-of-open-access-books-doabooks-org"
   },
   {
@@ -277,6 +675,19 @@
     "audience": "Further study",
     "category": "Research & academic search",
     "source": "doaj.org",
+    "tags": [
+      "Further study"
+    ],
+    "aliases": [
+      "research",
+      "academic",
+      "papers",
+      "journal",
+      "journals",
+      "scholar",
+      "academic search",
+      "literature"
+    ],
     "page": "/resources/further-study/research-academic-search/#resource-directory-of-open-access-journals-doaj-org"
   },
   {
@@ -285,6 +696,13 @@
     "audience": "Students",
     "category": "Mathematics",
     "source": "draustinmaths.com",
+    "tags": [],
+    "aliases": [
+      "maths",
+      "mathematics",
+      "GCSE maths",
+      "A-level maths"
+    ],
     "page": "/resources/students/mathematics/#resource-dr-austin-maths-draustinmaths-com"
   },
   {
@@ -293,30 +711,64 @@
     "audience": "Students",
     "category": "Mathematics",
     "source": "drfrost.org",
+    "tags": [],
+    "aliases": [
+      "maths",
+      "mathematics",
+      "GCSE maths",
+      "A-level maths"
+    ],
     "page": "/resources/students/mathematics/#resource-dr-frost-maths-drfrost-org"
   },
   {
     "name": "EEF Guidance Reports",
     "description": "",
-    "audience": "Teachers",
-    "category": "Classroom & curriculum resources",
+    "audience": "Students",
+    "category": "Study & revision",
     "source": "educationendowmentfoundation.org.uk",
-    "page": "/resources/teachers/classroom-curriculum/#resource-eef-guidance-reports-educationendowmentfoundation-org-uk"
+    "tags": [],
+    "aliases": [
+      "study",
+      "revision",
+      "independent learning",
+      "learning"
+    ],
+    "page": "/resources/students/study-revision/#resource-eef-guidance-reports-educationendowmentfoundation-org-uk"
   },
   {
     "name": "EEF Teaching and Learning Toolkit",
-    "description": "",
+    "description": "Evidence summary comparing educational approaches by impact, evidence strength and estimated cost.",
     "audience": "Teachers",
     "category": "Evidence-informed teaching",
     "source": "educationendowmentfoundation.org.uk",
+    "tags": [
+      "Teacher"
+    ],
+    "aliases": [
+      "evidence",
+      "evidence informed",
+      "research",
+      "pedagogy",
+      "teaching and learning"
+    ],
     "page": "/resources/teachers/evidence-informed-teaching/#resource-eef-teaching-and-learning-toolkit-educationendowmentfoundation-org-uk"
   },
   {
     "name": "Effective Professional Development",
-    "description": "",
+    "description": "EEF guidance on the design and implementation of effective professional development for educators.",
     "audience": "Teachers",
     "category": "Evidence-informed teaching",
     "source": "educationendowmentfoundation.org.uk",
+    "tags": [
+      "Teacher"
+    ],
+    "aliases": [
+      "evidence",
+      "evidence informed",
+      "research",
+      "pedagogy",
+      "teaching and learning"
+    ],
     "page": "/resources/teachers/evidence-informed-teaching/#resource-effective-professional-development-educationendowmentfoundation-org-uk"
   },
   {
@@ -325,6 +777,21 @@
     "audience": "Students",
     "category": "Enrichment & admissions",
     "source": "web.evanchen.cc",
+    "tags": [
+      "Enrichment",
+      "Admissions"
+    ],
+    "aliases": [
+      "enrichment",
+      "admissions",
+      "competition",
+      "olympiad",
+      "UKMT",
+      "STEP",
+      "MAT",
+      "PAT",
+      "ESAT"
+    ],
     "page": "/resources/students/enrichment-admissions/#resource-evan-chens-olympiad-resources-web-evanchen-cc"
   },
   {
@@ -333,6 +800,19 @@
     "audience": "Students",
     "category": "Exams & past papers",
     "source": "examq.co.uk",
+    "tags": [
+      "Exams",
+      "Past papers"
+    ],
+    "aliases": [
+      "exam",
+      "exams",
+      "past papers",
+      "past paper",
+      "mark schemes",
+      "exam practice",
+      "assessment"
+    ],
     "page": "/resources/students/exams-past-papers/#resource-examq-examq-co-uk"
   },
   {
@@ -341,23 +821,54 @@
     "audience": "Students",
     "category": "Mathematics",
     "source": "examsolutions.net",
+    "tags": [],
+    "aliases": [
+      "maths",
+      "mathematics",
+      "GCSE maths",
+      "A-level maths"
+    ],
     "page": "/resources/students/mathematics/#resource-examsolutions-examsolutions-net"
   },
   {
     "name": "Feedback",
-    "description": "",
+    "description": "EEF guidance report examining evidence and practical principles for effective feedback.",
     "audience": "Teachers",
     "category": "Evidence-informed teaching",
     "source": "educationendowmentfoundation.org.uk",
+    "tags": [
+      "Teacher"
+    ],
+    "aliases": [
+      "evidence",
+      "evidence informed",
+      "research",
+      "pedagogy",
+      "teaching and learning"
+    ],
     "page": "/resources/teachers/evidence-informed-teaching/#resource-feedback-educationendowmentfoundation-org-uk"
   },
   {
     "name": "freeCodeCamp",
     "description": "Free programming, web development, data and software-development courses and tutorials.",
-    "audience": "Further study",
-    "category": "Undergraduate resources",
+    "audience": "Students",
+    "category": "Computer Science",
     "source": "freecodecamp.org",
-    "page": "/resources/further-study/undergraduate-resources/#resource-freecodecamp-freecodecamp-org"
+    "tags": [
+      "Computer Science",
+      "Computing"
+    ],
+    "aliases": [
+      "computer science",
+      "computing",
+      "CS",
+      "coding",
+      "programming",
+      "algorithms",
+      "data structures",
+      "software development"
+    ],
+    "page": "/resources/students/computer-science/#resource-freecodecamp-freecodecamp-org"
   },
   {
     "name": "FreeScienceLessons",
@@ -365,6 +876,13 @@
     "audience": "Students",
     "category": "Physics & Science",
     "source": "freesciencelessons.co.uk",
+    "tags": [],
+    "aliases": [
+      "physics",
+      "science",
+      "GCSE physics",
+      "A-level physics"
+    ],
     "page": "/resources/students/physics-science/#resource-freesciencelessons-freesciencelessons-co-uk"
   },
   {
@@ -373,6 +891,19 @@
     "audience": "Further study",
     "category": "Academic & digital tools",
     "source": "geogebra.org",
+    "tags": [
+      "Further study"
+    ],
+    "aliases": [
+      "academic tools",
+      "digital tools",
+      "coding",
+      "LaTeX",
+      "Python",
+      "Git",
+      "computation",
+      "reference management"
+    ],
     "page": "/resources/further-study/academic-digital-tools/#resource-geogebra-geogebra-org"
   },
   {
@@ -381,6 +912,19 @@
     "audience": "Further study",
     "category": "Academic & digital tools",
     "source": "git-scm.com",
+    "tags": [
+      "Further study"
+    ],
+    "aliases": [
+      "academic tools",
+      "digital tools",
+      "coding",
+      "LaTeX",
+      "Python",
+      "Git",
+      "computation",
+      "reference management"
+    ],
     "page": "/resources/further-study/academic-digital-tools/#resource-git-git-scm-com"
   },
   {
@@ -389,6 +933,19 @@
     "audience": "Further study",
     "category": "Academic & digital tools",
     "source": "github.com",
+    "tags": [
+      "Further study"
+    ],
+    "aliases": [
+      "academic tools",
+      "digital tools",
+      "coding",
+      "LaTeX",
+      "Python",
+      "Git",
+      "computation",
+      "reference management"
+    ],
     "page": "/resources/further-study/academic-digital-tools/#resource-github-github-com"
   },
   {
@@ -397,22 +954,37 @@
     "audience": "Further study",
     "category": "Research & academic search",
     "source": "scholar.google.com",
-    "page": "/resources/further-study/research-academic-search/#resource-google-scholar-scholar-google-com"
-  },
-  {
-    "name": "Google Scholar",
-    "description": "",
-    "audience": "Further study",
-    "category": "Research & academic search",
-    "source": "scholar.google.com",
+    "tags": [
+      "Further study"
+    ],
+    "aliases": [
+      "research",
+      "academic",
+      "papers",
+      "journal",
+      "journals",
+      "scholar",
+      "academic search",
+      "literature"
+    ],
     "page": "/resources/further-study/research-academic-search/#resource-google-scholar-scholar-google-com"
   },
   {
     "name": "Great Teaching Toolkit Evidence Review",
-    "description": "",
+    "description": "Evidence review examining classroom practice and factors associated with effective teaching.",
     "audience": "Teachers",
     "category": "Evidence-informed teaching",
     "source": "cambridgeinternational.org",
+    "tags": [
+      "Teacher"
+    ],
+    "aliases": [
+      "evidence",
+      "evidence informed",
+      "research",
+      "pedagogy",
+      "teaching and learning"
+    ],
     "page": "/resources/teachers/evidence-informed-teaching/#resource-great-teaching-toolkit-evidence-review-cambridgeinternational-org"
   },
   {
@@ -421,15 +993,43 @@
     "audience": "Further study",
     "category": "Undergraduate resources",
     "source": "hz430.user.srcf.net",
+    "tags": [
+      "Further study"
+    ],
+    "aliases": [
+      "university",
+      "uni",
+      "undergraduate",
+      "lecture notes",
+      "university maths",
+      "university physics",
+      "advanced mathematics",
+      "Cambridge"
+    ],
     "page": "/resources/further-study/undergraduate-resources/#resource-haiyang-zhus-cambridge-notes-hz430-user-srcf-net"
   },
   {
     "name": "Harvard CS50x",
     "description": "Introductory Computer Science course covering programming, algorithms, data structures, software engineering and web development.",
-    "audience": "Further study",
-    "category": "Undergraduate resources",
+    "audience": "Students",
+    "category": "Computer Science",
     "source": "cs50.harvard.edu",
-    "page": "/resources/further-study/undergraduate-resources/#resource-harvard-cs50x-cs50-harvard-edu"
+    "tags": [
+      "Computer Science",
+      "Computing"
+    ],
+    "aliases": [
+      "computer science",
+      "computing",
+      "CS",
+      "coding",
+      "programming",
+      "algorithms",
+      "data structures",
+      "software development",
+      "university"
+    ],
+    "page": "/resources/students/computer-science/#resource-harvard-cs50x-cs50-harvard-edu"
   },
   {
     "name": "HyperPhysics",
@@ -437,39 +1037,90 @@
     "audience": "Further study",
     "category": "Undergraduate resources",
     "source": "hyperphysics.phy-astr.gsu.edu",
+    "tags": [
+      "Further study"
+    ],
+    "aliases": [
+      "university",
+      "uni",
+      "undergraduate",
+      "lecture notes",
+      "university maths",
+      "university physics",
+      "advanced mathematics"
+    ],
     "page": "/resources/further-study/undergraduate-resources/#resource-hyperphysics-hyperphysics-phy-astr-gsu-edu"
   },
   {
     "name": "Improving Behaviour in Schools",
-    "description": "",
+    "description": "EEF guidance on evidence-informed approaches to behaviour and school culture.",
     "audience": "Teachers",
     "category": "Evidence-informed teaching",
     "source": "educationendowmentfoundation.org.uk",
+    "tags": [
+      "Teacher"
+    ],
+    "aliases": [
+      "evidence",
+      "evidence informed",
+      "research",
+      "pedagogy",
+      "teaching and learning"
+    ],
     "page": "/resources/teachers/evidence-informed-teaching/#resource-improving-behaviour-in-schools-educationendowmentfoundation-org-uk"
   },
   {
     "name": "Improving Mathematics in Key Stages 2 and 3",
-    "description": "",
+    "description": "EEF guidance report on evidence-informed approaches to Mathematics teaching across Key Stages 2 and 3.",
     "audience": "Teachers",
     "category": "Evidence-informed teaching",
     "source": "educationendowmentfoundation.org.uk",
+    "tags": [
+      "Teacher"
+    ],
+    "aliases": [
+      "evidence",
+      "evidence informed",
+      "research",
+      "pedagogy",
+      "teaching and learning"
+    ],
     "page": "/resources/teachers/evidence-informed-teaching/#resource-improving-mathematics-in-key-stages-2-and-3-educationendowmentfoundation-org-uk"
   },
   {
     "name": "Initial Teacher Training and Early Career Framework",
-    "description": "",
+    "description": "External resource relevant to teacher training & ect.",
     "audience": "Teachers",
     "category": "Teacher training & ECT",
     "source": "gov.uk",
+    "tags": [
+      "Teacher"
+    ],
+    "aliases": [
+      "teacher training",
+      "ECT",
+      "early career teacher",
+      "ITT",
+      "QTS",
+      "PGCE",
+      "trainee teacher"
+    ],
     "page": "/resources/teachers/teacher-training-ect/#resource-initial-teacher-training-and-early-career-framework-gov-uk"
   },
   {
     "name": "Internet Archive",
     "description": "Digital library of books, media, historical materials and archived web resources.",
-    "audience": "Further study",
-    "category": "Open books",
+    "audience": "Students",
+    "category": "Study & revision",
     "source": "archive.org",
-    "page": "/resources/further-study/open-books/#resource-internet-archive-archive-org"
+    "tags": [],
+    "aliases": [
+      "study",
+      "revision",
+      "independent learning",
+      "learning"
+    ],
+    "page": "/resources/students/study-revision/#resource-internet-archive-archive-org"
   },
   {
     "name": "Internet Archive Scholar",
@@ -477,23 +1128,61 @@
     "audience": "Further study",
     "category": "Research & academic search",
     "source": "scholar.archive.org",
+    "tags": [
+      "Further study"
+    ],
+    "aliases": [
+      "research",
+      "academic",
+      "papers",
+      "journal",
+      "journals",
+      "scholar",
+      "academic search",
+      "literature"
+    ],
     "page": "/resources/further-study/research-academic-search/#resource-internet-archive-scholar-scholar-archive-org"
   },
   {
     "name": "IOP Spark",
-    "description": "",
+    "description": "External resource relevant to subject professional development.",
     "audience": "Teachers",
     "category": "Subject professional development",
     "source": "spark.iop.org",
+    "tags": [
+      "Teacher"
+    ],
+    "aliases": [
+      "CPD",
+      "professional development",
+      "subject development",
+      "subject knowledge"
+    ],
     "page": "/resources/teachers/subject-professional-development/#resource-iop-spark-spark-iop-org"
   },
   {
     "name": "Isaac Computer Science",
     "description": "Free online GCSE and A-level Computer Science platform for students and teachers.",
-    "audience": "Further study",
-    "category": "Undergraduate resources",
+    "audience": "Students",
+    "category": "Computer Science",
     "source": "isaaccomputerscience.org",
-    "page": "/resources/further-study/undergraduate-resources/#resource-isaac-computer-science-isaaccomputerscience-org"
+    "tags": [
+      "Computer Science",
+      "Computing"
+    ],
+    "aliases": [
+      "computer science",
+      "computing",
+      "CS",
+      "coding",
+      "programming",
+      "algorithms",
+      "data structures",
+      "software development",
+      "GCSE",
+      "A-level"
+    ],
+    "page": "/resources/students/computer-science/#resource-isaac-computer-science-isaaccomputerscience-org"
   },
   {
     "name": "Isaac Science / Isaac Physics",
@@ -501,6 +1190,13 @@
     "audience": "Students",
     "category": "Physics & Science",
     "source": "isaacscience.org",
+    "tags": [],
+    "aliases": [
+      "physics",
+      "science",
+      "GCSE physics",
+      "A-level physics"
+    ],
     "page": "/resources/students/physics-science/#resource-isaac-science-isaac-physics-isaacscience-org"
   },
   {
@@ -509,6 +1205,19 @@
     "audience": "Further study",
     "category": "Research & academic search",
     "source": "jstor.org",
+    "tags": [
+      "Further study"
+    ],
+    "aliases": [
+      "research",
+      "academic",
+      "papers",
+      "journal",
+      "journals",
+      "scholar",
+      "academic search",
+      "literature"
+    ],
     "page": "/resources/further-study/research-academic-search/#resource-jstor-open-content-jstor-org"
   },
   {
@@ -517,14 +1226,38 @@
     "audience": "Further study",
     "category": "Academic & digital tools",
     "source": "jupyter.org",
+    "tags": [
+      "Further study"
+    ],
+    "aliases": [
+      "academic tools",
+      "digital tools",
+      "coding",
+      "LaTeX",
+      "Python",
+      "Git",
+      "computation",
+      "reference management"
+    ],
     "page": "/resources/further-study/academic-digital-tools/#resource-jupyter-jupyter-org"
   },
   {
     "name": "Keeping Children Safe in Education",
-    "description": "",
+    "description": "External resource relevant to safeguarding & statutory guidance.",
     "audience": "Teachers",
     "category": "Safeguarding & statutory guidance",
     "source": "gov.uk",
+    "tags": [
+      "Teacher"
+    ],
+    "aliases": [
+      "safeguarding",
+      "statutory",
+      "KCSIE",
+      "DfE guidance",
+      "behaviour",
+      "professional duties"
+    ],
     "page": "/resources/teachers/safeguarding-statutory/#resource-keeping-children-safe-in-education-gov-uk"
   },
   {
@@ -533,6 +1266,13 @@
     "audience": "Students",
     "category": "Study & revision",
     "source": "khanacademy.org",
+    "tags": [],
+    "aliases": [
+      "study",
+      "revision",
+      "independent learning",
+      "learning"
+    ],
     "page": "/resources/students/study-revision/#resource-khan-academy-khanacademy-org"
   },
   {
@@ -541,15 +1281,20 @@
     "audience": "Further study",
     "category": "Academic & digital tools",
     "source": "latex-project.org",
+    "tags": [
+      "Further study"
+    ],
+    "aliases": [
+      "academic tools",
+      "digital tools",
+      "coding",
+      "LaTeX",
+      "Python",
+      "Git",
+      "computation",
+      "reference management"
+    ],
     "page": "/resources/further-study/academic-digital-tools/#resource-latex-project-latex-project-org"
-  },
-  {
-    "name": "LinkedIn",
-    "description": "",
-    "audience": "Further study",
-    "category": "Academic & digital tools",
-    "source": "linkedin.com",
-    "page": "/resources/further-study/academic-digital-tools/#resource-linkedin-linkedin-com"
   },
   {
     "name": "Mathigon",
@@ -557,6 +1302,13 @@
     "audience": "Students",
     "category": "Mathematics",
     "source": "mathigon.org",
+    "tags": [],
+    "aliases": [
+      "maths",
+      "mathematics",
+      "GCSE maths",
+      "A-level maths"
+    ],
     "page": "/resources/students/mathematics/#resource-mathigon-mathigon-org"
   },
   {
@@ -565,14 +1317,30 @@
     "audience": "Students",
     "category": "Mathematics",
     "source": "mathsgenie.co.uk",
+    "tags": [],
+    "aliases": [
+      "maths",
+      "mathematics",
+      "GCSE maths",
+      "A-level maths"
+    ],
     "page": "/resources/students/mathematics/#resource-maths-genie-mathsgenie-co-uk"
   },
   {
     "name": "Maths Hubs",
-    "description": "",
+    "description": "National network supporting Mathematics professional development, curriculum improvement and collaborative practice.",
     "audience": "Teachers",
     "category": "Subject professional development",
     "source": "ncetm.org.uk",
+    "tags": [
+      "Teacher"
+    ],
+    "aliases": [
+      "CPD",
+      "professional development",
+      "subject development",
+      "subject knowledge"
+    ],
     "page": "/resources/teachers/subject-professional-development/#resource-maths-hubs-ncetm-org-uk"
   },
   {
@@ -581,6 +1349,13 @@
     "audience": "Students",
     "category": "Mathematics",
     "source": "maths4everyone.com",
+    "tags": [],
+    "aliases": [
+      "maths",
+      "mathematics",
+      "GCSE maths",
+      "A-level maths"
+    ],
     "page": "/resources/students/mathematics/#resource-maths4everyone-maths4everyone-com"
   },
   {
@@ -589,6 +1364,13 @@
     "audience": "Students",
     "category": "Mathematics",
     "source": "mathsbot.com",
+    "tags": [],
+    "aliases": [
+      "maths",
+      "mathematics",
+      "GCSE maths",
+      "A-level maths"
+    ],
     "page": "/resources/students/mathematics/#resource-mathsbot-mathsbot-com"
   },
   {
@@ -597,14 +1379,38 @@
     "audience": "Students",
     "category": "Wellbeing & study skills",
     "source": "mentallyhealthyschools.org.uk",
+    "tags": [
+      "Wellbeing",
+      "Study skills"
+    ],
+    "aliases": [
+      "wellbeing",
+      "well-being",
+      "mental health",
+      "exam stress",
+      "study skills",
+      "revision skills",
+      "self care",
+      "self-care"
+    ],
     "page": "/resources/students/wellbeing-study-skills/#resource-mentally-healthy-schools-managing-exam-stress-mentallyhealthyschools-org-uk"
   },
   {
     "name": "Metacognition and Self-Regulated Learning",
-    "description": "",
+    "description": "External resource relevant to evidence-informed teaching.",
     "audience": "Teachers",
     "category": "Evidence-informed teaching",
     "source": "educationendowmentfoundation.org.uk",
+    "tags": [
+      "Teacher"
+    ],
+    "aliases": [
+      "evidence",
+      "evidence informed",
+      "research",
+      "pedagogy",
+      "teaching and learning"
+    ],
     "page": "/resources/teachers/evidence-informed-teaching/#resource-metacognition-and-self-regulated-learning-educationendowmentfoundation-org-uk"
   },
   {
@@ -613,15 +1419,43 @@
     "audience": "Students",
     "category": "Wellbeing & study skills",
     "source": "mind.org.uk",
+    "tags": [
+      "Wellbeing",
+      "Study skills"
+    ],
+    "aliases": [
+      "wellbeing",
+      "well-being",
+      "mental health",
+      "exam stress",
+      "study skills",
+      "revision skills",
+      "self care",
+      "self-care"
+    ],
     "page": "/resources/students/wellbeing-study-skills/#resource-mind-exam-stress-mind-org-uk"
   },
   {
     "name": "MIT OpenCourseWare — Computer Science",
     "description": "Open MIT materials in Computer Science, programming, algorithms, systems and electrical engineering.",
-    "audience": "Further study",
-    "category": "Undergraduate resources",
+    "audience": "Students",
+    "category": "Computer Science",
     "source": "ocw.mit.edu",
-    "page": "/resources/further-study/undergraduate-resources/#resource-mit-opencourseware-computer-science-ocw-mit-edu"
+    "tags": [
+      "Computer Science",
+      "Computing"
+    ],
+    "aliases": [
+      "computer science",
+      "computing",
+      "CS",
+      "coding",
+      "programming",
+      "algorithms",
+      "data structures",
+      "software development"
+    ],
+    "page": "/resources/students/computer-science/#resource-mit-opencourseware-computer-science-ocw-mit-edu"
   },
   {
     "name": "MIT OpenCourseWare — Differential Equations",
@@ -629,6 +1463,18 @@
     "audience": "Further study",
     "category": "Undergraduate resources",
     "source": "ocw.mit.edu",
+    "tags": [
+      "Further study"
+    ],
+    "aliases": [
+      "university",
+      "uni",
+      "undergraduate",
+      "lecture notes",
+      "university maths",
+      "university physics",
+      "advanced mathematics"
+    ],
     "page": "/resources/further-study/undergraduate-resources/#resource-mit-opencourseware-differential-equations-ocw-mit-edu"
   },
   {
@@ -637,15 +1483,34 @@
     "audience": "Further study",
     "category": "Undergraduate resources",
     "source": "ocw.mit.edu",
+    "tags": [
+      "Further study"
+    ],
+    "aliases": [
+      "university",
+      "uni",
+      "undergraduate",
+      "lecture notes",
+      "university maths",
+      "university physics",
+      "advanced mathematics"
+    ],
     "page": "/resources/further-study/undergraduate-resources/#resource-mit-opencourseware-mathematics-ocw-mit-edu"
   },
   {
     "name": "MIT OpenCourseWare — Physics",
     "description": "Open MIT Physics course materials, including mechanics, electromagnetism, quantum physics and related topics.",
-    "audience": "Further study",
-    "category": "Undergraduate resources",
+    "audience": "Students",
+    "category": "Physics & Science",
     "source": "ocw.mit.edu",
-    "page": "/resources/further-study/undergraduate-resources/#resource-mit-opencourseware-physics-ocw-mit-edu"
+    "tags": [],
+    "aliases": [
+      "physics",
+      "science",
+      "GCSE physics",
+      "A-level physics"
+    ],
+    "page": "/resources/students/physics-science/#resource-mit-opencourseware-physics-ocw-mit-edu"
   },
   {
     "name": "MME Revise / Maths Made Easy",
@@ -653,22 +1518,70 @@
     "audience": "Students",
     "category": "Mathematics",
     "source": "mmerevise.co.uk",
+    "tags": [],
+    "aliases": [
+      "maths",
+      "mathematics",
+      "GCSE maths",
+      "A-level maths"
+    ],
     "page": "/resources/students/mathematics/#resource-mme-revise-maths-made-easy-mmerevise-co-uk"
   },
   {
     "name": "Mr Barton Maths",
     "description": "",
-    "audience": "Teachers",
-    "category": "Classroom & curriculum resources",
+    "audience": "Students",
+    "category": "Mathematics",
     "source": "mrbartonmaths.com",
-    "page": "/resources/teachers/classroom-curriculum/#resource-mr-barton-maths-mrbartonmaths-com"
+    "tags": [],
+    "aliases": [
+      "maths",
+      "mathematics",
+      "GCSE maths",
+      "A-level maths"
+    ],
+    "page": "/resources/students/mathematics/#resource-mr-barton-maths-mrbartonmaths-com"
+  },
+  {
+    "name": "nasen — SEND Resources",
+    "description": "Resource bank from nasen covering SEND knowledge, inclusive practice, professional learning and evidence-informed support.",
+    "audience": "Teachers",
+    "category": "SEND & inclusion",
+    "source": "nasen.org.uk",
+    "tags": [
+      "SEND",
+      "Inclusion",
+      "Teacher"
+    ],
+    "aliases": [
+      "SEND",
+      "SEN",
+      "special educational needs",
+      "special educational needs and disabilities",
+      "disability",
+      "inclusion",
+      "inclusive teaching",
+      "adaptive teaching",
+      "SENCO",
+      "neurodiversity"
+    ],
+    "page": "/resources/teachers/send-inclusion/#resource-nasen-send-resources-nasen-org-uk"
   },
   {
     "name": "NCETM",
-    "description": "",
+    "description": "National Centre for Excellence in the Teaching of Mathematics, providing curriculum, professional-development and subject resources.",
     "audience": "Teachers",
     "category": "Subject professional development",
     "source": "ncetm.org.uk",
+    "tags": [
+      "Teacher"
+    ],
+    "aliases": [
+      "CPD",
+      "professional development",
+      "subject development",
+      "subject knowledge"
+    ],
     "page": "/resources/teachers/subject-professional-development/#resource-ncetm-ncetm-org-uk"
   },
   {
@@ -677,6 +1590,20 @@
     "audience": "Students",
     "category": "Wellbeing & study skills",
     "source": "nhs.uk",
+    "tags": [
+      "Wellbeing",
+      "Study skills"
+    ],
+    "aliases": [
+      "wellbeing",
+      "well-being",
+      "mental health",
+      "exam stress",
+      "study skills",
+      "revision skills",
+      "self care",
+      "self-care"
+    ],
     "page": "/resources/students/wellbeing-study-skills/#resource-nhs-tips-on-preparing-for-exams-nhs-uk"
   },
   {
@@ -685,15 +1612,34 @@
     "audience": "Further study",
     "category": "Undergraduate resources",
     "source": "dlmf.nist.gov",
+    "tags": [
+      "Further study"
+    ],
+    "aliases": [
+      "university",
+      "uni",
+      "undergraduate",
+      "lecture notes",
+      "university maths",
+      "university physics",
+      "advanced mathematics"
+    ],
     "page": "/resources/further-study/undergraduate-resources/#resource-nist-digital-library-of-mathematical-functions-dlmf-nist-gov"
   },
   {
     "name": "NRICH",
     "description": "Cambridge-based problem-solving resources for pupils and teachers, supporting mathematical reasoning and enrichment.",
     "audience": "Students",
-    "category": "Enrichment & admissions",
+    "category": "Mathematics",
     "source": "nrich.maths.org",
-    "page": "/resources/students/enrichment-admissions/#resource-nrich-nrich-maths-org"
+    "tags": [],
+    "aliases": [
+      "maths",
+      "mathematics",
+      "GCSE maths",
+      "A-level maths"
+    ],
+    "page": "/resources/students/mathematics/#resource-nrich-nrich-maths-org"
   },
   {
     "name": "Oak National Academy",
@@ -701,6 +1647,13 @@
     "audience": "Students",
     "category": "Study & revision",
     "source": "thenational.academy",
+    "tags": [],
+    "aliases": [
+      "study",
+      "revision",
+      "independent learning",
+      "learning"
+    ],
     "page": "/resources/students/study-revision/#resource-oak-national-academy-thenational-academy"
   },
   {
@@ -709,6 +1662,16 @@
     "audience": "Further study",
     "category": "Open books",
     "source": "oapen.org",
+    "tags": [
+      "Further study"
+    ],
+    "aliases": [
+      "books",
+      "textbook",
+      "textbooks",
+      "open access",
+      "free books"
+    ],
     "page": "/resources/further-study/open-books/#resource-oapen-oapen-org"
   },
   {
@@ -717,14 +1680,36 @@
     "audience": "Students",
     "category": "Exams & past papers",
     "source": "ocr.org.uk",
+    "tags": [
+      "Exams",
+      "Past papers"
+    ],
+    "aliases": [
+      "exam",
+      "exams",
+      "past papers",
+      "past paper",
+      "mark schemes",
+      "exam practice",
+      "assessment"
+    ],
     "page": "/resources/students/exams-past-papers/#resource-ocr-past-paper-finder-ocr-org-uk"
   },
   {
     "name": "Ofsted Mathematics Subject Report",
-    "description": "",
+    "description": "Ofsted subject report examining Mathematics curriculum and teaching across schools in England.",
     "audience": "Teachers",
     "category": "Subject professional development",
     "source": "gov.uk",
+    "tags": [
+      "Teacher"
+    ],
+    "aliases": [
+      "CPD",
+      "professional development",
+      "subject development",
+      "subject knowledge"
+    ],
     "page": "/resources/teachers/subject-professional-development/#resource-ofsted-mathematics-subject-report-gov-uk"
   },
   {
@@ -733,15 +1718,41 @@
     "audience": "Further study",
     "category": "Open books",
     "source": "openaccesstexts.com",
+    "tags": [
+      "Further study"
+    ],
+    "aliases": [
+      "books",
+      "textbook",
+      "textbooks",
+      "open access",
+      "free books"
+    ],
     "page": "/resources/further-study/open-books/#resource-open-access-texts-mathematics-openaccesstexts-com"
   },
   {
     "name": "Open Data Structures",
     "description": "Free and open data structures and algorithms textbook with source code.",
-    "audience": "Further study",
-    "category": "Open books",
+    "audience": "Students",
+    "category": "Computer Science",
     "source": "opendatastructures.org",
-    "page": "/resources/further-study/open-books/#resource-open-data-structures-opendatastructures-org"
+    "tags": [
+      "Computer Science",
+      "Computing"
+    ],
+    "aliases": [
+      "computer science",
+      "computing",
+      "CS",
+      "coding",
+      "programming",
+      "algorithms",
+      "data structures",
+      "software development",
+      "university",
+      "uni"
+    ],
+    "page": "/resources/students/computer-science/#resource-open-data-structures-opendatastructures-org"
   },
   {
     "name": "Open Logic Project",
@@ -749,15 +1760,39 @@
     "audience": "Further study",
     "category": "Open books",
     "source": "openlogicproject.org",
+    "tags": [
+      "Further study"
+    ],
+    "aliases": [
+      "books",
+      "textbook",
+      "textbooks",
+      "open access",
+      "free books"
+    ],
     "page": "/resources/further-study/open-books/#resource-open-logic-project-openlogicproject-org"
   },
   {
     "name": "Open Source Society University — Computer Science",
     "description": "Ambitious self-study Computer Science curriculum using freely available online courses and resources.",
-    "audience": "Further study",
-    "category": "Academic & digital tools",
+    "audience": "Students",
+    "category": "Computer Science",
     "source": "github.com",
-    "page": "/resources/further-study/academic-digital-tools/#resource-open-source-society-university-computer-science-github-com"
+    "tags": [
+      "Computer Science",
+      "Computing"
+    ],
+    "aliases": [
+      "computer science",
+      "computing",
+      "CS",
+      "coding",
+      "programming",
+      "algorithms",
+      "data structures",
+      "software development"
+    ],
+    "page": "/resources/students/computer-science/#resource-open-source-society-university-computer-science-github-com"
   },
   {
     "name": "Open Textbook Library — Mathematics",
@@ -765,15 +1800,41 @@
     "audience": "Further study",
     "category": "Open books",
     "source": "open.umn.edu",
+    "tags": [
+      "Further study"
+    ],
+    "aliases": [
+      "books",
+      "textbook",
+      "textbooks",
+      "open access",
+      "free books"
+    ],
     "page": "/resources/further-study/open-books/#resource-open-textbook-library-mathematics-open-umn-edu"
   },
   {
     "name": "OpenDSA",
     "description": "Open materials for data structures, algorithms and related Computer Science courses.",
-    "audience": "Further study",
-    "category": "Undergraduate resources",
+    "audience": "Students",
+    "category": "Computer Science",
     "source": "opendsa-server.cs.vt.edu",
-    "page": "/resources/further-study/undergraduate-resources/#resource-opendsa-opendsa-server-cs-vt-edu"
+    "tags": [
+      "Computer Science",
+      "Computing"
+    ],
+    "aliases": [
+      "computer science",
+      "computing",
+      "CS",
+      "coding",
+      "programming",
+      "algorithms",
+      "data structures",
+      "software development",
+      "university",
+      "uni"
+    ],
+    "page": "/resources/students/computer-science/#resource-opendsa-opendsa-server-cs-vt-edu"
   },
   {
     "name": "OpenLearn — Open University",
@@ -781,6 +1842,13 @@
     "audience": "Students",
     "category": "Study & revision",
     "source": "open.edu",
+    "tags": [],
+    "aliases": [
+      "study",
+      "revision",
+      "independent learning",
+      "learning"
+    ],
     "page": "/resources/students/study-revision/#resource-openlearn-open-university-open-edu"
   },
   {
@@ -789,6 +1857,16 @@
     "audience": "Further study",
     "category": "Open books",
     "source": "openstax.org",
+    "tags": [
+      "Further study"
+    ],
+    "aliases": [
+      "books",
+      "textbook",
+      "textbooks",
+      "open access",
+      "free books"
+    ],
     "page": "/resources/further-study/open-books/#resource-openstax-calculus-openstax-org"
   },
   {
@@ -797,6 +1875,16 @@
     "audience": "Further study",
     "category": "Open books",
     "source": "openstax.org",
+    "tags": [
+      "Further study"
+    ],
+    "aliases": [
+      "books",
+      "textbook",
+      "textbooks",
+      "open access",
+      "free books"
+    ],
     "page": "/resources/further-study/open-books/#resource-openstax-college-physics-openstax-org"
   },
   {
@@ -805,15 +1893,17 @@
     "audience": "Further study",
     "category": "Open books",
     "source": "openstax.org",
+    "tags": [
+      "Further study"
+    ],
+    "aliases": [
+      "books",
+      "textbook",
+      "textbooks",
+      "open access",
+      "free books"
+    ],
     "page": "/resources/further-study/open-books/#resource-openstax-university-physics-openstax-org"
-  },
-  {
-    "name": "ORCID",
-    "description": "",
-    "audience": "Further study",
-    "category": "Academic & digital tools",
-    "source": "orcid.org",
-    "page": "/resources/further-study/academic-digital-tools/#resource-orcid-orcid-org"
   },
   {
     "name": "Overleaf",
@@ -821,6 +1911,19 @@
     "audience": "Further study",
     "category": "Academic & digital tools",
     "source": "overleaf.com",
+    "tags": [
+      "Further study"
+    ],
+    "aliases": [
+      "academic tools",
+      "digital tools",
+      "coding",
+      "LaTeX",
+      "Python",
+      "Git",
+      "computation",
+      "reference management"
+    ],
     "page": "/resources/further-study/academic-digital-tools/#resource-overleaf-overleaf-com"
   },
   {
@@ -829,6 +1932,21 @@
     "audience": "Students",
     "category": "Enrichment & admissions",
     "source": "maths.ox.ac.uk",
+    "tags": [
+      "Enrichment",
+      "Admissions"
+    ],
+    "aliases": [
+      "enrichment",
+      "admissions",
+      "competition",
+      "olympiad",
+      "UKMT",
+      "STEP",
+      "MAT",
+      "PAT",
+      "ESAT"
+    ],
     "page": "/resources/students/enrichment-admissions/#resource-oxford-mat-maths-ox-ac-uk"
   },
   {
@@ -837,6 +1955,21 @@
     "audience": "Students",
     "category": "Enrichment & admissions",
     "source": "maths.ox.ac.uk",
+    "tags": [
+      "Enrichment",
+      "Admissions"
+    ],
+    "aliases": [
+      "enrichment",
+      "admissions",
+      "competition",
+      "olympiad",
+      "UKMT",
+      "STEP",
+      "MAT",
+      "PAT",
+      "ESAT"
+    ],
     "page": "/resources/students/enrichment-admissions/#resource-oxford-mat-syllabus-practice-maths-ox-ac-uk"
   },
   {
@@ -845,6 +1978,21 @@
     "audience": "Students",
     "category": "Enrichment & admissions",
     "source": "physics.ox.ac.uk",
+    "tags": [
+      "Enrichment",
+      "Admissions"
+    ],
+    "aliases": [
+      "enrichment",
+      "admissions",
+      "competition",
+      "olympiad",
+      "UKMT",
+      "STEP",
+      "MAT",
+      "PAT",
+      "ESAT"
+    ],
     "page": "/resources/students/enrichment-admissions/#resource-oxford-pat-past-papers-physics-ox-ac-uk"
   },
   {
@@ -853,6 +2001,21 @@
     "audience": "Students",
     "category": "Enrichment & admissions",
     "source": "oxfordpat.wordpress.com",
+    "tags": [
+      "Enrichment",
+      "Admissions"
+    ],
+    "aliases": [
+      "enrichment",
+      "admissions",
+      "competition",
+      "olympiad",
+      "UKMT",
+      "STEP",
+      "MAT",
+      "PAT",
+      "ESAT"
+    ],
     "page": "/resources/students/enrichment-admissions/#resource-oxford-pat-solutions-oxfordpat-wordpress-com"
   },
   {
@@ -861,6 +2024,21 @@
     "audience": "Students",
     "category": "Enrichment & admissions",
     "source": "physics.ox.ac.uk",
+    "tags": [
+      "Enrichment",
+      "Admissions"
+    ],
+    "aliases": [
+      "enrichment",
+      "admissions",
+      "competition",
+      "olympiad",
+      "UKMT",
+      "STEP",
+      "MAT",
+      "PAT",
+      "ESAT"
+    ],
     "page": "/resources/students/enrichment-admissions/#resource-oxford-physics-esat-information-physics-ox-ac-uk"
   },
   {
@@ -869,6 +2047,21 @@
     "audience": "Students",
     "category": "Enrichment & admissions",
     "source": "physics.ox.ac.uk",
+    "tags": [
+      "Enrichment",
+      "Admissions"
+    ],
+    "aliases": [
+      "enrichment",
+      "admissions",
+      "competition",
+      "olympiad",
+      "UKMT",
+      "STEP",
+      "MAT",
+      "PAT",
+      "ESAT"
+    ],
     "page": "/resources/students/enrichment-admissions/#resource-oxford-physics-useful-resources-physics-ox-ac-uk"
   },
   {
@@ -877,6 +2070,18 @@
     "audience": "Further study",
     "category": "Undergraduate resources",
     "source": "tutorial.math.lamar.edu",
+    "tags": [
+      "Further study"
+    ],
+    "aliases": [
+      "university",
+      "uni",
+      "undergraduate",
+      "lecture notes",
+      "university maths",
+      "university physics",
+      "advanced mathematics"
+    ],
     "page": "/resources/further-study/undergraduate-resources/#resource-pauls-online-math-notes-tutorial-math-lamar-edu"
   },
   {
@@ -885,6 +2090,19 @@
     "audience": "Students",
     "category": "Exams & past papers",
     "source": "qualifications.pearson.com",
+    "tags": [
+      "Exams",
+      "Past papers"
+    ],
+    "aliases": [
+      "exam",
+      "exams",
+      "past papers",
+      "past paper",
+      "mark schemes",
+      "exam practice",
+      "assessment"
+    ],
     "page": "/resources/students/exams-past-papers/#resource-pearson-edexcel-past-papers-qualifications-pearson-com"
   },
   {
@@ -893,23 +2111,51 @@
     "audience": "Students",
     "category": "Physics & Science",
     "source": "phet.colorado.edu",
+    "tags": [],
+    "aliases": [
+      "physics",
+      "science",
+      "GCSE physics",
+      "A-level physics"
+    ],
     "page": "/resources/students/physics-science/#resource-phet-physics-simulations-phet-colorado-edu"
   },
   {
     "name": "Physics & Maths Tutor — Computer Science",
     "description": "GCSE and A-level Computer Science revision notes, topic resources and past-paper practice.",
-    "audience": "Further study",
-    "category": "Undergraduate resources",
+    "audience": "Students",
+    "category": "Computer Science",
     "source": "physicsandmathstutor.com",
-    "page": "/resources/further-study/undergraduate-resources/#resource-physics-maths-tutor-computer-science-physicsandmathstutor-com"
+    "tags": [
+      "Computer Science",
+      "Computing"
+    ],
+    "aliases": [
+      "computer science",
+      "computing",
+      "CS",
+      "coding",
+      "programming",
+      "algorithms",
+      "data structures",
+      "software development"
+    ],
+    "page": "/resources/students/computer-science/#resource-physics-maths-tutor-computer-science-physicsandmathstutor-com"
   },
   {
     "name": "Physics & Maths Tutor — Mathematics",
     "description": "GCSE and A-level Mathematics revision notes, topic questions, past-paper practice and solution materials.",
     "audience": "Students",
-    "category": "Mathematics",
+    "category": "Physics & Science",
     "source": "physicsandmathstutor.com",
-    "page": "/resources/students/mathematics/#resource-physics-maths-tutor-mathematics-physicsandmathstutor-com"
+    "tags": [],
+    "aliases": [
+      "physics",
+      "science",
+      "GCSE physics",
+      "A-level physics"
+    ],
+    "page": "/resources/students/physics-science/#resource-physics-maths-tutor-mathematics-physicsandmathstutor-com"
   },
   {
     "name": "Physics & Maths Tutor — Physics",
@@ -917,6 +2163,13 @@
     "audience": "Students",
     "category": "Physics & Science",
     "source": "physicsandmathstutor.com",
+    "tags": [],
+    "aliases": [
+      "physics",
+      "science",
+      "GCSE physics",
+      "A-level physics"
+    ],
     "page": "/resources/students/physics-science/#resource-physics-maths-tutor-physics-physicsandmathstutor-com"
   },
   {
@@ -925,6 +2178,21 @@
     "audience": "Students",
     "category": "Enrichment & admissions",
     "source": "alevelphysicsonline.com",
+    "tags": [
+      "Enrichment",
+      "Admissions"
+    ],
+    "aliases": [
+      "enrichment",
+      "admissions",
+      "competition",
+      "olympiad",
+      "UKMT",
+      "STEP",
+      "MAT",
+      "PAT",
+      "ESAT"
+    ],
     "page": "/resources/students/enrichment-admissions/#resource-physics-online-bpho-pat-resources-alevelphysicsonline-com"
   },
   {
@@ -933,15 +2201,29 @@
     "audience": "Students",
     "category": "Mathematics",
     "source": "piximaths.co.uk",
+    "tags": [],
+    "aliases": [
+      "maths",
+      "mathematics",
+      "GCSE maths",
+      "A-level maths"
+    ],
     "page": "/resources/students/mathematics/#resource-piximaths-piximaths-co-uk"
   },
   {
     "name": "Project Euler",
     "description": "Mathematical and computational problem-solving challenges requiring programming and mathematical insight.",
     "audience": "Students",
-    "category": "Enrichment & admissions",
+    "category": "Study & revision",
     "source": "projecteuler.net",
-    "page": "/resources/students/enrichment-admissions/#resource-project-euler-projecteuler-net"
+    "tags": [],
+    "aliases": [
+      "study",
+      "revision",
+      "independent learning",
+      "learning"
+    ],
+    "page": "/resources/students/study-revision/#resource-project-euler-projecteuler-net"
   },
   {
     "name": "Project Gutenberg",
@@ -949,6 +2231,16 @@
     "audience": "Further study",
     "category": "Open books",
     "source": "gutenberg.org",
+    "tags": [
+      "Further study"
+    ],
+    "aliases": [
+      "books",
+      "textbook",
+      "textbooks",
+      "open access",
+      "free books"
+    ],
     "page": "/resources/further-study/open-books/#resource-project-gutenberg-gutenberg-org"
   },
   {
@@ -957,6 +2249,19 @@
     "audience": "Further study",
     "category": "Academic & digital tools",
     "source": "python.org",
+    "tags": [
+      "Further study"
+    ],
+    "aliases": [
+      "academic tools",
+      "digital tools",
+      "coding",
+      "LaTeX",
+      "Python",
+      "Git",
+      "computation",
+      "reference management"
+    ],
     "page": "/resources/further-study/academic-digital-tools/#resource-python-python-org"
   },
   {
@@ -965,38 +2270,84 @@
     "audience": "Students",
     "category": "Study & revision",
     "source": "quizlet.com",
+    "tags": [],
+    "aliases": [
+      "study",
+      "revision",
+      "independent learning",
+      "learning"
+    ],
     "page": "/resources/students/study-revision/#resource-quizlet-quizlet-com"
   },
   {
     "name": "Resourceaholic",
-    "description": "",
+    "description": "Collection of Mathematics teaching resources, topic materials and links organised for classroom use.",
     "audience": "Teachers",
     "category": "Classroom & curriculum resources",
     "source": "resourceaholic.com",
+    "tags": [
+      "Teacher"
+    ],
+    "aliases": [
+      "teacher",
+      "teaching",
+      "classroom",
+      "curriculum",
+      "lesson planning",
+      "instruction"
+    ],
     "page": "/resources/teachers/classroom-curriculum/#resource-resourceaholic-resourceaholic-com"
   },
   {
     "name": "Rosenshine — Principles of Instruction",
-    "description": "",
+    "description": "Rosenshine's Principles of Instruction, presenting research-informed principles relating to effective classroom instruction.",
     "audience": "Teachers",
     "category": "Evidence-informed teaching",
     "source": "aft.org",
+    "tags": [
+      "Teacher"
+    ],
+    "aliases": [
+      "evidence",
+      "evidence informed",
+      "research",
+      "pedagogy",
+      "teaching and learning"
+    ],
     "page": "/resources/teachers/evidence-informed-teaching/#resource-rosenshine-principles-of-instruction-aft-org"
   },
   {
     "name": "Royal Society of Chemistry Education Resources",
-    "description": "",
+    "description": "External resource relevant to subject professional development.",
     "audience": "Teachers",
     "category": "Subject professional development",
     "source": "edu.rsc.org",
+    "tags": [
+      "Teacher"
+    ],
+    "aliases": [
+      "CPD",
+      "professional development",
+      "subject development",
+      "subject knowledge"
+    ],
     "page": "/resources/teachers/subject-professional-development/#resource-royal-society-of-chemistry-education-resources-edu-rsc-org"
   },
   {
     "name": "Royal Society Resources for Schools",
-    "description": "",
+    "description": "External resource relevant to subject professional development.",
     "audience": "Teachers",
     "category": "Subject professional development",
     "source": "royalsociety.org",
+    "tags": [
+      "Teacher"
+    ],
+    "aliases": [
+      "CPD",
+      "professional development",
+      "subject development",
+      "subject knowledge"
+    ],
     "page": "/resources/teachers/subject-professional-development/#resource-royal-society-resources-for-schools-royalsociety-org"
   },
   {
@@ -1005,6 +2356,19 @@
     "audience": "Further study",
     "category": "Academic & digital tools",
     "source": "sagemath.org",
+    "tags": [
+      "Further study"
+    ],
+    "aliases": [
+      "academic tools",
+      "digital tools",
+      "coding",
+      "LaTeX",
+      "Python",
+      "Git",
+      "computation",
+      "reference management"
+    ],
     "page": "/resources/further-study/academic-digital-tools/#resource-sagemath-sagemath-org"
   },
   {
@@ -1013,7 +2377,66 @@
     "audience": "Students",
     "category": "Physics & Science",
     "source": "savemyexams.com",
+    "tags": [],
+    "aliases": [
+      "physics",
+      "science",
+      "GCSE physics",
+      "A-level physics"
+    ],
     "page": "/resources/students/physics-science/#resource-save-my-exams-physics-savemyexams-com"
+  },
+  {
+    "name": "SEND Code of Practice: 0 to 25 Years",
+    "description": "Statutory guidance on the special educational needs and disability system for children and young people aged 0 to 25.",
+    "audience": "Teachers",
+    "category": "SEND & inclusion",
+    "source": "gov.uk",
+    "tags": [
+      "SEND",
+      "Inclusion",
+      "Teacher"
+    ],
+    "aliases": [
+      "SEND",
+      "SEN",
+      "special educational needs",
+      "special educational needs and disabilities",
+      "disability",
+      "inclusion",
+      "inclusive teaching",
+      "adaptive teaching",
+      "SENCO",
+      "neurodiversity",
+      "statutory"
+    ],
+    "page": "/resources/teachers/send-inclusion/#resource-send-code-of-practice-0-to-25-years-gov-uk"
+  },
+  {
+    "name": "SEND: Guide for Schools and Alternative Provision Settings",
+    "description": "Department for Education guide to schools' duties and responsibilities under the SEND system.",
+    "audience": "Teachers",
+    "category": "SEND & inclusion",
+    "source": "gov.uk",
+    "tags": [
+      "SEND",
+      "Inclusion",
+      "Teacher"
+    ],
+    "aliases": [
+      "SEND",
+      "SEN",
+      "special educational needs",
+      "special educational needs and disabilities",
+      "disability",
+      "inclusion",
+      "inclusive teaching",
+      "adaptive teaching",
+      "SENCO",
+      "neurodiversity",
+      "schools"
+    ],
+    "page": "/resources/teachers/send-inclusion/#resource-send-guide-for-schools-and-alternative-provision-settings-gov-uk"
   },
   {
     "name": "Seneca Learning",
@@ -1021,15 +2444,40 @@
     "audience": "Students",
     "category": "Study & revision",
     "source": "senecalearning.com",
+    "tags": [],
+    "aliases": [
+      "study",
+      "revision",
+      "independent learning",
+      "learning"
+    ],
     "page": "/resources/students/study-revision/#resource-seneca-learning-senecalearning-com"
   },
   {
     "name": "Special Educational Needs in Mainstream Schools",
-    "description": "Directory",
+    "description": "EEF guidance on supporting pupils with special educational needs in mainstream schools.",
     "audience": "Teachers",
-    "category": "Evidence-informed teaching",
+    "category": "SEND & inclusion",
     "source": "educationendowmentfoundation.org.uk",
-    "page": "/resources/teachers/evidence-informed-teaching/#resource-special-educational-needs-in-mainstream-schools-educationendowmentfoundation-org-uk"
+    "tags": [
+      "SEND",
+      "Inclusion",
+      "Teacher"
+    ],
+    "aliases": [
+      "SEND",
+      "SEN",
+      "special educational needs",
+      "special educational needs and disabilities",
+      "disability",
+      "inclusion",
+      "inclusive teaching",
+      "adaptive teaching",
+      "SENCO",
+      "neurodiversity",
+      "special needs"
+    ],
+    "page": "/resources/teachers/send-inclusion/#resource-special-educational-needs-in-mainstream-schools-educationendowmentfoundation-org-uk"
   },
   {
     "name": "SQA Past Papers",
@@ -1037,14 +2485,36 @@
     "audience": "Students",
     "category": "Exams & past papers",
     "source": "sqa.org.uk",
+    "tags": [
+      "Exams",
+      "Past papers"
+    ],
+    "aliases": [
+      "exam",
+      "exams",
+      "past papers",
+      "past paper",
+      "mark schemes",
+      "exam practice",
+      "assessment"
+    ],
     "page": "/resources/students/exams-past-papers/#resource-sqa-past-papers-sqa-org-uk"
   },
   {
     "name": "STEM Learning Resources",
-    "description": "",
+    "description": "STEM teaching resources and professional-development material across Mathematics, Science, Computing and related subjects.",
     "audience": "Teachers",
     "category": "Subject professional development",
     "source": "stem.org.uk",
+    "tags": [
+      "Teacher"
+    ],
+    "aliases": [
+      "CPD",
+      "professional development",
+      "subject development",
+      "subject knowledge"
+    ],
     "page": "/resources/teachers/subject-professional-development/#resource-stem-learning-resources-stem-org-uk"
   },
   {
@@ -1053,71 +2523,188 @@
     "audience": "Students",
     "category": "Enrichment & admissions",
     "source": "step.maths.org",
+    "tags": [
+      "Enrichment",
+      "Admissions"
+    ],
+    "aliases": [
+      "enrichment",
+      "admissions",
+      "competition",
+      "olympiad",
+      "UKMT",
+      "STEP",
+      "MAT",
+      "PAT",
+      "ESAT"
+    ],
     "page": "/resources/students/enrichment-admissions/#resource-step-support-programme-step-maths-org"
   },
   {
     "name": "Teach Computing",
-    "description": "",
+    "description": "National Computing education resources and professional-development support for teachers.",
     "audience": "Teachers",
     "category": "Subject professional development",
     "source": "teachcomputing.org",
+    "tags": [
+      "Teacher"
+    ],
+    "aliases": [
+      "CPD",
+      "professional development",
+      "subject development",
+      "subject knowledge"
+    ],
     "page": "/resources/teachers/subject-professional-development/#resource-teach-computing-teachcomputing-org"
   },
   {
     "name": "Teach Computing Curriculum",
     "description": "Free Computing curriculum resources for Key Stages 1–4, including KS3 and KS4 Computer Science.",
-    "audience": "Teachers",
-    "category": "Subject professional development",
+    "audience": "Students",
+    "category": "Computer Science",
     "source": "teachcomputing.org",
-    "page": "/resources/teachers/subject-professional-development/#resource-teach-computing-curriculum-teachcomputing-org"
+    "tags": [
+      "Computer Science",
+      "Computing"
+    ],
+    "aliases": [
+      "computer science",
+      "computing",
+      "CS",
+      "coding",
+      "programming",
+      "algorithms",
+      "data structures",
+      "software development",
+      "KS3",
+      "KS4",
+      "curriculum"
+    ],
+    "page": "/resources/students/computer-science/#resource-teach-computing-curriculum-teachcomputing-org"
   },
   {
     "name": "Teach Like a Champion — Free Resources",
-    "description": "",
+    "description": "External resource relevant to classroom & curriculum resources.",
     "audience": "Teachers",
     "category": "Classroom & curriculum resources",
     "source": "teachlikeachampion.org",
+    "tags": [
+      "Teacher"
+    ],
+    "aliases": [
+      "teacher",
+      "teaching",
+      "classroom",
+      "curriculum",
+      "lesson planning",
+      "instruction"
+    ],
     "page": "/resources/teachers/classroom-curriculum/#resource-teach-like-a-champion-free-resources-teachlikeachampion-org"
   },
   {
     "name": "Teach Yourself Computer Science",
     "description": "Advanced self-study guide for serious Computer Science foundations beyond introductory programming.",
-    "audience": "Further study",
-    "category": "Undergraduate resources",
+    "audience": "Students",
+    "category": "Computer Science",
     "source": "teachyourselfcs.com",
-    "page": "/resources/further-study/undergraduate-resources/#resource-teach-yourself-computer-science-teachyourselfcs-com"
+    "tags": [
+      "Computer Science",
+      "Computing"
+    ],
+    "aliases": [
+      "computer science",
+      "computing",
+      "CS",
+      "coding",
+      "programming",
+      "algorithms",
+      "data structures",
+      "software development"
+    ],
+    "page": "/resources/students/computer-science/#resource-teach-yourself-computer-science-teachyourselfcs-com"
   },
   {
     "name": "Teachers’ Standards",
-    "description": "Note. Resources are grouped by purpose rather than ranked, and inclusion does not imply endorsement, sponsorship or affiliation. I do not receive commission for links on this site. External resources may change over time, so users should check suitability, accuracy, accessibility, copyright and any account or payment requirements before use.",
+    "description": "Department for Education professional standards defining expectations for teachers' practice and conduct in England.",
     "audience": "Teachers",
     "category": "Teacher training & ECT",
     "source": "gov.uk",
+    "tags": [
+      "Teacher"
+    ],
+    "aliases": [
+      "teacher training",
+      "ECT",
+      "early career teacher",
+      "ITT",
+      "QTS",
+      "PGCE",
+      "trainee teacher"
+    ],
     "page": "/resources/teachers/teacher-training-ect/#resource-teachers-standards-gov-uk"
   },
   {
     "name": "Teaching London Computing",
-    "description": "Directory",
-    "audience": "Teachers",
-    "category": "Classroom & curriculum resources",
+    "description": "Computer Science teaching activities and resources developed to support classroom Computing education.",
+    "audience": "Students",
+    "category": "Computer Science",
     "source": "teachinglondoncomputing.org",
-    "page": "/resources/teachers/classroom-curriculum/#resource-teaching-london-computing-teachinglondoncomputing-org"
+    "tags": [
+      "Computer Science",
+      "Computing"
+    ],
+    "aliases": [
+      "computer science",
+      "computing",
+      "CS",
+      "coding",
+      "programming",
+      "algorithms",
+      "data structures",
+      "software development"
+    ],
+    "page": "/resources/students/computer-science/#resource-teaching-london-computing-teachinglondoncomputing-org"
   },
   {
     "name": "Teaching WalkThrus",
-    "description": "",
+    "description": "External resource relevant to classroom & curriculum resources.",
     "audience": "Teachers",
-    "category": "Subject professional development",
+    "category": "Classroom & curriculum resources",
     "source": "walkthrus.co.uk",
-    "page": "/resources/teachers/subject-professional-development/#resource-teaching-walkthrus-walkthrus-co-uk"
+    "tags": [
+      "Teacher"
+    ],
+    "aliases": [
+      "teacher",
+      "teaching",
+      "classroom",
+      "curriculum",
+      "lesson planning",
+      "instruction"
+    ],
+    "page": "/resources/teachers/classroom-curriculum/#resource-teaching-walkthrus-walkthrus-co-uk"
   },
   {
     "name": "The Algorithms",
     "description": "Open-source collection of algorithms and data-structures implementations across programming languages.",
-    "audience": "Further study",
-    "category": "Undergraduate resources",
+    "audience": "Students",
+    "category": "Computer Science",
     "source": "the-algorithms.com",
-    "page": "/resources/further-study/undergraduate-resources/#resource-the-algorithms-the-algorithms-com"
+    "tags": [
+      "Computer Science",
+      "Computing"
+    ],
+    "aliases": [
+      "computer science",
+      "computing",
+      "CS",
+      "coding",
+      "programming",
+      "algorithms",
+      "data structures",
+      "software development"
+    ],
+    "page": "/resources/students/computer-science/#resource-the-algorithms-the-algorithms-com"
   },
   {
     "name": "The Feynman Lectures on Physics",
@@ -1125,15 +2712,39 @@
     "audience": "Further study",
     "category": "Open books",
     "source": "feynmanlectures.caltech.edu",
+    "tags": [
+      "Further study"
+    ],
+    "aliases": [
+      "books",
+      "textbook",
+      "textbooks",
+      "open access",
+      "free books"
+    ],
     "page": "/resources/further-study/open-books/#resource-the-feynman-lectures-on-physics-feynmanlectures-caltech-edu"
   },
   {
     "name": "The Odin Project",
     "description": "Free web-development curriculum, useful for serious independent programming study.",
-    "audience": "Further study",
-    "category": "Undergraduate resources",
+    "audience": "Students",
+    "category": "Computer Science",
     "source": "theodinproject.com",
-    "page": "/resources/further-study/undergraduate-resources/#resource-the-odin-project-theodinproject-com"
+    "tags": [
+      "Computer Science",
+      "Computing"
+    ],
+    "aliases": [
+      "computer science",
+      "computing",
+      "CS",
+      "coding",
+      "programming",
+      "algorithms",
+      "data structures",
+      "software development"
+    ],
+    "page": "/resources/students/computer-science/#resource-the-odin-project-theodinproject-com"
   },
   {
     "name": "The Physics Classroom",
@@ -1141,6 +2752,13 @@
     "audience": "Students",
     "category": "Physics & Science",
     "source": "physicsclassroom.com",
+    "tags": [],
+    "aliases": [
+      "physics",
+      "science",
+      "GCSE physics",
+      "A-level physics"
+    ],
     "page": "/resources/students/physics-science/#resource-the-physics-classroom-physicsclassroom-com"
   },
   {
@@ -1149,6 +2767,16 @@
     "audience": "Further study",
     "category": "Open books",
     "source": "theoreticalminimum.com",
+    "tags": [
+      "Further study"
+    ],
+    "aliases": [
+      "books",
+      "textbook",
+      "textbooks",
+      "open access",
+      "free books"
+    ],
     "page": "/resources/further-study/open-books/#resource-the-theoretical-minimum-theoreticalminimum-com"
   },
   {
@@ -1157,6 +2785,13 @@
     "audience": "Students",
     "category": "Mathematics",
     "source": "sites.google.com",
+    "tags": [],
+    "aliases": [
+      "maths",
+      "mathematics",
+      "GCSE maths",
+      "A-level maths"
+    ],
     "page": "/resources/students/mathematics/#resource-tlmaths-sites-google-com"
   },
   {
@@ -1165,6 +2800,21 @@
     "audience": "Students",
     "category": "Enrichment & admissions",
     "source": "ukmt.org.uk",
+    "tags": [
+      "Enrichment",
+      "Admissions"
+    ],
+    "aliases": [
+      "enrichment",
+      "admissions",
+      "competition",
+      "olympiad",
+      "UKMT",
+      "STEP",
+      "MAT",
+      "PAT",
+      "ESAT"
+    ],
     "page": "/resources/students/enrichment-admissions/#resource-ukmt-competition-papers-ukmt-org-uk"
   },
   {
@@ -1173,6 +2823,21 @@
     "audience": "Students",
     "category": "Enrichment & admissions",
     "source": "ukmt.org.uk",
+    "tags": [
+      "Enrichment",
+      "Admissions"
+    ],
+    "aliases": [
+      "enrichment",
+      "admissions",
+      "competition",
+      "olympiad",
+      "UKMT",
+      "STEP",
+      "MAT",
+      "PAT",
+      "ESAT"
+    ],
     "page": "/resources/students/enrichment-admissions/#resource-ukmt-video-solutions-ukmt-org-uk"
   },
   {
@@ -1181,14 +2846,40 @@
     "audience": "Students",
     "category": "Enrichment & admissions",
     "source": "undergroundmathematics.org",
+    "tags": [
+      "Enrichment",
+      "Admissions"
+    ],
+    "aliases": [
+      "enrichment",
+      "admissions",
+      "competition",
+      "olympiad",
+      "UKMT",
+      "STEP",
+      "MAT",
+      "PAT",
+      "ESAT"
+    ],
     "page": "/resources/students/enrichment-admissions/#resource-underground-mathematics-undergroundmathematics-org"
   },
   {
     "name": "United Learning — Teaching and Learning: The United Way",
-    "description": "",
+    "description": "External resource relevant to classroom & curriculum resources.",
     "audience": "Teachers",
     "category": "Classroom & curriculum resources",
     "source": "unitedlearning.org.uk",
+    "tags": [
+      "Teacher"
+    ],
+    "aliases": [
+      "teacher",
+      "teaching",
+      "classroom",
+      "curriculum",
+      "lesson planning",
+      "instruction"
+    ],
     "page": "/resources/teachers/classroom-curriculum/#resource-united-learning-teaching-and-learning-the-united-way-unitedlearning-org-uk"
   },
   {
@@ -1197,6 +2888,16 @@
     "audience": "Teachers",
     "category": "Evidence-informed teaching",
     "source": "unitedlearning.org.uk",
+    "tags": [
+      "Teacher"
+    ],
+    "aliases": [
+      "evidence",
+      "evidence informed",
+      "research",
+      "pedagogy",
+      "teaching and learning"
+    ],
     "page": "/resources/teachers/evidence-informed-teaching/#resource-united-learning-the-rosenshine-papers-unitedlearning-org-uk"
   },
   {
@@ -1205,15 +2906,87 @@
     "audience": "Teachers",
     "category": "Classroom & curriculum resources",
     "source": "variationtheory.com",
+    "tags": [
+      "Teacher"
+    ],
+    "aliases": [
+      "teacher",
+      "teaching",
+      "classroom",
+      "curriculum",
+      "lesson planning",
+      "instruction"
+    ],
     "page": "/resources/teachers/classroom-curriculum/#resource-variation-theory-variationtheory-com"
   },
   {
     "name": "What Makes Great Teaching? — Coe et al.",
-    "description": "Directory",
+    "description": "Research review examining evidence about effective teaching practices and approaches to evaluating teaching quality.",
     "audience": "Teachers",
     "category": "Evidence-informed teaching",
     "source": "suttontrust.com",
+    "tags": [
+      "Teacher"
+    ],
+    "aliases": [
+      "evidence",
+      "evidence informed",
+      "research",
+      "pedagogy",
+      "teaching and learning"
+    ],
     "page": "/resources/teachers/evidence-informed-teaching/#resource-what-makes-great-teaching-coe-et-al-suttontrust-com"
+  },
+  {
+    "name": "Whole School SEND — Resources and Publications",
+    "description": "Practical resources, SEND review materials, publications and professional-development resources for inclusive educational practice.",
+    "audience": "Teachers",
+    "category": "SEND & inclusion",
+    "source": "wholeschoolsend.org.uk",
+    "tags": [
+      "SEND",
+      "Inclusion",
+      "Teacher"
+    ],
+    "aliases": [
+      "SEND",
+      "SEN",
+      "special educational needs",
+      "special educational needs and disabilities",
+      "disability",
+      "inclusion",
+      "inclusive teaching",
+      "adaptive teaching",
+      "SENCO",
+      "neurodiversity"
+    ],
+    "page": "/resources/teachers/send-inclusion/#resource-whole-school-send-resources-and-publications-wholeschoolsend-org-uk"
+  },
+  {
+    "name": "Whole School SEND — Teacher Handbook: SEND",
+    "description": "Practical handbook designed to support teachers and other education practitioners in embedding inclusive practice.",
+    "audience": "Teachers",
+    "category": "SEND & inclusion",
+    "source": "wholeschoolsend.org.uk",
+    "tags": [
+      "SEND",
+      "Inclusion",
+      "Teacher"
+    ],
+    "aliases": [
+      "SEND",
+      "SEN",
+      "special educational needs",
+      "special educational needs and disabilities",
+      "disability",
+      "inclusion",
+      "inclusive teaching",
+      "adaptive teaching",
+      "SENCO",
+      "neurodiversity",
+      "teacher handbook"
+    ],
+    "page": "/resources/teachers/send-inclusion/#resource-whole-school-send-teacher-handbook-send-wholeschoolsend-org-uk"
   },
   {
     "name": "Wikibooks",
@@ -1221,6 +2994,16 @@
     "audience": "Further study",
     "category": "Open books",
     "source": "en.wikibooks.org",
+    "tags": [
+      "Further study"
+    ],
+    "aliases": [
+      "books",
+      "textbook",
+      "textbooks",
+      "open access",
+      "free books"
+    ],
     "page": "/resources/further-study/open-books/#resource-wikibooks-en-wikibooks-org"
   },
   {
@@ -1229,6 +3012,19 @@
     "audience": "Students",
     "category": "Exams & past papers",
     "source": "wjec.co.uk",
+    "tags": [
+      "Exams",
+      "Past papers"
+    ],
+    "aliases": [
+      "exam",
+      "exams",
+      "past papers",
+      "past paper",
+      "mark schemes",
+      "exam practice",
+      "assessment"
+    ],
     "page": "/resources/students/exams-past-papers/#resource-wjec-past-papers-wjec-co-uk"
   },
   {
@@ -1237,6 +3033,19 @@
     "audience": "Further study",
     "category": "Academic & digital tools",
     "source": "wolframalpha.com",
+    "tags": [
+      "Further study"
+    ],
+    "aliases": [
+      "academic tools",
+      "digital tools",
+      "coding",
+      "LaTeX",
+      "Python",
+      "Git",
+      "computation",
+      "reference management"
+    ],
     "page": "/resources/further-study/academic-digital-tools/#resource-wolframalpha-wolframalpha-com"
   },
   {
@@ -1245,6 +3054,20 @@
     "audience": "Students",
     "category": "Wellbeing & study skills",
     "source": "youngminds.org.uk",
+    "tags": [
+      "Wellbeing",
+      "Study skills"
+    ],
+    "aliases": [
+      "wellbeing",
+      "well-being",
+      "mental health",
+      "exam stress",
+      "study skills",
+      "revision skills",
+      "self care",
+      "self-care"
+    ],
     "page": "/resources/students/wellbeing-study-skills/#resource-youngminds-exam-stress-youngminds-org-uk"
   },
   {
@@ -1253,6 +3076,19 @@
     "audience": "Further study",
     "category": "Academic & digital tools",
     "source": "zotero.org",
+    "tags": [
+      "Further study"
+    ],
+    "aliases": [
+      "academic tools",
+      "digital tools",
+      "coding",
+      "LaTeX",
+      "Python",
+      "Git",
+      "computation",
+      "reference management"
+    ],
     "page": "/resources/further-study/academic-digital-tools/#resource-zotero-zotero-org"
   },
   {
@@ -1261,6 +3097,19 @@
     "audience": "Further study",
     "category": "Academic & digital tools",
     "source": "zbib.org",
+    "tags": [
+      "Further study"
+    ],
+    "aliases": [
+      "academic tools",
+      "digital tools",
+      "coding",
+      "LaTeX",
+      "Python",
+      "Git",
+      "computation",
+      "reference management"
+    ],
     "page": "/resources/further-study/academic-digital-tools/#resource-zoterobib-zbib-org"
   }
 ]

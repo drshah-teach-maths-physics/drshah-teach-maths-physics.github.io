@@ -7764,3 +7764,39 @@ p {
 
 
 /* END STAGE 9.5 — ACCESSIBLE RESOURCE LIBRARY */
+
+/* STAGE 9.6 — RESOURCE INTEGRITY + SEARCH TAGS */
+
+.resource11-tags {
+  display: flex;
+
+  flex-wrap: wrap;
+
+  gap: 5px;
+
+  margin-top: 9px;
+}
+
+.resource11-tags span {
+  display: inline-block;
+
+  padding: 3px 7px;
+
+  border: 1px solid var(--line);
+  border-radius: 999px;
+
+  color: #69737d;
+
+  font-size: 0.65rem;
+  font-weight: 700;
+
+  line-height: 1.2;
+}
+
+.resource10-item-main
+.resource10-description
++ .resource11-tags {
+  margin-top: 10px;
+}
+
+/* END STAGE 9.6 — RESOURCE INTEGRITY + SEARCH TAGS */

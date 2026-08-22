@@ -14,12 +14,6 @@
       .toLocaleLowerCase()
       .normalize("NFKD");
 
-  const clearResults = () => {
-    results.replaceChildren();
-    results.hidden = true;
-    status.textContent = "";
-  };
-
   const makeResult = item => {
     const link = document.createElement("a");
     link.className = "resource10-search-result";
@@ -32,7 +26,8 @@
     name.textContent = item.name;
 
     const meta = document.createElement("small");
-    meta.textContent = `${item.audience} › ${item.category}`;
+    meta.textContent =
+      `${item.audience} › ${item.category}`;
 
     main.append(name, meta);
 
@@ -47,9 +42,7 @@
 
   fetch("/resources/resources-index.json")
     .then(response => {
-      if (!response.ok) {
-        throw new Error("Resource index unavailable");
-      }
+      if (!response.ok) throw new Error();
       return response.json();
     })
     .then(json => {
@@ -61,37 +54,58 @@
     });
 
   input.addEventListener("input", () => {
-    const query = normalise(input.value.trim());
+
+    const query = normalise(
+      input.value.trim()
+    );
 
     if (query.length < 2) {
-      clearResults();
+      results.replaceChildren();
+      results.hidden = true;
+      status.textContent = "";
       return;
     }
 
-    const terms = query.split(/\s+/).filter(Boolean);
+    const terms = query
+      .split(/\s+/)
+      .filter(Boolean);
 
     const matches = data
       .map(item => {
+
         const haystack = normalise([
           item.name,
           item.description,
           item.audience,
           item.category,
-          item.source
+          item.source,
+          ...(item.tags || []),
+          ...(item.aliases || [])
         ].join(" "));
 
-        const matchesAll = terms.every(
+        if (!terms.every(
           term => haystack.includes(term)
-        );
-
-        if (!matchesAll) return null;
+        )) {
+          return null;
+        }
 
         const name = normalise(item.name);
 
-        let score = 2;
+        let score = 3;
 
-        if (name === query) score = 0;
-        else if (name.startsWith(query)) score = 1;
+        if (name === query) {
+          score = 0;
+        } else if (name.startsWith(query)) {
+          score = 1;
+        } else if (
+          normalise(
+            (item.tags || [])
+              .concat(item.aliases || [])
+              .join(" ")
+          ).includes(query)
+        ) {
+          score = 2;
+        }
 
         return { item, score };
       })
@@ -106,6 +120,7 @@
     if (!matches.length) {
       status.textContent =
         `No resources found for “${input.value.trim()}”.`;
+
       results.hidden = true;
       return;
     }
@@ -113,7 +128,9 @@
     const shown = matches.slice(0, 12);
 
     shown.forEach(({ item }) => {
-      results.appendChild(makeResult(item));
+      results.appendChild(
+        makeResult(item)
+      );
     });
 
     results.hidden = false;
@@ -123,4 +140,5 @@
         ? `${matches.length} resources found. Showing the first ${shown.length}.`
         : `${matches.length} resource${matches.length === 1 ? "" : "s"} found.`;
   });
+
 })();
