@@ -3931,3 +3931,1943 @@ p {
 
 
 /* END STAGE 6 PREP — COMPACT TEACHING HERO */
+
+/* STAGE 7 — EMPLOYER-FACING CV */
+
+
+/* =========================================================
+   HERO
+   ========================================================= */
+
+.cv-page-hero {
+  padding-top: 52px;
+  padding-bottom: 58px;
+}
+
+.cv-hero-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1.2fr) minmax(320px, 0.8fr);
+  gap: 58px;
+  align-items: start;
+}
+
+.cv-page-name {
+  max-width: none;
+  margin-bottom: 7px;
+  white-space: nowrap;
+}
+
+.cv-page-role {
+  margin: 0 0 24px;
+
+  color: var(--navy);
+
+  font-family: "Source Serif 4", Georgia, serif;
+  font-size: clamp(1.25rem, 2vw, 1.55rem);
+  font-weight: 700;
+}
+
+.cv-hero-grid .lead {
+  max-width: 68ch;
+}
+
+.cv-print-button {
+  cursor: pointer;
+  font: inherit;
+}
+
+
+/* =========================================================
+   OVERVIEW CARD
+   ========================================================= */
+
+.cv-overview-card {
+  padding: 28px 29px;
+
+  border: 1px solid var(--line);
+  border-top: 3px solid var(--gold);
+  border-radius: var(--radius-lg);
+
+  background: var(--paper);
+
+  box-shadow: var(--shadow-sm);
+}
+
+.cv-overview-list {
+  margin: 0;
+}
+
+.cv-overview-list div {
+  display: grid;
+  grid-template-columns: 145px minmax(0, 1fr);
+  gap: 15px;
+
+  padding: 12px 0;
+
+  border-top: 1px solid var(--line);
+}
+
+.cv-overview-list div:first-child {
+  padding-top: 3px;
+  border-top: 0;
+}
+
+.cv-overview-list dt {
+  color: var(--muted);
+
+  font-size: 0.8rem;
+  font-weight: 700;
+  line-height: 1.45;
+}
+
+.cv-overview-list dd {
+  margin: 0;
+
+  color: var(--navy);
+
+  font-size: 0.9rem;
+  font-weight: 750;
+  line-height: 1.45;
+}
+
+
+/* =========================================================
+   WIDTH / HEADINGS
+   ========================================================= */
+
+.cv-content-width {
+  max-width: 1080px;
+}
+
+.cv-section-heading {
+  max-width: 760px;
+}
+
+.cv-profile-section {
+  padding-top: 58px;
+  padding-bottom: 58px;
+}
+
+.cv-profile-section h2 {
+  max-width: 18ch;
+}
+
+.cv-profile-text {
+  max-width: 78ch;
+}
+
+
+/* =========================================================
+   EXPERIENCE
+   ========================================================= */
+
+.cv-role-list {
+  display: grid;
+  gap: 0;
+}
+
+.cv-role {
+  display: grid;
+  grid-template-columns: 155px minmax(0, 1fr);
+  gap: 38px;
+
+  padding: 30px 0;
+
+  border-top: 1px solid var(--line);
+}
+
+.cv-role:first-child {
+  padding-top: 6px;
+  border-top: 0;
+}
+
+.cv-role-meta {
+  padding-top: 4px;
+}
+
+.cv-role-date {
+  margin: 0 0 5px;
+
+  color: var(--gold);
+
+  font-size: 0.8rem;
+  font-weight: 800;
+  letter-spacing: 0.035em;
+  text-transform: uppercase;
+}
+
+.cv-role-location {
+  margin: 0;
+
+  color: var(--muted);
+
+  font-size: 0.84rem;
+}
+
+.cv-role-main h3 {
+  margin-bottom: 4px;
+
+  font-size: 1.38rem;
+}
+
+.cv-role-organisation {
+  margin: 0 0 15px;
+
+  color: var(--slate);
+
+  font-size: 0.93rem;
+  font-weight: 750;
+}
+
+.cv-role-main ul {
+  display: grid;
+  gap: 8px;
+
+  margin: 0;
+  padding-left: 20px;
+}
+
+.cv-role-main li {
+  color: #44515d;
+  line-height: 1.55;
+}
+
+
+/* =========================================================
+   EDUCATION
+   ========================================================= */
+
+.cv-education-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 18px;
+}
+
+.cv-education-card {
+  padding: 25px;
+
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+
+  background: var(--paper);
+
+  box-shadow: 0 7px 22px rgba(18, 35, 61, 0.04);
+}
+
+.cv-education-featured {
+  border-top: 3px solid var(--gold);
+}
+
+.cv-education-date,
+.cv-small-date {
+  margin: 0 0 7px;
+
+  color: var(--gold);
+
+  font-size: 0.76rem;
+  font-weight: 800;
+  letter-spacing: 0.055em;
+  text-transform: uppercase;
+}
+
+.cv-education-card h3 {
+  margin-bottom: 5px;
+
+  font-size: 1.3rem;
+}
+
+.cv-education-provider {
+  margin: 0 0 12px;
+
+  color: var(--slate);
+
+  font-size: 0.91rem;
+  font-weight: 750;
+}
+
+.cv-education-result {
+  display: inline-block;
+
+  margin: 0 0 13px;
+  padding: 4px 9px;
+
+  border: 1px solid #dec99d;
+  border-radius: 999px;
+
+  background: #fffaf0;
+  color: var(--navy);
+
+  font-size: 0.74rem;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.cv-education-card p:last-child {
+  margin-bottom: 0;
+}
+
+
+/* =========================================================
+   EXPERTISE
+   ========================================================= */
+
+.cv-expertise-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 17px;
+}
+
+.cv-expertise-card {
+  padding: 24px 25px;
+
+  border-left: 3px solid var(--gold);
+
+  background: var(--paper);
+}
+
+.cv-expertise-card h3 {
+  margin-bottom: 8px;
+
+  font-size: 1.16rem;
+}
+
+.cv-expertise-card p {
+  margin-bottom: 0;
+
+  color: var(--muted);
+
+  font-size: 0.93rem;
+  line-height: 1.6;
+}
+
+
+/* =========================================================
+   ADDITIONAL EXPERIENCE
+   ========================================================= */
+
+.cv-additional-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 18px;
+}
+
+.cv-additional-grid article {
+  padding: 23px;
+
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+
+  background: var(--paper);
+}
+
+.cv-additional-grid h3 {
+  margin-bottom: 8px;
+
+  font-size: 1.12rem;
+}
+
+.cv-additional-grid p:last-child {
+  margin-bottom: 0;
+
+  color: var(--muted);
+
+  font-size: 0.91rem;
+}
+
+
+/* =========================================================
+   RESEARCH
+   ========================================================= */
+
+.cv-research-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1.15fr) minmax(310px, 0.85fr);
+  gap: 48px;
+  align-items: start;
+}
+
+.cv-research-grid > div > p {
+  max-width: 68ch;
+}
+
+.cv-research-card {
+  padding: 25px;
+
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+
+  background:
+    linear-gradient(
+      145deg,
+      #fffaf0 0%,
+      #ffffff 100%
+    );
+}
+
+.cv-research-card h3 {
+  margin-bottom: 9px;
+}
+
+.cv-research-card p {
+  color: var(--muted);
+}
+
+
+/* =========================================================
+   CTA
+   ========================================================= */
+
+.cv-cta-section {
+  padding-top: 58px;
+}
+
+
+/* =========================================================
+   TABLET
+   ========================================================= */
+
+@media (max-width: 1000px) {
+
+  .cv-hero-grid,
+  .cv-research-grid {
+    grid-template-columns: 1fr;
+    gap: 34px;
+  }
+
+  .cv-overview-card {
+    max-width: 720px;
+  }
+
+  .cv-additional-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+}
+
+
+@media (max-width: 760px) {
+
+  .cv-page-hero {
+    padding-top: 38px;
+    padding-bottom: 44px;
+  }
+
+  .cv-page-name {
+    white-space: normal;
+  }
+
+  .cv-role {
+    grid-template-columns: 1fr;
+    gap: 8px;
+  }
+
+  .cv-role-meta {
+    display: flex;
+    gap: 10px;
+    align-items: baseline;
+  }
+
+  .cv-education-grid,
+  .cv-expertise-grid,
+  .cv-additional-grid {
+    grid-template-columns: 1fr;
+  }
+
+}
+
+
+/* =========================================================
+   MOBILE
+   ========================================================= */
+
+@media (max-width: 600px) {
+
+  .cv-overview-card,
+  .cv-education-card,
+  .cv-additional-grid article,
+  .cv-research-card {
+    padding: 21px;
+  }
+
+  .cv-overview-list div {
+    grid-template-columns: 1fr;
+    gap: 3px;
+  }
+
+}
+
+
+/* =========================================================
+   PRINT / SAVE AS PDF
+   ========================================================= */
+
+@media print {
+
+  @page {
+    margin: 15mm;
+  }
+
+  body {
+    background: #fff !important;
+    color: #111 !important;
+    font-size: 10.5pt;
+  }
+
+  .site-header,
+  .site-footer,
+  .cv-action-row,
+  .cv-screen-only {
+    display: none !important;
+  }
+
+  .cv-page {
+    background: #fff !important;
+  }
+
+  .cv-page-hero,
+  .cv-profile-section,
+  .cv-experience-section,
+  .cv-education-section,
+  .cv-expertise-section,
+  .cv-additional-section,
+  .cv-research-section {
+    padding-top: 15px !important;
+    padding-bottom: 15px !important;
+    background: #fff !important;
+  }
+
+  .container,
+  .cv-content-width {
+    width: 100% !important;
+    max-width: none !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+
+  .cv-hero-grid {
+    display: block !important;
+  }
+
+  .cv-overview-card {
+    margin-top: 18px;
+    max-width: none !important;
+    box-shadow: none !important;
+  }
+
+  .cv-page-name {
+    font-size: 28pt !important;
+  }
+
+  .cv-page-role {
+    font-size: 13pt !important;
+  }
+
+  .cv-page-hero .lead {
+    font-size: 11pt !important;
+  }
+
+  .cv-role,
+  .cv-education-card,
+  .cv-expertise-card,
+  .cv-additional-grid article,
+  .cv-research-card,
+  .cv-overview-card {
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+
+  .cv-education-grid,
+  .cv-expertise-grid,
+  .cv-additional-grid,
+  .cv-research-grid {
+    gap: 10px !important;
+  }
+
+  .cv-education-card,
+  .cv-additional-grid article,
+  .cv-research-card,
+  .cv-overview-card {
+    box-shadow: none !important;
+  }
+
+  a {
+    color: inherit !important;
+    text-decoration: none !important;
+  }
+
+}
+
+
+/* END STAGE 7 — EMPLOYER-FACING CV */
+
+/* STAGE 7.1 — CV PROFILE TITLE */
+
+.cv-profile-title {
+  max-width: none;
+}
+
+.cv-profile-title span {
+  display: block;
+}
+
+@media (min-width: 761px) {
+
+  .cv-profile-title span {
+    white-space: nowrap;
+  }
+
+}
+
+@media (max-width: 760px) {
+
+  .cv-profile-title span {
+    white-space: normal;
+  }
+
+}
+
+/* STAGE 7.4 — TRADITIONAL PROFESSIONAL CV */
+
+
+/*
+   This CV intentionally does NOT inherit the visual language of
+   the website. It is a separate formal two-page professional document.
+*/
+
+.cv-print-document {
+  display: none;
+}
+
+
+@media print {
+
+  @page {
+    size: A4;
+    margin: 0;
+  }
+
+
+  *,
+  *::before,
+  *::after {
+    box-sizing: border-box;
+
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+  }
+
+
+  html,
+  body {
+    width: 210mm !important;
+
+    margin: 0 !important;
+    padding: 0 !important;
+
+    background: #ffffff !important;
+  }
+
+
+  body {
+    color: #1d2228 !important;
+
+    font-family:
+      "Arial",
+      "Helvetica",
+      sans-serif !important;
+
+    font-size: 9.25pt !important;
+    line-height: 1.3 !important;
+  }
+
+
+  /* ========================================================
+     REMOVE WEBSITE
+     ======================================================== */
+
+  .skip-link,
+  .site-header,
+  .site-footer,
+  .cv-page > section,
+  .cv-screen-only,
+  .cv-action-row {
+    display: none !important;
+  }
+
+
+  .cv-print-document {
+    display: block !important;
+
+    width: 210mm !important;
+  }
+
+
+  /* ========================================================
+     PAGE
+     ======================================================== */
+
+  .formal-cv-page {
+    position: relative;
+
+    width: 210mm !important;
+    height: 297mm !important;
+
+    margin: 0 !important;
+
+    /*
+       Smaller, conventional CV margins.
+       This gives materially more usable page area.
+    */
+    padding:
+      11mm
+      15mm
+      11mm !important;
+
+    overflow: hidden;
+
+    background: #ffffff !important;
+
+    page-break-after: always;
+    break-after: page;
+  }
+
+
+  .formal-cv-page:last-child {
+    page-break-after: auto;
+    break-after: auto;
+  }
+
+
+  /* ========================================================
+     NAME / CONTACT
+     ======================================================== */
+
+  .formal-cv-header {
+    margin-bottom: 5mm;
+    padding-bottom: 3.2mm;
+
+    border-bottom: 1.5pt solid #17283d;
+  }
+
+
+  .formal-cv-header h1 {
+    margin: 0 !important;
+
+    color: #17283d !important;
+
+    font-family:
+      "Georgia",
+      "Times New Roman",
+      serif !important;
+
+    font-size: 27pt !important;
+    font-weight: 700 !important;
+
+    letter-spacing: -0.02em !important;
+    line-height: 1 !important;
+  }
+
+
+  .formal-cv-profession {
+    margin: 1.5mm 0 1.6mm !important;
+
+    color: #333b44 !important;
+
+    font-size: 10.5pt !important;
+    font-weight: 700 !important;
+  }
+
+
+  .formal-cv-contact {
+    margin: 0 !important;
+
+    color: #4c555f !important;
+
+    font-size: 8.3pt !important;
+  }
+
+
+  .formal-cv-contact span {
+    margin: 0 1.4mm;
+  }
+
+
+  /* ========================================================
+     SECTION TITLES
+     ======================================================== */
+
+  .formal-cv-section {
+    margin-bottom: 4.5mm;
+  }
+
+
+  .formal-cv-section h2 {
+    margin:
+      0
+      0
+      2.3mm !important;
+
+    padding-bottom: 1.1mm;
+
+    border-bottom: 0.7pt solid #7d858d;
+
+    color: #17283d !important;
+
+    font-family:
+      "Georgia",
+      "Times New Roman",
+      serif !important;
+
+    font-size: 11.8pt !important;
+    font-weight: 700 !important;
+
+    line-height: 1.1 !important;
+  }
+
+
+  .formal-cv-section > p {
+    margin: 0 0 1.8mm !important;
+
+    color: #252b31 !important;
+
+    font-size: 8.75pt !important;
+    line-height: 1.33 !important;
+  }
+
+
+  /* ========================================================
+     QUALIFICATION SUMMARY
+     ======================================================== */
+
+  .formal-cv-qualification-line {
+    display: grid;
+
+    grid-template-columns:
+      0.92fr
+      0.65fr
+      1.43fr;
+
+    border-top: 0.65pt solid #c2c7cb;
+    border-bottom: 0.65pt solid #c2c7cb;
+  }
+
+
+  .formal-cv-qualification-line > div {
+    padding:
+      2.3mm
+      4mm
+      2.3mm
+      0;
+
+    border-right: 0.65pt solid #c2c7cb;
+  }
+
+
+  .formal-cv-qualification-line > div:not(:first-child) {
+    padding-left: 4mm;
+  }
+
+
+  .formal-cv-qualification-line > div:last-child {
+    border-right: 0;
+  }
+
+
+  .formal-cv-qualification-line strong {
+    display: block;
+
+    margin-bottom: 0.7mm;
+
+    color: #17283d !important;
+
+    font-family:
+      "Georgia",
+      "Times New Roman",
+      serif !important;
+
+    font-size: 8.7pt !important;
+  }
+
+
+  .formal-cv-qualification-line span {
+    color: #5a626b !important;
+
+    font-size: 7.4pt !important;
+  }
+
+
+  /* ========================================================
+     EXPERIENCE
+     ======================================================== */
+
+  .formal-cv-experience {
+    margin-bottom: 0;
+  }
+
+
+  .formal-cv-entry {
+    padding:
+      2.6mm
+      0
+      2.8mm;
+
+    border-bottom: 0.55pt solid #c6cbd0;
+
+    page-break-inside: avoid;
+    break-inside: avoid;
+  }
+
+
+  .formal-cv-entry:first-of-type {
+    padding-top: 0.4mm;
+  }
+
+
+  .formal-cv-entry:last-of-type {
+    border-bottom: 0;
+  }
+
+
+  .formal-cv-entry-heading {
+    display: grid;
+
+    grid-template-columns:
+      minmax(0, 1fr)
+      43mm;
+
+    gap: 7mm;
+
+    align-items: start;
+
+    margin-bottom: 1.2mm;
+  }
+
+
+  .formal-cv-entry h3 {
+    margin: 0 0 0.4mm !important;
+
+    color: #17283d !important;
+
+    font-family:
+      "Georgia",
+      "Times New Roman",
+      serif !important;
+
+    font-size: 9.7pt !important;
+    font-weight: 700 !important;
+
+    line-height: 1.15 !important;
+  }
+
+
+  .formal-cv-employer {
+    margin: 0 !important;
+
+    color: #505963 !important;
+
+    font-size: 7.8pt !important;
+    font-weight: 700 !important;
+  }
+
+
+  .formal-cv-date {
+    margin: 0 !important;
+
+    color: #3f4851 !important;
+
+    font-size: 7.7pt !important;
+    font-weight: 700 !important;
+
+    text-align: right;
+
+    white-space: nowrap;
+  }
+
+
+  .formal-cv-entry ul {
+    margin:
+      0
+      0
+      0
+      4.7mm !important;
+
+    padding: 0 !important;
+  }
+
+
+  .formal-cv-entry li {
+    margin-bottom: 0.65mm;
+
+    color: #252b31 !important;
+
+    font-size: 8.15pt !important;
+    line-height: 1.27 !important;
+  }
+
+
+  /* ========================================================
+     PAGE 2 RUNNING HEADER
+     ======================================================== */
+
+  .formal-cv-running-header {
+    display: flex;
+
+    justify-content: space-between;
+    align-items: baseline;
+
+    margin-bottom: 4mm;
+    padding-bottom: 2.3mm;
+
+    border-bottom: 1.4pt solid #17283d;
+  }
+
+
+  .formal-cv-running-header strong {
+    color: #17283d !important;
+
+    font-family:
+      "Georgia",
+      "Times New Roman",
+      serif !important;
+
+    font-size: 13.5pt !important;
+  }
+
+
+  .formal-cv-running-header span {
+    color: #4c555e !important;
+
+    font-size: 8pt !important;
+  }
+
+
+  /* ========================================================
+     EDUCATION
+     ======================================================== */
+
+  .formal-cv-education-entry,
+  .formal-cv-additional-entry {
+    display: grid;
+
+    grid-template-columns:
+      minmax(0, 1fr)
+      44mm;
+
+    gap: 6mm;
+
+    padding: 2.1mm 0;
+
+    border-bottom: 0.55pt solid #c8cdd1;
+
+    page-break-inside: avoid;
+    break-inside: avoid;
+  }
+
+
+  .formal-cv-education-entry h3,
+  .formal-cv-additional-entry h3,
+  .formal-cv-research-entry h3 {
+    margin: 0 0 0.5mm !important;
+
+    color: #17283d !important;
+
+    font-family:
+      "Georgia",
+      "Times New Roman",
+      serif !important;
+
+    font-size: 9pt !important;
+  }
+
+
+  .formal-cv-education-entry p,
+  .formal-cv-additional-entry p {
+    margin: 0 !important;
+
+    color: #4f5861 !important;
+
+    font-size: 7.7pt !important;
+    line-height: 1.27 !important;
+  }
+
+
+  .formal-cv-education-entry > span,
+  .formal-cv-additional-entry > span {
+    color: #3e4750 !important;
+
+    font-size: 7.5pt !important;
+    font-weight: 700 !important;
+
+    text-align: right;
+
+    white-space: nowrap;
+  }
+
+
+  /* ========================================================
+     EXPERTISE
+     ======================================================== */
+
+  .formal-cv-expertise-grid {
+    display: grid;
+
+    grid-template-columns:
+      repeat(2, minmax(0, 1fr));
+
+    gap:
+      3.2mm
+      8mm;
+  }
+
+
+  .formal-cv-expertise-grid > div {
+    page-break-inside: avoid;
+    break-inside: avoid;
+  }
+
+
+  .formal-cv-expertise-grid h3 {
+    margin: 0 0 0.8mm !important;
+
+    color: #17283d !important;
+
+    font-family:
+      "Georgia",
+      "Times New Roman",
+      serif !important;
+
+    font-size: 8.8pt !important;
+  }
+
+
+  .formal-cv-expertise-grid p {
+    margin: 0 !important;
+
+    color: #30373e !important;
+
+    font-size: 7.75pt !important;
+    line-height: 1.3 !important;
+  }
+
+
+  /* ========================================================
+     RESEARCH
+     ======================================================== */
+
+  .formal-cv-research-entry {
+    margin-bottom: 3mm;
+
+    page-break-inside: avoid;
+    break-inside: avoid;
+  }
+
+
+  .formal-cv-research-entry p {
+    margin: 0 !important;
+
+    color: #30373e !important;
+
+    font-size: 7.8pt !important;
+    line-height: 1.3 !important;
+  }
+
+
+  /* ========================================================
+     STRENGTHS
+     ======================================================== */
+
+  .formal-cv-final-profile {
+    margin-bottom: 0;
+  }
+
+
+  .formal-cv-strengths {
+    display: grid;
+
+    grid-template-columns:
+      repeat(2, minmax(0, 1fr));
+
+    gap:
+      1.3mm
+      8mm;
+
+    margin:
+      0
+      0
+      0
+      4.5mm !important;
+
+    padding: 0 !important;
+  }
+
+
+  .formal-cv-strengths li {
+    color: #252c32 !important;
+
+    font-size: 7.8pt !important;
+    line-height: 1.25 !important;
+  }
+
+
+  /* ========================================================
+     FOOTER
+     ======================================================== */
+
+  .formal-cv-footer {
+    position: absolute;
+
+    right: 15mm;
+    bottom: 6mm;
+    left: 15mm;
+
+    display: flex;
+
+    justify-content: space-between;
+
+    padding-top: 1.5mm;
+
+    border-top: 0.55pt solid #bfc5ca;
+
+    color: #6b737b !important;
+
+    font-size: 6.7pt !important;
+  }
+
+
+  /* ========================================================
+     CLEAN PRINT OUTPUT
+     ======================================================== */
+
+  a,
+  a:visited {
+    color: inherit !important;
+
+    text-decoration: none !important;
+  }
+
+
+  a[href]::after {
+    content: none !important;
+  }
+
+}
+
+
+/* END STAGE 7.4 — TRADITIONAL PROFESSIONAL CV */
+
+/* STAGE 7.5 — FORMAL CV TYPOGRAPHY AND PAGE FILL */
+
+
+/*
+   Final refinement of the dedicated two-page CV.
+
+   Objectives:
+   - use more of each A4 page naturally;
+   - increase readability rather than filling space decoratively;
+   - use conventional formal-document proportions;
+   - justify substantive prose;
+   - keep headings, dates, labels and contact details conventionally aligned.
+*/
+
+
+@media print {
+
+
+  /* ========================================================
+     PAGE GEOMETRY
+     ======================================================== */
+
+  .formal-cv-page {
+    /*
+       Slightly more traditional document margins.
+       The narrower text measure creates better paragraph proportions
+       and naturally uses more vertical space.
+    */
+    padding:
+      12mm
+      18mm
+      11mm !important;
+  }
+
+
+  /* ========================================================
+     GENERAL BODY TYPOGRAPHY
+     ======================================================== */
+
+  body {
+    font-size: 9.6pt !important;
+    line-height: 1.38 !important;
+  }
+
+
+  /*
+     Justify meaningful full-sentence prose.
+
+     text-align-last prevents a short final line being stretched
+     across the entire measure.
+  */
+
+  .formal-cv-section > p,
+  .formal-cv-entry li,
+  .formal-cv-expertise-grid p,
+  .formal-cv-additional-entry p,
+  .formal-cv-research-entry p {
+    text-align: justify !important;
+    text-align-last: left !important;
+
+    text-justify: inter-word;
+
+    hyphens: auto;
+    -webkit-hyphens: auto;
+  }
+
+
+  /* ========================================================
+     PAGE 1 HEADER
+     ======================================================== */
+
+  .formal-cv-header {
+    margin-bottom: 6mm;
+
+    padding-bottom: 3.8mm;
+  }
+
+
+  .formal-cv-header h1 {
+    font-size: 28pt !important;
+  }
+
+
+  .formal-cv-profession {
+    margin-top: 1.8mm !important;
+    margin-bottom: 1.9mm !important;
+
+    font-size: 11pt !important;
+  }
+
+
+  .formal-cv-contact {
+    font-size: 8.7pt !important;
+  }
+
+
+  /* ========================================================
+     SECTIONS
+     ======================================================== */
+
+  .formal-cv-section {
+    margin-bottom: 5.8mm;
+  }
+
+
+  .formal-cv-section h2 {
+    margin-bottom: 2.8mm !important;
+
+    padding-bottom: 1.4mm;
+
+    font-size: 12.4pt !important;
+  }
+
+
+  .formal-cv-section > p {
+    margin-bottom: 2.4mm !important;
+
+    font-size: 9.25pt !important;
+    line-height: 1.42 !important;
+  }
+
+
+  /* ========================================================
+     PROFESSIONAL QUALIFICATIONS
+
+     Replace the web-like three-column strip with conventional
+     horizontal CV rows.
+     ======================================================== */
+
+  .formal-cv-qualification-line {
+    display: grid !important;
+
+    grid-template-columns: 1fr !important;
+
+    border-top: 0.7pt solid #aeb4ba;
+    border-bottom: 0 !important;
+  }
+
+
+  .formal-cv-qualification-line > div {
+    display: flex !important;
+
+    align-items: baseline;
+    justify-content: space-between;
+
+    gap: 8mm;
+
+    min-height: 0 !important;
+
+    padding:
+      2.6mm
+      0 !important;
+
+    border-right: 0 !important;
+    border-bottom: 0.7pt solid #c8cdd1;
+  }
+
+
+  .formal-cv-qualification-line > div:not(:first-child) {
+    padding-left: 0 !important;
+  }
+
+
+  .formal-cv-qualification-line strong {
+    margin: 0 !important;
+
+    font-size: 9.2pt !important;
+  }
+
+
+  .formal-cv-qualification-line span {
+    flex: 0 0 auto;
+
+    font-size: 8.1pt !important;
+
+    text-align: right;
+
+    white-space: nowrap;
+  }
+
+
+  /* ========================================================
+     PROFESSIONAL EXPERIENCE
+     ======================================================== */
+
+  .formal-cv-entry {
+    padding:
+      3.4mm
+      0
+      3.6mm !important;
+  }
+
+
+  .formal-cv-entry:first-of-type {
+    padding-top: 0.8mm !important;
+  }
+
+
+  .formal-cv-entry-heading {
+    grid-template-columns:
+      minmax(0, 1fr)
+      46mm !important;
+
+    margin-bottom: 1.6mm !important;
+  }
+
+
+  .formal-cv-entry h3 {
+    margin-bottom: 0.6mm !important;
+
+    font-size: 10.2pt !important;
+  }
+
+
+  .formal-cv-employer {
+    font-size: 8.25pt !important;
+  }
+
+
+  .formal-cv-date {
+    font-size: 8.05pt !important;
+  }
+
+
+  .formal-cv-entry ul {
+    margin-left: 5mm !important;
+  }
+
+
+  .formal-cv-entry li {
+    margin-bottom: 0.95mm !important;
+
+    font-size: 8.75pt !important;
+    line-height: 1.34 !important;
+  }
+
+
+  /* ========================================================
+     PAGE 2 HEADER
+     ======================================================== */
+
+  .formal-cv-running-header {
+    margin-bottom: 5mm;
+
+    padding-bottom: 2.8mm;
+  }
+
+
+  .formal-cv-running-header strong {
+    font-size: 14.5pt !important;
+  }
+
+
+  .formal-cv-running-header span {
+    font-size: 8.5pt !important;
+  }
+
+
+  /* ========================================================
+     EDUCATION
+     ======================================================== */
+
+  .formal-cv-education-entry,
+  .formal-cv-additional-entry {
+    grid-template-columns:
+      minmax(0, 1fr)
+      48mm !important;
+
+    padding:
+      2.8mm
+      0 !important;
+  }
+
+
+  .formal-cv-education-entry h3,
+  .formal-cv-additional-entry h3,
+  .formal-cv-research-entry h3 {
+    margin-bottom: 0.7mm !important;
+
+    font-size: 9.55pt !important;
+  }
+
+
+  .formal-cv-education-entry p,
+  .formal-cv-additional-entry p {
+    font-size: 8.35pt !important;
+    line-height: 1.34 !important;
+  }
+
+
+  .formal-cv-education-entry > span,
+  .formal-cv-additional-entry > span {
+    font-size: 8pt !important;
+  }
+
+
+  /* ========================================================
+     MATHEMATICS AND TEACHING EXPERTISE
+     ======================================================== */
+
+  .formal-cv-expertise-grid {
+    gap:
+      4.3mm
+      9mm !important;
+  }
+
+
+  .formal-cv-expertise-grid h3 {
+    margin-bottom: 1mm !important;
+
+    font-size: 9.45pt !important;
+  }
+
+
+  .formal-cv-expertise-grid p {
+    font-size: 8.45pt !important;
+    line-height: 1.38 !important;
+  }
+
+
+  /* ========================================================
+     ADDITIONAL EXPERIENCE
+     ======================================================== */
+
+  .formal-cv-additional-entry {
+    padding-top: 3mm !important;
+    padding-bottom: 3mm !important;
+  }
+
+
+  /* ========================================================
+     RESEARCH
+     ======================================================== */
+
+  .formal-cv-research-entry {
+    margin-bottom: 4.2mm !important;
+  }
+
+
+  .formal-cv-research-entry p {
+    font-size: 8.55pt !important;
+    line-height: 1.4 !important;
+  }
+
+
+  /* ========================================================
+     PROFESSIONAL STRENGTHS
+
+     A single formal list is more natural than two web-like
+     compressed columns, and also improves use of vertical space.
+     ======================================================== */
+
+  .formal-cv-strengths {
+    display: grid !important;
+
+    grid-template-columns: 1fr !important;
+
+    gap: 1.8mm !important;
+
+    margin-left: 5mm !important;
+  }
+
+
+  .formal-cv-strengths li {
+    font-size: 8.55pt !important;
+    line-height: 1.32 !important;
+  }
+
+
+  /* ========================================================
+     FOOTER POSITION
+     ======================================================== */
+
+  .formal-cv-footer {
+    right: 18mm !important;
+    left: 18mm !important;
+
+    bottom: 6mm;
+
+    font-size: 7pt !important;
+  }
+
+}
+
+
+/* END STAGE 7.5 — FORMAL CV TYPOGRAPHY AND PAGE FILL */
+
+/* STAGE 7.6 — BALANCED FORMAL CV */
+
+@media print {
+
+
+  /* ========================================================
+     PAGE GEOMETRY
+     ======================================================== */
+
+  .formal-cv-page {
+    padding:
+      11mm
+      16mm
+      10mm !important;
+  }
+
+
+  /* ========================================================
+     GENERAL TYPOGRAPHY
+     ======================================================== */
+
+  body {
+    font-size: 9.35pt !important;
+    line-height: 1.34 !important;
+  }
+
+
+  /*
+     Keep the justified formal appearance, but do not allow
+     browser-generated word hyphenation.
+  */
+
+  .formal-cv-section > p,
+  .formal-cv-entry li,
+  .formal-cv-expertise-grid p,
+  .formal-cv-additional-entry p,
+  .formal-cv-research-entry p {
+    text-align: justify !important;
+    text-align-last: left !important;
+
+    text-justify: inter-word;
+
+    hyphens: none !important;
+    -webkit-hyphens: none !important;
+  }
+
+
+  /* ========================================================
+     PAGE 1 HEADER
+     ======================================================== */
+
+  .formal-cv-header {
+    margin-bottom: 5.2mm !important;
+    padding-bottom: 3.3mm !important;
+  }
+
+
+  .formal-cv-header h1 {
+    font-size: 27.5pt !important;
+  }
+
+
+  .formal-cv-profession {
+    margin-top: 1.6mm !important;
+    margin-bottom: 1.7mm !important;
+
+    font-size: 10.7pt !important;
+  }
+
+
+  .formal-cv-contact {
+    font-size: 8.5pt !important;
+  }
+
+
+  /* ========================================================
+     SECTIONS
+     ======================================================== */
+
+  .formal-cv-section {
+    margin-bottom: 5mm !important;
+  }
+
+
+  .formal-cv-section h2 {
+    margin-bottom: 2.4mm !important;
+    padding-bottom: 1.2mm !important;
+
+    font-size: 12.1pt !important;
+  }
+
+
+  .formal-cv-section > p {
+    margin-bottom: 2mm !important;
+
+    font-size: 9pt !important;
+    line-height: 1.36 !important;
+  }
+
+
+  /* ========================================================
+     QUALIFICATIONS
+     ======================================================== */
+
+  .formal-cv-qualification-line > div {
+    padding:
+      2.2mm
+      0 !important;
+  }
+
+
+  .formal-cv-qualification-line strong {
+    font-size: 9pt !important;
+  }
+
+
+  .formal-cv-qualification-line span {
+    font-size: 7.9pt !important;
+  }
+
+
+  /* ========================================================
+     PROFESSIONAL EXPERIENCE
+     ======================================================== */
+
+  .formal-cv-entry {
+    padding:
+      2.8mm
+      0
+      3mm !important;
+  }
+
+
+  .formal-cv-entry:first-of-type {
+    padding-top: 0.5mm !important;
+  }
+
+
+  .formal-cv-entry-heading {
+    grid-template-columns:
+      minmax(0, 1fr)
+      45mm !important;
+
+    margin-bottom: 1.3mm !important;
+  }
+
+
+  .formal-cv-entry h3 {
+    margin-bottom: 0.5mm !important;
+
+    font-size: 9.9pt !important;
+  }
+
+
+  .formal-cv-employer {
+    font-size: 8.05pt !important;
+  }
+
+
+  .formal-cv-date {
+    font-size: 7.8pt !important;
+  }
+
+
+  .formal-cv-entry ul {
+    margin-left: 4.8mm !important;
+  }
+
+
+  .formal-cv-entry li {
+    margin-bottom: 0.7mm !important;
+
+    font-size: 8.5pt !important;
+    line-height: 1.29 !important;
+  }
+
+
+  /* ========================================================
+     PAGE 2 HEADER
+     ======================================================== */
+
+  .formal-cv-running-header {
+    margin-bottom: 4.4mm !important;
+    padding-bottom: 2.5mm !important;
+  }
+
+
+  .formal-cv-running-header strong {
+    font-size: 14pt !important;
+  }
+
+
+  .formal-cv-running-header span {
+    font-size: 8.25pt !important;
+  }
+
+
+  /* ========================================================
+     EDUCATION / ADDITIONAL EXPERIENCE
+     ======================================================== */
+
+  .formal-cv-education-entry,
+  .formal-cv-additional-entry {
+    grid-template-columns:
+      minmax(0, 1fr)
+      46mm !important;
+
+    padding:
+      2.4mm
+      0 !important;
+  }
+
+
+  .formal-cv-education-entry h3,
+  .formal-cv-additional-entry h3,
+  .formal-cv-research-entry h3 {
+    margin-bottom: 0.55mm !important;
+
+    font-size: 9.3pt !important;
+  }
+
+
+  .formal-cv-education-entry p,
+  .formal-cv-additional-entry p {
+    font-size: 8.1pt !important;
+    line-height: 1.3 !important;
+  }
+
+
+  .formal-cv-education-entry > span,
+  .formal-cv-additional-entry > span {
+    font-size: 7.8pt !important;
+  }
+
+
+  /* ========================================================
+     EXPERTISE
+     ======================================================== */
+
+  .formal-cv-expertise-grid {
+    gap:
+      3.6mm
+      8.5mm !important;
+  }
+
+
+  .formal-cv-expertise-grid h3 {
+    margin-bottom: 0.8mm !important;
+
+    font-size: 9.2pt !important;
+  }
+
+
+  .formal-cv-expertise-grid p {
+    font-size: 8.2pt !important;
+    line-height: 1.33 !important;
+  }
+
+
+  /* ========================================================
+     RESEARCH
+     ======================================================== */
+
+  .formal-cv-research-entry {
+    margin-bottom: 3.4mm !important;
+  }
+
+
+  .formal-cv-research-entry p {
+    font-size: 8.3pt !important;
+    line-height: 1.34 !important;
+  }
+
+
+  /* ========================================================
+     PROFESSIONAL STRENGTHS
+
+     Two columns again: compact but still formal.
+     ======================================================== */
+
+  .formal-cv-strengths {
+    display: grid !important;
+
+    grid-template-columns:
+      repeat(2, minmax(0, 1fr)) !important;
+
+    gap:
+      1.3mm
+      8mm !important;
+
+    margin-left: 4.5mm !important;
+  }
+
+
+  .formal-cv-strengths li {
+    font-size: 8.2pt !important;
+    line-height: 1.28 !important;
+  }
+
+
+  /* ========================================================
+     FOOTER
+     ======================================================== */
+
+  .formal-cv-footer {
+    right: 16mm !important;
+    left: 16mm !important;
+
+    bottom: 5.5mm !important;
+
+    font-size: 6.9pt !important;
+  }
+
+}
+
+
+/* END STAGE 7.6 — BALANCED FORMAL CV */
+
+/* STAGE 7.7 — QUALIFICATIONS RULE CLEANUP */
+
+@media print {
+
+  .formal-cv-qualification-line {
+    border-top: 0 !important;
+  }
+
+}
+
+/* END STAGE 7.7 — QUALIFICATIONS RULE CLEANUP */
