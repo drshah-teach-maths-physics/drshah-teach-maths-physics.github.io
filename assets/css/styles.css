@@ -3881,3 +3881,53 @@ p {
 
 
 /* END STAGE 6 — ACADEMIC PROFILE */
+
+/* KS5 TONE CLEANUP — HOME DEPTH LAYOUT */
+
+.home-depth-grid {
+  display: block;
+  max-width: 850px;
+}
+
+/* STAGE 6 PREP — COMPACT TEACHING HERO */
+
+
+/*
+   The Teaching hero was slightly too tall on desktop, leaving only
+   the next section's eyebrow visible at the bottom of the viewport.
+
+   Compact the hero enough for the next section heading to begin
+   visibly, matching the rhythm of the Experience and Academic pages.
+*/
+
+@media (min-width: 1001px) {
+
+  .teaching-page-hero {
+    padding-top: 42px;
+    padding-bottom: 42px;
+  }
+
+  .teaching-summary-card {
+    padding: 23px 27px;
+  }
+
+  .teaching-summary-list li {
+    padding: 11px 0;
+  }
+
+  .teaching-summary-list li:first-child {
+    padding-top: 2px;
+  }
+
+  .teaching-summary-list li:last-child {
+    padding-bottom: 0;
+  }
+
+  .teaching-summary-list span {
+    line-height: 1.45;
+  }
+
+}
+
+
+/* END STAGE 6 PREP — COMPACT TEACHING HERO */
