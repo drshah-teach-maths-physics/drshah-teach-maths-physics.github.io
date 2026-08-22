@@ -7753,38 +7753,18 @@ p {
 
 /* END STAGE 9.5 — ACCESSIBLE RESOURCE LIBRARY */
 
-/* STAGE 9.6 — RESOURCE INTEGRITY + SEARCH TAGS */
+/* =========================================================
+   FINAL QA — 404 SHORT-PAGE FOOTER
+   ========================================================= */
 
-.resource11-tags {
+.page-404 {
   display: flex;
-
-  flex-wrap: wrap;
-
-  gap: 5px;
-
-  margin-top: 9px;
+  min-height: 100vh;
+  flex-direction: column;
 }
 
-.resource11-tags span {
-  display: inline-block;
-
-  padding: 3px 7px;
-
-  border: 1px solid var(--line);
-  border-radius: 999px;
-
-  color: #69737d;
-
-  font-size: 0.65rem;
-  font-weight: 700;
-
-  line-height: 1.2;
+.page-404 > main {
+  flex: 1 0 auto;
 }
 
-.resource10-item-main
-.resource10-description
-+ .resource11-tags {
-  margin-top: 10px;
-}
-
-/* END STAGE 9.6 — RESOURCE INTEGRITY + SEARCH TAGS */
+/* END FINAL QA — 404 SHORT-PAGE FOOTER */
