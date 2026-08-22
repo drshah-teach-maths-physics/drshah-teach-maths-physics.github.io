@@ -2174,3 +2174,542 @@ p {
     min-height: auto;
   }
 }
+
+/* STAGE 4 — TEACHING PAGE */
+
+
+/* =========================================================
+   HERO
+   ========================================================= */
+
+.teaching-page-hero {
+  padding-top: 58px;
+  padding-bottom: 64px;
+}
+
+.teaching-hero-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1.22fr) minmax(320px, 0.78fr);
+  gap: 60px;
+  align-items: start;
+}
+
+.teaching-hero-grid > div {
+  max-width: 790px;
+}
+
+.teaching-hero-grid h1 {
+  max-width: 16ch;
+}
+
+.teaching-hero-grid .lead {
+  max-width: 68ch;
+}
+
+.teaching-summary-card {
+  padding: 27px 29px;
+
+  border: 1px solid var(--line);
+  border-radius: var(--radius-lg);
+
+  background:
+    linear-gradient(
+      145deg,
+      #f5f7f8 0%,
+      #ffffff 100%
+    );
+
+  box-shadow: var(--shadow-sm);
+}
+
+.teaching-summary-list {
+  display: grid;
+  gap: 0;
+
+  margin: 0;
+  padding: 0;
+
+  list-style: none;
+}
+
+.teaching-summary-list li {
+  display: grid;
+  gap: 3px;
+
+  padding: 15px 0;
+
+  border-bottom: 1px solid var(--line);
+}
+
+.teaching-summary-list li:first-child {
+  padding-top: 4px;
+}
+
+.teaching-summary-list li:last-child {
+  padding-bottom: 0;
+  border-bottom: 0;
+}
+
+.teaching-summary-list strong {
+  color: var(--navy);
+
+  font-family: "Source Serif 4", Georgia, serif;
+  font-size: 1.08rem;
+}
+
+.teaching-summary-list span {
+  color: var(--muted);
+
+  font-size: 0.92rem;
+  line-height: 1.55;
+}
+
+
+/* =========================================================
+   SHARED
+   ========================================================= */
+
+.teaching-section-heading {
+  max-width: 800px;
+}
+
+.teaching-section-heading > p:last-child {
+  max-width: 70ch;
+  color: var(--muted);
+}
+
+
+/* =========================================================
+   PRINCIPLES
+   ========================================================= */
+
+.teaching-principles-grid {
+  display: grid;
+
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+
+  gap: 18px;
+}
+
+.teaching-principle-card {
+  position: relative;
+
+  padding: 26px 23px 24px;
+
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+
+  background: var(--paper);
+
+  box-shadow: 0 7px 22px rgba(18, 35, 61, 0.04);
+}
+
+.teaching-card-number {
+  display: block;
+
+  margin-bottom: 20px;
+
+  color: var(--gold);
+
+  font-family: "Source Serif 4", Georgia, serif;
+  font-size: 0.86rem;
+  font-weight: 700;
+}
+
+.teaching-principle-card h3 {
+  margin-bottom: 10px;
+
+  font-size: 1.2rem;
+}
+
+.teaching-principle-card p {
+  margin-bottom: 0;
+
+  color: #4a5763;
+
+  font-size: 0.94rem;
+  line-height: 1.62;
+}
+
+
+/* =========================================================
+   LESSON SEQUENCE
+   ========================================================= */
+
+.lesson-sequence {
+  display: grid;
+
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+
+  gap: 18px;
+}
+
+.lesson-step {
+  display: grid;
+
+  grid-template-columns: 42px minmax(0, 1fr);
+
+  gap: 15px;
+
+  padding: 23px;
+
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+
+  background: var(--paper);
+}
+
+.lesson-step-number {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  width: 38px;
+  height: 38px;
+
+  border: 1px solid #dec99d;
+  border-radius: 50%;
+
+  background: #fffaf0;
+  color: var(--navy);
+
+  font-family: "Source Serif 4", Georgia, serif;
+  font-weight: 700;
+}
+
+.lesson-step h3 {
+  margin: 2px 0 7px;
+
+  font-size: 1.08rem;
+}
+
+.lesson-step p {
+  margin: 0;
+
+  color: var(--muted);
+
+  font-size: 0.91rem;
+  line-height: 1.57;
+}
+
+
+/* =========================================================
+   ASSESSMENT / ADAPTIVE TEACHING
+   ========================================================= */
+
+.teaching-two-column {
+  display: grid;
+
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+
+  gap: 22px;
+}
+
+.teaching-feature-panel {
+  padding: 31px;
+
+  border: 1px solid var(--line);
+  border-radius: var(--radius-lg);
+
+  background: var(--paper);
+
+  box-shadow: var(--shadow-sm);
+}
+
+.teaching-feature-panel-accent {
+  background:
+    linear-gradient(
+      145deg,
+      #f5f7f8 0%,
+      #ffffff 100%
+    );
+}
+
+.teaching-feature-panel h2 {
+  font-size: clamp(1.65rem, 2.5vw, 2.1rem);
+}
+
+.feature-list {
+  display: grid;
+  gap: 10px;
+
+  margin: 22px 0 0;
+  padding: 0;
+
+  list-style: none;
+}
+
+.feature-list li {
+  position: relative;
+
+  padding-left: 22px;
+
+  color: #44515d;
+}
+
+.feature-list li::before {
+  content: "";
+
+  position: absolute;
+  top: 0.66em;
+  left: 0;
+
+  width: 7px;
+  height: 7px;
+
+  border-radius: 50%;
+
+  background: var(--gold);
+}
+
+
+/* =========================================================
+   CULTURE
+   ========================================================= */
+
+.teaching-culture-grid {
+  display: grid;
+
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+
+  gap: 18px;
+}
+
+.teaching-culture-grid article {
+  padding: 25px 26px;
+
+  border-left: 3px solid var(--gold);
+
+  background: rgba(255, 255, 255, 0.66);
+}
+
+.teaching-culture-grid h3 {
+  margin-bottom: 8px;
+}
+
+.teaching-culture-grid p {
+  margin-bottom: 0;
+
+  color: var(--muted);
+}
+
+
+/* =========================================================
+   IMPACT
+   ========================================================= */
+
+.teaching-impact-card {
+  display: grid;
+
+  grid-template-columns: 165px minmax(0, 1fr);
+
+  gap: 34px;
+  align-items: center;
+
+  padding: 36px 39px;
+
+  border: 1px solid #e5d6b5;
+  border-radius: var(--radius-lg);
+
+  background:
+    linear-gradient(
+      135deg,
+      #fff9ed 0%,
+      #fffdf9 58%,
+      #ffffff 100%
+    );
+
+  box-shadow: var(--shadow-sm);
+}
+
+.teaching-impact-number {
+  color: var(--navy);
+
+  font-family: "Source Serif 4", Georgia, serif;
+  font-size: clamp(3rem, 6vw, 4.4rem);
+  font-weight: 700;
+  line-height: 1;
+
+  text-align: center;
+}
+
+.teaching-impact-card h2 {
+  margin-bottom: 12px;
+}
+
+.teaching-impact-statement {
+  max-width: 70ch;
+
+  color: #35424f;
+
+  font-size: 1.08rem;
+  line-height: 1.65;
+}
+
+.teaching-impact-context {
+  max-width: 72ch;
+  margin-bottom: 0;
+
+  color: var(--muted);
+
+  font-size: 0.87rem;
+  line-height: 1.55;
+}
+
+
+/* =========================================================
+   PROFESSIONAL FORMATION
+   ========================================================= */
+
+.teaching-formation-grid {
+  display: grid;
+
+  grid-template-columns: minmax(0, 1.1fr) minmax(330px, 0.9fr);
+
+  gap: 55px;
+  align-items: start;
+}
+
+.teaching-formation-grid > div > p {
+  max-width: 69ch;
+}
+
+.development-card {
+  padding: 28px;
+
+  border: 1px solid var(--line);
+  border-radius: var(--radius-lg);
+
+  background: var(--paper);
+
+  box-shadow: var(--shadow-sm);
+}
+
+.development-card h3 {
+  font-size: 1.45rem;
+}
+
+.development-card p:last-child {
+  margin-bottom: 0;
+}
+
+
+/* =========================================================
+   CTA
+   ========================================================= */
+
+.teaching-page-cta-section {
+  padding-top: 58px;
+}
+
+
+/* =========================================================
+   TABLET
+   ========================================================= */
+
+@media (max-width: 1000px) {
+
+  .teaching-hero-grid {
+    grid-template-columns: 1fr;
+    gap: 34px;
+  }
+
+  .teaching-hero-grid h1 {
+    max-width: 21ch;
+  }
+
+  .teaching-summary-card {
+    max-width: 720px;
+  }
+
+  .teaching-principles-grid,
+  .lesson-sequence {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .teaching-formation-grid {
+    grid-template-columns: 1fr;
+    gap: 30px;
+  }
+}
+
+
+@media (max-width: 760px) {
+
+  .teaching-page-hero {
+    padding-top: 38px;
+    padding-bottom: 45px;
+  }
+
+  .teaching-two-column,
+  .teaching-culture-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .teaching-impact-card {
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+
+  .teaching-impact-number {
+    text-align: left;
+  }
+}
+
+
+/* =========================================================
+   MOBILE
+   ========================================================= */
+
+@media (max-width: 600px) {
+
+  .teaching-principles-grid,
+  .lesson-sequence {
+    grid-template-columns: 1fr;
+  }
+
+  .teaching-summary-card,
+  .teaching-feature-panel,
+  .development-card,
+  .teaching-impact-card {
+    padding: 22px;
+  }
+
+  .lesson-step {
+    padding: 20px;
+  }
+
+}
+
+
+/* END STAGE 4 — TEACHING PAGE */
+
+/* STAGE 4.1 — TEACHING TITLE LINE BREAKS */
+
+.teaching-page-title {
+  max-width: none;
+}
+
+.teaching-page-title span {
+  display: block;
+}
+
+
+/* Let the three intended lines remain intact on normal screens. */
+
+@media (min-width: 761px) {
+
+  .teaching-page-title span {
+    white-space: nowrap;
+  }
+}
+
+
+/* On narrow phones, allow natural wrapping rather than overflow. */
+
+@media (max-width: 760px) {
+
+  .teaching-page-title span {
+    white-space: normal;
+  }
+}
