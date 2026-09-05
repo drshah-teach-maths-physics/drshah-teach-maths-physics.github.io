@@ -659,6 +659,29 @@
     "page": "/resources/teachers/safeguarding-statutory/#resource-dfe-statutory-guidance-for-schools-gov-uk"
   },
   {
+    "name": "Diagnostic Questions",
+    "description": "Diagnostic multiple-choice questions designed to reveal misconceptions and support formative assessment in Mathematics and other subjects.",
+    "audience": "Teachers",
+    "category": "Assessment, questioning & misconceptions",
+    "source": "diagnosticquestions.com",
+    "tags": [
+      "Teacher",
+      "Assessment"
+    ],
+    "aliases": [
+      "diagnostic questions",
+      "diagnostic assessment",
+      "formative assessment",
+      "misconceptions",
+      "hinge questions",
+      "questioning",
+      "multiple choice",
+      "maths",
+      "mathematics"
+    ],
+    "page": "/resources/teachers/assessment-questioning-misconceptions/#resource-diagnostic-questions-diagnosticquestions-com"
+  },
+  {
     "name": "Directory of Open Access Books",
     "description": "Directory of open-access academic books from a range of publishers and disciplines.",
     "audience": "Further study",
@@ -894,24 +917,28 @@
   },
   {
     "name": "GeoGebra",
-    "description": "Dynamic Mathematics software for geometry, algebra, graphing, calculus and classroom visualisation.",
-    "audience": "Further study",
-    "category": "Academic & digital tools",
+    "description": "Interactive and visual Mathematics software for geometry, algebra, graphing, statistics, calculus and dynamic mathematical exploration.",
+    "audience": "Students",
+    "category": "Mathematics — Interactive & Visual Mathematics",
     "source": "geogebra.org",
     "tags": [
-      "Further study"
+      "Mathematics",
+      "Interactive",
+      "Visual"
     ],
     "aliases": [
-      "academic tools",
-      "digital tools",
-      "coding",
-      "LaTeX",
-      "Python",
-      "Git",
-      "computation",
-      "reference management"
+      "maths",
+      "mathematics",
+      "geometry",
+      "algebra",
+      "graphing",
+      "calculus",
+      "statistics",
+      "visualisation",
+      "interactive mathematics",
+      "dynamic geometry"
     ],
-    "page": "/resources/further-study/academic-digital-tools/#resource-geogebra-geogebra-org"
+    "page": "/resources/students/mathematics/#resource-geogebra-geogebra-org"
   },
   {
     "name": "Git",
@@ -1351,6 +1378,39 @@
     "page": "/resources/teachers/subject-professional-development/#resource-maths-hubs-ncetm-org-uk"
   },
   {
+    "name": "Maths White Board",
+    "description": "Interactive Mathematics teaching tools for live modelling, mini-whiteboard questioning, retrieval starters, worksheets, assessment and classroom practice.",
+    "audience": "Teachers",
+    "category": "Mathematics classroom tools",
+    "source": "mathswhiteboard.com",
+    "tags": [
+      "Teacher",
+      "Mathematics"
+    ],
+    "aliases": [
+      "maths",
+      "mathematics",
+      "teacher",
+      "teaching",
+      "classroom",
+      "whiteboard",
+      "whiteboards",
+      "mini whiteboard",
+      "mini whiteboards",
+      "MWB",
+      "retrieval",
+      "retrieval practice",
+      "starter",
+      "starters",
+      "worksheet",
+      "worksheets",
+      "assessment",
+      "questioning",
+      "modelling"
+    ],
+    "page": "/resources/teachers/mathematics-classroom-tools/#resource-maths-white-board-mathswhiteboard-com"
+  },
+  {
     "name": "Maths4Everyone",
     "description": "Interactive activities, worksheets and quizzes supporting Mathematics practice and fluency.",
     "audience": "Students",
@@ -1367,18 +1427,27 @@
   },
   {
     "name": "MathsBot",
-    "description": "Mathematics tools, manipulatives, question generators and classroom-style practice resources.",
-    "audience": "Students",
-    "category": "Mathematics",
+    "description": "Mathematics classroom tools, manipulatives, question generators and interactive resources for explanation, practice and assessment.",
+    "audience": "Teachers",
+    "category": "Mathematics classroom tools",
     "source": "mathsbot.com",
-    "tags": [],
+    "tags": [
+      "Teacher",
+      "Mathematics"
+    ],
     "aliases": [
       "maths",
       "mathematics",
-      "GCSE maths",
-      "A-level maths"
+      "teacher",
+      "teaching",
+      "classroom",
+      "manipulatives",
+      "question generator",
+      "assessment",
+      "practice",
+      "modelling"
     ],
-    "page": "/resources/students/mathematics/#resource-mathsbot-mathsbot-com"
+    "page": "/resources/teachers/mathematics-classroom-tools/#resource-mathsbot-mathsbot-com"
   },
   {
     "name": "Mentally Healthy Schools — Managing Exam Stress",
@@ -1635,16 +1704,25 @@
   },
   {
     "name": "NRICH",
-    "description": "Cambridge-based problem-solving resources for pupils and teachers, supporting mathematical reasoning and enrichment.",
+    "description": "Cambridge-based enrichment and problem-solving resources for pupils, with rich tasks and teacher guidance supporting mathematical reasoning.",
     "audience": "Students",
-    "category": "Mathematics",
+    "category": "Mathematics — Enrichment & Problem Solving",
     "source": "nrich.maths.org",
-    "tags": [],
+    "tags": [
+      "Mathematics",
+      "Enrichment",
+      "Problem solving"
+    ],
     "aliases": [
       "maths",
       "mathematics",
-      "GCSE maths",
-      "A-level maths"
+      "enrichment",
+      "problem solving",
+      "reasoning",
+      "rich tasks",
+      "teacher resources",
+      "investigation",
+      "challenge"
     ],
     "page": "/resources/students/mathematics/#resource-nrich-nrich-maths-org"
   },
@@ -2822,6 +2900,30 @@
     "page": "/resources/students/university-transition/#resource-tlmaths-sites-google-com"
   },
   {
+    "name": "Transum",
+    "description": "Mathematics starters, puzzles, investigations, visual aids, interactive activities and classroom resources.",
+    "audience": "Teachers",
+    "category": "Mathematics classroom tools",
+    "source": "transum.org",
+    "tags": [
+      "Teacher",
+      "Mathematics"
+    ],
+    "aliases": [
+      "maths",
+      "mathematics",
+      "teacher",
+      "classroom",
+      "starters",
+      "puzzles",
+      "investigations",
+      "visual aids",
+      "interactive activities",
+      "games"
+    ],
+    "page": "/resources/teachers/mathematics-classroom-tools/#resource-transum-transum-org"
+  },
+  {
     "name": "UKMT Competition Papers",
     "description": "Official recent UKMT papers and solutions, including Junior, Intermediate and Senior Mathematical Challenges.",
     "audience": "Students",
@@ -2936,22 +3038,26 @@
   },
   {
     "name": "Variation Theory",
-    "description": "Directory",
+    "description": "Carefully sequenced Mathematics examples and question sets supporting intelligent practice, comparison and mathematical thinking.",
     "audience": "Teachers",
-    "category": "Classroom & curriculum resources",
+    "category": "Planning, practice & pedagogy",
     "source": "variationtheory.com",
     "tags": [
-      "Teacher"
+      "Teacher",
+      "Mathematics"
     ],
     "aliases": [
       "teacher",
       "teaching",
-      "classroom",
-      "curriculum",
-      "lesson planning",
-      "instruction"
+      "mathematics",
+      "variation theory",
+      "intelligent practice",
+      "sequencing",
+      "practice",
+      "pedagogy",
+      "planning"
     ],
-    "page": "/resources/teachers/classroom-curriculum/#resource-variation-theory-variationtheory-com"
+    "page": "/resources/teachers/planning-practice-pedagogy/#resource-variation-theory-variationtheory-com"
   },
   {
     "name": "What Makes Great Teaching? — Coe et al.",
